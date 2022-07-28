@@ -876,6 +876,10 @@ INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\danjo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.toc
+INPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.toc
+INPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.toc
+OUTPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.toc
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
 INPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
