@@ -1,14 +1,14 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.blg'
-[164] biber-MSWIN64:340> INFO - === 
-[205] Biber.pm:418> INFO - Reading 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf'
-[361] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
-[379] Biber.pm:4383> INFO - Processing section 0
-[393] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[442] bibtex.pm:1713> INFO - LaTeX decoding ...
-[449] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
-[502] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[502] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[502] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[504] bbl.pm:654> INFO - Writing 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl' with encoding 'UTF-8'
-[506] bbl.pm:757> INFO - Output to C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl
+[133] biber-MSWIN64:340> INFO - === 
+[172] Biber.pm:418> INFO - Reading 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf'
+[303] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
+[321] Biber.pm:4383> INFO - Processing section 0
+[335] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[381] bibtex.pm:1713> INFO - LaTeX decoding ...
+[389] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[437] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[438] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[438] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[440] bbl.pm:654> INFO - Writing 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl' with encoding 'UTF-8'
+[441] bbl.pm:757> INFO - Output to C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl

@@ -85,32 +85,9 @@
         {\Large Julio 2022 \par}
     \end{titlepage}
 
+    \tableofcontents
+    \newpage
 
-    \lipsum[2]
-
-    $\mathbb{R}$
-    \begin{equation}
-        a^2=b^2+c^2
-    \end{equation}
-    \begin{equation}
-        \begin{bmatrix}
-            i&j&k\\
-            1&2&3\\
-            4&5&6
-        \end{bmatrix}
-    \end{equation}
-    \begin{itemize}
-        \item 1
-        \item 2
-        \item 3
-    \end{itemize}
-    \begin{enumerate}
-        \item a
-        \item b
-        \item c
-    \end{enumerate}
-
-    La referencia es citada en \cite{wen2020}
     \begin{abstract}
         Las celdas solares son dispositivos que convierten energía lumínica en 
         energía eléctrica útil a través de fenómenos electroquímicos. El desarrollo
@@ -123,15 +100,21 @@
         experimentos \textit{in silico} han ... 
     \end{abstract}
 
-    \tableofcontents
+
 
     \newpage
     \section{Introducción}
     \subsection{Problemática}
+    \input{lib/Introduccion/Problematica.tex}
     \subsection{Justificación}
+    \input{lib/Introduccion/Justificacion.tex}
     \subsection{Antecedentes}
+    \input{lib/Introduccion/Antecedentes.tex}
     \section{Marco Teórico}
     \subsection{Celdas solares sensibilizadas por tintes}
+    \input{lib/MarcoTeorico/CSST.tex}
+    \subsection{Enfoque dirigido por datos}
+    \input{lib/MarcoTeorico/DataDriven.tex}
     \section{Metodología}
 
     \printbibliography
