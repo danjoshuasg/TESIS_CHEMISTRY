@@ -1,0 +1,74 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{wen2020}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6bb5da5b75fec4d1785f070f62af9f72}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Yaping},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=07590dc939a9ad9b32ea293560c07f98}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Lulu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c7c75508a08c1701de93011995984875}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Gongqiang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=9c74031df681717b144d22e3c1eb68a1}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8212b4b9f135cf29b144763a86a92796}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Haibo},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{c07f6140f073d684eae466a0c7ef80d4}
+      \strng{fullhash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
+      \strng{bibnamehash}{c07f6140f073d684eae466a0c7ef80d4}
+      \strng{authorbibnamehash}{c07f6140f073d684eae466a0c7ef80d4}
+      \strng{authornamehash}{c07f6140f073d684eae466a0c7ef80d4}
+      \strng{authorfullhash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solar RRL}
+      \field{number}{6}
+      \field{title}{Accelerated Discovery of Potential Organic Dyes for Dye-Sensitized Solar Cells by Interpretable Machine Learning Models and Virtual Screening}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{2000110}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

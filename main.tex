@@ -14,10 +14,14 @@
 \usepackage{lipsum}
 \usepackage{graphicx}
 \usepackage{color}
+\usepackage[spanish]{babel}
 \usepackage{psfrag}
-\usepackage[spanish, mexico]{babel}
 \usepackage{pgfplots}
 \usepackage{bm}
+
+\usepackage{biblatex}
+\usepackage{csquotes}
+\addbibresource{biblio.bib}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Other Settings
@@ -51,13 +55,12 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Plotting Settings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepgfplotslibrary{colorbrewer}
-
 \pgfplotsset{width=8cm,compat=1.9}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Title & Author %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\title{Generación de potenciales mezclas de tintes naturales para DSSC con el enfoque direccionado por datos}
-\author{Dan Joshua Santivañez Gutarra}
+\title{Apuntes de Tesis de Licenciatura - 2022}
+\author{Haoyun Qin}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
@@ -81,14 +84,55 @@
         \vfill
         {\Large Julio 2022 \par}
     \end{titlepage}
-    \tableofcontents
+
+
+    \lipsum[2]
+
+    $\mathbb{R}$
+    \begin{equation}
+        a^2=b^2+c^2
+    \end{equation}
+    \begin{equation}
+        \begin{bmatrix}
+            i&j&k\\
+            1&2&3\\
+            4&5&6
+        \end{bmatrix}
+    \end{equation}
+    \begin{itemize}
+        \item 1
+        \item 2
+        \item 3
+    \end{itemize}
+    \begin{enumerate}
+        \item a
+        \item b
+        \item c
+    \end{enumerate}
+
+    La referencia es citada en \cite{wen2020}
     \begin{abstract}
         Las celdas solares son dispositivos que convierten energía lumínica en 
         energía eléctrica útil a través de fenómenos electroquímicos. El desarrollo
         de materiales sostenibles y con mayor eficiencia es un reto de investigación
         y también ambiental, ya que resolverlo conlleva explorar miles de millones de 
-        compuestos y hallar dicho tipos de materiales favorecerían el consumo de energías limpias.
-        
+        compuestos y hallar dicho tipos de materiales favorecerían el consumo de 
+        energías limpias. Esta exploración requiere recursos humanos y materiales que
+        muchos investigadores no pueden proporcionarse, es entonces que las simulaciones
+        computacionales y el enfoque dirigido por datos cobran importancia. El uso de 
+        experimentos \textit{in silico} han ... 
     \end{abstract}
-\end{document}
 
+    \tableofcontents
+
+    \newpage
+    \section{Introducción}
+    \subsection{Problemática}
+    \subsection{Justificación}
+    \subsection{Antecedentes}
+    \section{Marco Teórico}
+    \subsection{Celdas solares sensibilizadas por tintes}
+    \section{Metodología}
+
+    \printbibliography
+\end{document}
