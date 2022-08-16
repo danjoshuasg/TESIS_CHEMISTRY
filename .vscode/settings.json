@@ -1,5 +1,6 @@
 {
     "latex-workshop.view.pdf.invert": 1,
     "latex-workshop.view.pdf.invertMode.sepia": 0,
-    "latex-workshop.view.pdf.invertMode.brightness": 2
+    "latex-workshop.view.pdf.invertMode.brightness": 2,
+    "notebook.dragAndDropEnabled": true
 }
