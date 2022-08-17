@@ -7,3 +7,5 @@
 \contentsline {subsection}{\numberline {2.1}Celdas solares sensibilizadas por tintes}{3}{}%
 \contentsline {subsection}{\numberline {2.2}Enfoque dirigido por datos}{3}{}%
 \contentsline {section}{\numberline {3}Metodología}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Análisis estadístico}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Pruebas de normalidad}{3}{}%
