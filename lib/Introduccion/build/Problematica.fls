@@ -1,0 +1,4 @@
+PWD C:\Users\danjo\TESIS_CHEMISTRY\lib\Introduccion
+INPUT C:\Users\danjo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\danjo\TESIS_CHEMISTRY\lib\Introduccion\Problematica.tex
+OUTPUT C:\Users\danjo\TESIS_CHEMISTRY\lib\Introduccion\build\Problematica.log
