@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  16 AUG 2022 17:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  8 SEP 2022 00:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -692,6 +692,8 @@ Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\danjo\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'vancouver.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count377
@@ -799,6 +801,10 @@ File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip21
 \c@smartand=\count453
 )
+Package biblatex Info: Trying to load bibliography style 'vancouver'...
+Package biblatex Info: ... file 'vancouver.bbx' found.
+ (C:\Users\danjo\MiKTeX\tex/latex/biblatex-vancouver\vancouver.bbx
+File: vancouver.bbx 2020/05/20 v0.1 biblatex vancouver
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
  (C:\Users\danjo\MiKTeX\tex/latex/biblatex/bbx\numeric.bbx
@@ -809,7 +815,11 @@ Package biblatex Info: ... file 'standard.bbx' found.
 File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count454
 \c@bbx:relatedtotal=\count455
-))
+)))
+Package biblatex Info: Trying to load citation style 'vancouver'...
+Package biblatex Info: ... file 'vancouver.cbx' found.
+ (C:\Users\danjo\MiKTeX\tex/latex/biblatex-vancouver\vancouver.cbx
+File: vancouver.bbx 2020/05/20 v0.1 biblatex vancouver
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
  (C:\Users\danjo\MiKTeX\tex/latex/biblatex/cbx\numeric.cbx
@@ -825,7 +835,7 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\smartcites'.
-)
+))
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
  (C:\Users\danjo\MiKTeX\tex/latex/biblatex\biblatex.cfg
@@ -870,20 +880,20 @@ LaTeX Info: Redefining \% on input line 10.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -939,8 +949,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \Hy@linkcounter=\count471
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
@@ -957,17 +967,17 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (C:\Users\danjo\TESIS_CHEMISTRY\build\main.bbl)
-Package biblatex Info: Reference section=0 on input line 66.
-Package biblatex Info: Reference segment=0 on input line 66.
+Package biblatex Info: Reference section=0 on input line 67.
+Package biblatex Info: Reference segment=0 on input line 67.
 <img/logo_escudo.png, id=4, 93.34875pt x 124.21407pt>
 File: img/logo_escudo.png Graphic file (type png)
 <use img/logo_escudo.png>
-Package pdftex.def Info: img/logo_escudo.png  used on input line 71.
+Package pdftex.def Info: img/logo_escudo.png  used on input line 72.
 (pdftex.def)             Requested size: 125.47737pt x 166.97287pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 75.
+(Font)              using `OT1/cmr/bx/n' instead on input line 76.
 
 [1
 Non-PDF special ignored!
@@ -988,11 +998,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [1] [2] (lib/Introduccion/Problematica.tex) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex)
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 122.
- (C:\Users\danjo\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [3] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
+ [1] [2] (lib/Introduccion/Problematica.tex) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex [3]) [4] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
@@ -1005,17 +1011,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37722 strings out of 478582
- 903479 string characters out of 2855132
- 1923822 words of memory out of 3000000
- 55313 multiletter control sequences out of 15000+600000
- 477585 words of font info for 58 fonts, out of 8000000 for 9000
+ 37732 strings out of 478582
+ 903887 string characters out of 2855132
+ 1928131 words of memory out of 3000000
+ 55320 multiletter control sequences out of 15000+600000
+ 477479 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,5n,103p,768b,1895s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (4 pages, 169160 bytes).
+ 99i,6n,103p,768b,1895s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (5 pages, 157644 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
+ 69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

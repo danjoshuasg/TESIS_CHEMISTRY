@@ -18,7 +18,7 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{none/global//global/global}
     \entry{wen2020}{article}{}
       \name{author}{5}{}{%
         {{hash=6bb5da5b75fec4d1785f070f62af9f72}{%
@@ -52,12 +52,12 @@
       }
       \strng{namehash}{c07f6140f073d684eae466a0c7ef80d4}
       \strng{fullhash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
-      \strng{bibnamehash}{c07f6140f073d684eae466a0c7ef80d4}
-      \strng{authorbibnamehash}{c07f6140f073d684eae466a0c7ef80d4}
+      \strng{bibnamehash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
+      \strng{authorbibnamehash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
       \strng{authornamehash}{c07f6140f073d684eae466a0c7ef80d4}
       \strng{authorfullhash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Solar RRL}
@@ -67,6 +67,38 @@
       \field{year}{2020}
       \field{pages}{2000110}
       \range{pages}{1}
+    \endentry
+    \entry{eagar_bringing_1995}{article}{}
+      \name{author}{1}{}{%
+        {{hash=88abb09f30e9ace944c46c2457441cf2}{%
+           family={Eagar},
+           familyi={E\bibinitperiod},
+           given={Thomas\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{88abb09f30e9ace944c46c2457441cf2}
+      \strng{fullhash}{88abb09f30e9ace944c46c2457441cf2}
+      \strng{bibnamehash}{88abb09f30e9ace944c46c2457441cf2}
+      \strng{authorbibnamehash}{88abb09f30e9ace944c46c2457441cf2}
+      \strng{authornamehash}{88abb09f30e9ace944c46c2457441cf2}
+      \strng{authorfullhash}{88abb09f30e9ace944c46c2457441cf2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ABI/INFORM Global}
+      \field{number}{2}
+      \field{title}{Bringing new materials to Market}
+      \field{volume}{98}
+      \field{year}{1995}
+      \field{pages}{42}
+      \range{pages}{1}
+      \verb{file}
+      \verb Eagar - Bringing New Materials to Market.pdf:C\:\\Users\\danjo\\Zotero\\storage\\VK8YLYAQ\\Eagar - Bringing New Materials to Market.pdf:application/pdf
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

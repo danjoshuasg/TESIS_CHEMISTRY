@@ -55,7 +55,9 @@
       <file>biblatex.def</file>
       <file>standard.bbx</file>
       <file>numeric.bbx</file>
+      <file>vancouver.bbx</file>
       <file>numeric.cbx</file>
+      <file>vancouver.cbx</file>
       <file>biblatex.cfg</file>
       <file>spanish.lbx</file>
     </requires>
