@@ -1,8 +1,8 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Introducción}{3}{}%
 \contentsline {subsection}{\numberline {1.1}Problemática}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Justificación}{3}{}%
-\contentsline {subsection}{\numberline {1.3}Antecedentes}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Justificación}{4}{}%
+\contentsline {subsection}{\numberline {1.3}Antecedentes}{4}{}%
 \contentsline {section}{\numberline {2}Marco Teórico}{4}{}%
 \contentsline {subsection}{\numberline {2.1}Celdas solares sensibilizadas por tintes}{4}{}%
 \contentsline {subsection}{\numberline {2.2}Enfoque dirigido por datos}{4}{}%

@@ -1,19 +1,19 @@
 # Fdb version 3
-["biber C:/Users/danjo/TESIS_CHEMISTRY/build/main"] 1660949262 "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl" "C:/Users/danjo/TESIS_CHEMISTRY/build/main" 1662615878
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" 1662615877 106591 44a0744ef02b2bdd6277e7dabf249cd3 ""
-  "biblio.bib" 1660948074 1428 652c98d3b6efe214e23561982ff8f9ed ""
+["biber C:/Users/danjo/TESIS_CHEMISTRY/build/main"] 1662701786 "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl" "C:/Users/danjo/TESIS_CHEMISTRY/build/main" 1662701815
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" 1662701814 106697 7212d727a3704f9782a6675dfaf07a08 ""
+  "biblio.bib" 1662666735 1804 c397418e0bdf37d7b07fbbdec2008697 ""
   (generated)
   "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl"
   "C:/Users/danjo/TESIS_CHEMISTRY/build/main.blg"
-["biber build/main"] 1660949258 "build/main.bcf" "build/main.bbl" "build/main" 1662615878
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" 1662615877 106591 44a0744ef02b2bdd6277e7dabf249cd3 ""
-  "biblio.bib" 1660948074 1428 652c98d3b6efe214e23561982ff8f9ed ""
-  "build/main.bcf" 1662615877 106591 44a0744ef02b2bdd6277e7dabf249cd3 "pdflatex"
+["biber build/main"] 1662701780 "build/main.bcf" "build/main.bbl" "build/main" 1662701815
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" 1662701814 106697 7212d727a3704f9782a6675dfaf07a08 ""
+  "biblio.bib" 1662666735 1804 c397418e0bdf37d7b07fbbdec2008697 ""
+  "build/main.bcf" 1662701814 106697 7212d727a3704f9782a6675dfaf07a08 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
-["pdflatex"] 1662615874 "c:/Users/danjo/TESIS_CHEMISTRY/main.tex" "build/main.pdf" "main" 1662615878
-  "C:/Users/danjo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1662614367 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1662701811 "c:/Users/danjo/TESIS_CHEMISTRY/main.tex" "build/main.pdf" "main" 1662701815
+  "C:/Users/danjo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1662701169 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/danjo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1657041847 10236173 5ac0c18abdbebea8b234762c735bc510 ""
   "C:/Users/danjo/MiKTeX/fonts/tfm/jknappen/ec/ectt1000.tfm" 993062340 1348 d70ddf2d5d512b838e50a335e385e919 ""
   "C:/Users/danjo/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -237,18 +237,19 @@
   "C:/Users/danjo/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "C:/Users/danjo/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/danjo/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.aux" 1662615877 1726 2eebddfb9cc4a1e33877d710852373e3 ""
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl" 1660949265 3877 0555da83d6d477deff8c074c0ba5aa9e "biber C:/Users/danjo/TESIS_CHEMISTRY/build/main"
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.toc" 1662615877 727 d71664db29cace4ee7a95b7fb98bba0b ""
-  "build/main.aux" 1662615877 1726 2eebddfb9cc4a1e33877d710852373e3 "pdflatex"
-  "build/main.bbl" 1660949265 3877 0555da83d6d477deff8c074c0ba5aa9e "biber build/main"
-  "build/main.run.xml" 1662615877 2367 ae23a006b606cdae93bfa515a06e2990 "pdflatex"
-  "build/main.toc" 1662615877 727 d71664db29cace4ee7a95b7fb98bba0b "pdflatex"
-  "c:/Users/danjo/TESIS_CHEMISTRY/main.tex" 1662615873 5323 234adfb688ba321e1cc3e397949f8cbd ""
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.aux" 1662701814 1860 063aba91ffd2b417886a7fb178c329f9 ""
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl" 1662701789 5701 4e3c4c466cff63e7aa8ea7203ba898a1 "biber C:/Users/danjo/TESIS_CHEMISTRY/build/main"
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.toc" 1662701814 727 e9abde116c477e4b0880bfd56fe84353 ""
+  "build/main.aux" 1662701814 1860 063aba91ffd2b417886a7fb178c329f9 "pdflatex"
+  "build/main.bbl" 1662701789 5701 4e3c4c466cff63e7aa8ea7203ba898a1 "biber build/main"
+  "build/main.run.xml" 1662701814 2367 ae23a006b606cdae93bfa515a06e2990 "pdflatex"
+  "build/main.toc" 1662701814 727 e9abde116c477e4b0880bfd56fe84353 "pdflatex"
+  "c:/Users/danjo/TESIS_CHEMISTRY/main.tex" 1662701809 5324 bb5ce675f552bea1a48f8bd6e033b3f0 ""
+  "img/PorcentajeRenovables.png" 1662701431 9366 c469f2375e48b92ad02fd119ddb46ad8 ""
   "img/logo_escudo.png" 1658968772 24666 1f7651c9fe6fbb53d784606b77a0ce62 ""
   "lib/Introduccion/Antecedentes.tex" 1659411007 22 f35b3cbc6cf9d1b52c4dd829a635566c ""
   "lib/Introduccion/Justificacion.tex" 1662590405 491 1ac30f1ff4a228123eff20777cea7e33 ""
-  "lib/Introduccion/Problematica.tex" 1662615675 2240 8b5f2ed947cf1bdfc53ba066364bf3db ""
+  "lib/Introduccion/Problematica.tex" 1662701805 2925 1489592f916e6966bf46cee3107f9d9d ""
   "lib/MarcoTeorico/CSST.tex" 0 -1 0 ""
   "lib/MarcoTeorico/DataDriven.tex" 0 -1 0 ""
   "lib/Metodologia/Metodologia.tex" 1662589286 1223 3d76bcb64830e5d6d29eda3b8e75f905 ""

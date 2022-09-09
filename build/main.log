@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  8 SEP 2022 00:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  9 SEP 2022 00:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -891,20 +891,20 @@ LaTeX Info: Redefining \% on input line 10.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -960,8 +960,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \Hy@linkcounter=\count471
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
 
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 
@@ -978,17 +978,17 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (C:\Users\danjo\TESIS_CHEMISTRY\build\main.bbl)
-Package biblatex Info: Reference section=0 on input line 68.
-Package biblatex Info: Reference segment=0 on input line 68.
+Package biblatex Info: Reference section=0 on input line 69.
+Package biblatex Info: Reference segment=0 on input line 69.
 <img/logo_escudo.png, id=4, 93.34875pt x 124.21407pt>
 File: img/logo_escudo.png Graphic file (type png)
 <use img/logo_escudo.png>
-Package pdftex.def Info: img/logo_escudo.png  used on input line 73.
+Package pdftex.def Info: img/logo_escudo.png  used on input line 74.
 (pdftex.def)             Requested size: 125.47737pt x 166.97287pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 77.
+(Font)              using `OT1/cmr/bx/n' instead on input line 78.
 
 [1
 Non-PDF special ignored!
@@ -1009,7 +1009,18 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [1] [2] (lib/Introduccion/Problematica.tex) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex [3]) [4] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
+ [1] [2] (lib/Introduccion/Problematica.tex
+<img/PorcentajeRenovables.png, id=26, 553.31718pt x 344.78813pt>
+File: img/PorcentajeRenovables.png Graphic file (type png)
+<use img/PorcentajeRenovables.png>
+Package pdftex.def Info: img/PorcentajeRenovables.png  used on input line 9.
+(pdftex.def)             Requested size: 442.65434pt x 275.83087pt.
+
+Overfull \hbox (24.40067pt too wide) in paragraph at lines 9--10
+[][] 
+ []
+
+[3 <./img/PorcentajeRenovables.png>]) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex) [4] [5] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
@@ -1022,17 +1033,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37919 strings out of 478582
- 906439 string characters out of 2855132
- 1933679 words of memory out of 3000000
- 55502 multiletter control sequences out of 15000+600000
+ 37930 strings out of 478582
+ 906801 string characters out of 2855132
+ 1931731 words of memory out of 3000000
+ 55512 multiletter control sequences out of 15000+600000
  477792 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,103p,768b,1895s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 99i,7n,103p,768b,1895s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (5 pages, 158940 bytes).
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (6 pages, 168729 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

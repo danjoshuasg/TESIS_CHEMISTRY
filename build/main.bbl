@@ -19,6 +19,50 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{rathore2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=aefcde436bb2c2ec80c2748d8b11a791}{%
+           family={Rathore},
+           familyi={R\bibinitperiod},
+           given={Neelam},
+           giveni={N\bibinitperiod}}}%
+        {{hash=8ba88ab3a923dbc59ae97eaecf35b76d}{%
+           family={Panwar},
+           familyi={P\bibinitperiod},
+           given={Narayan\bibnamedelima Lal},
+           giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=7749e03eb83f16326d4f1d0d8b8d7a65}{%
+           family={Yettou},
+           familyi={Y\bibinitperiod},
+           given={Fatiha},
+           giveni={F\bibinitperiod}}}%
+        {{hash=183429329da0d32814a589f02e24c978}{%
+           family={Gama},
+           familyi={G\bibinitperiod},
+           given={Amor},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{e04139b942d29579211f9c43bf41c152}
+      \strng{fullhash}{feceb8e18e63575ca882528c0c6affc2}
+      \strng{bibnamehash}{feceb8e18e63575ca882528c0c6affc2}
+      \strng{authorbibnamehash}{feceb8e18e63575ca882528c0c6affc2}
+      \strng{authornamehash}{e04139b942d29579211f9c43bf41c152}
+      \strng{authorfullhash}{feceb8e18e63575ca882528c0c6affc2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Ambient Energy}
+      \field{number}{10}
+      \field{title}{A comprehensive review of different types of solar photovoltaic cells and their applications}
+      \field{volume}{42}
+      \field{year}{2021}
+      \field{pages}{1200\bibrangedash 1217}
+      \range{pages}{18}
+    \endentry
     \entry{wen2020}{article}{}
       \name{author}{5}{}{%
         {{hash=6bb5da5b75fec4d1785f070f62af9f72}{%
@@ -56,8 +100,8 @@
       \strng{authorbibnamehash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
       \strng{authornamehash}{c07f6140f073d684eae466a0c7ef80d4}
       \strng{authorfullhash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Solar RRL}
@@ -85,8 +129,8 @@
       \strng{authorbibnamehash}{88abb09f30e9ace944c46c2457441cf2}
       \strng{authornamehash}{88abb09f30e9ace944c46c2457441cf2}
       \strng{authorfullhash}{88abb09f30e9ace944c46c2457441cf2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ABI/INFORM Global}
