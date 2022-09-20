@@ -15,9 +15,27 @@
 \contentsline {subsubsection}{\numberline {3.2.1}Características físicas y químicas}{6}{}%
 \contentsline {subsubsection}{\numberline {3.2.2}Familias de colorantes naturales usados como sensibilizantes}{6}{}%
 \contentsline {subsection}{\numberline {3.3}Enfoque de investigación direccionado por datos}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Tipos de enfoques de investigación en química}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Tipos de estructuras de datos en química}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Extracción y preprocesamiento de datos}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}Tratamiento de datos}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.5}Descubrimiento y análisis de características}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.6}Entrenamiento y evaluación de modelos}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.7}Validadores estadísticos de los modelos}{6}{}%
 \contentsline {subsection}{\numberline {3.4}Modelos de aprendizaje automático}{6}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}Interpretación de modelos de aprendizaje automático}{6}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Naturaleza de los modelos de aprendizaje automático}{6}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Interpretatividad de los modelos de aprendizaje automático}{6}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}Clasificadores clásicos}{6}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}Clasificadores ensamblados}{6}{}%
+\contentsline {subsubsection}{\numberline {3.4.5}Evaluadores de los resultados de clasificación}{6}{}%
 \contentsline {section}{\numberline {4}Meteriales y métodos}{6}{}%
+\contentsline {subsubsection}{\numberline {4.0.1}Extracción de datos}{6}{}%
+\contentsline {subsubsection}{\numberline {4.0.2}Preprocesamiento de datos}{6}{}%
+\contentsline {subsubsection}{\numberline {4.0.3}Descubrimiento y análisis de características}{6}{}%
+\contentsline {subsubsection}{\numberline {4.0.4}Entrenamiento y evaluación del modelo 1}{6}{}%
+\contentsline {subsubsection}{\numberline {4.0.5}Entrenamiento y evaluación del modelo 2}{6}{}%
+\contentsline {subsubsection}{\numberline {4.0.6}Entrenamiento y evaluación del modelo 3}{6}{}%
+\contentsline {subsubsection}{\numberline {4.0.7}Comparación de modelos}{6}{}%
 \contentsline {subsection}{\numberline {4.1}Análisis estadístico}{6}{}%
 \contentsline {subsubsection}{\numberline {4.1.1}Pruebas de normalidad}{6}{}%
 \contentsline {section}{\numberline {5}Referencias bibliográficas}{7}{}%
