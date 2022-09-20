@@ -1,11 +1,25 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Introducción}{3}{}%
 \contentsline {subsection}{\numberline {1.1}Problemática}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Justificación}{4}{}%
-\contentsline {subsection}{\numberline {1.3}Antecedentes}{4}{}%
-\contentsline {section}{\numberline {2}Marco Teórico}{5}{}%
-\contentsline {subsection}{\numberline {2.1}Celdas solares sensibilizadas por tintes}{5}{}%
-\contentsline {subsection}{\numberline {2.2}Enfoque dirigido por datos}{5}{}%
-\contentsline {section}{\numberline {3}Metodología}{5}{}%
-\contentsline {subsection}{\numberline {3.1}Análisis estadístico}{5}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}Pruebas de normalidad}{5}{}%
+\contentsline {subsection}{\numberline {1.2}Justificación}{5}{}%
+\contentsline {subsection}{\numberline {1.3}Antecedentes}{5}{}%
+\contentsline {section}{\numberline {2}Pregunta de investigación y objetivos}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Pregunta de investigación}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Objetivos}{6}{}%
+\contentsline {section}{\numberline {3}Marco Teórico}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Celdas solares sensibilizadas por tintes (CSPT)}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Componentes de las CSPT}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Funcionamiento de las CSPT}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Tipos de sensibilizantes}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Colorantes naturales}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Características físicas y químicas}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Familias de colorantes naturales usados como sensibilizantes}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Enfoque de investigación direccionado por datos}{6}{}%
+\contentsline {subsection}{\numberline {3.4}Modelos de aprendizaje automático}{6}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Interpretación de modelos de aprendizaje automático}{6}{}%
+\contentsline {section}{\numberline {4}Meteriales y métodos}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Análisis estadístico}{6}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Pruebas de normalidad}{6}{}%
+\contentsline {section}{\numberline {5}Referencias bibliográficas}{7}{}%
+\contentsline {section}{\numberline {6}Cronograma de trabajo}{8}{}%
+\contentsline {section}{\numberline {7}Presupuesto y financiamiento}{8}{}%
