@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.blg'
-[142] biber-MSWIN64:340> INFO - === 
-[181] Biber.pm:418> INFO - Reading 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf'
-[328] Biber.pm:972> INFO - Found 29 citekeys in bib section 0
-[346] Biber.pm:4383> INFO - Processing section 0
-[360] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[411] bibtex.pm:1713> INFO - LaTeX decoding ...
-[471] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
-[702] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[702] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[702] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[724] bbl.pm:654> INFO - Writing 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl' with encoding 'UTF-8'
-[745] bbl.pm:757> INFO - Output to C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl
-[745] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_ZJbF\a9e03cb3043b9e2c02591da84105bb68_18260.utf8, line 3, warning: 77 characters of junk seen at toplevel
-[745] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_ZJbF\a9e03cb3043b9e2c02591da84105bb68_18260.utf8, line 291, warning: 80 characters of junk seen at toplevel
-[745] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_ZJbF\a9e03cb3043b9e2c02591da84105bb68_18260.utf8, line 306, warning: 75 characters of junk seen at toplevel
-[745] Biber.pm:132> INFO - WARNINGS: 3
+[143] biber-MSWIN64:340> INFO - === 
+[183] Biber.pm:418> INFO - Reading 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf'
+[336] Biber.pm:972> INFO - Found 29 citekeys in bib section 0
+[357] Biber.pm:4383> INFO - Processing section 0
+[373] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[428] bibtex.pm:1713> INFO - LaTeX decoding ...
+[486] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[723] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[723] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[723] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[747] bbl.pm:654> INFO - Writing 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl' with encoding 'UTF-8'
+[768] bbl.pm:757> INFO - Output to C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl
+[768] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_yG9c\a9e03cb3043b9e2c02591da84105bb68_16812.utf8, line 3, warning: 77 characters of junk seen at toplevel
+[769] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_yG9c\a9e03cb3043b9e2c02591da84105bb68_16812.utf8, line 291, warning: 80 characters of junk seen at toplevel
+[769] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_yG9c\a9e03cb3043b9e2c02591da84105bb68_16812.utf8, line 306, warning: 75 characters of junk seen at toplevel
+[769] Biber.pm:132> INFO - WARNINGS: 3

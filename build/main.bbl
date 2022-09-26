@@ -332,6 +332,59 @@
       \field{pages}{1324\bibrangedash 1337}
       \range{pages}{14}
     \endentry
+    \entry{tawalbeh2021environmental}{article}{}
+      \name{author}{6}{}{%
+        {{hash=bd98944ef25bc1be049240125b9d9e52}{%
+           family={Tawalbeh},
+           familyi={T\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=683ceb1f4402ee67427b8dada4799ef6}{%
+           family={Al-Othman},
+           familyi={A\bibinithyphendelim O\bibinitperiod},
+           given={Amani},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8e1732d209fbf25e06bab5e0893e45bb}{%
+           family={Kafiah},
+           familyi={K\bibinitperiod},
+           given={Feras},
+           giveni={F\bibinitperiod}}}%
+        {{hash=417a9bb09ad55a0c250bf10262ee47f2}{%
+           family={Abdelsalam},
+           familyi={A\bibinitperiod},
+           given={Emad},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6a65416be2873e50a33014b762498445}{%
+           family={Almomani},
+           familyi={A\bibinitperiod},
+           given={Fares},
+           giveni={F\bibinitperiod}}}%
+        {{hash=735fbdf3e3b0e25cc022b8b0fadb842a}{%
+           family={Alkasrawi},
+           familyi={A\bibinitperiod},
+           given={Malek},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{aa9f208bb26e24cd3618217ae8027758}
+      \strng{fullhash}{314c684cad17e23948b67f087183e691}
+      \strng{bibnamehash}{314c684cad17e23948b67f087183e691}
+      \strng{authorbibnamehash}{314c684cad17e23948b67f087183e691}
+      \strng{authornamehash}{aa9f208bb26e24cd3618217ae8027758}
+      \strng{authorfullhash}{314c684cad17e23948b67f087183e691}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{title}{Environmental impacts of solar photovoltaic systems: A critical review of recent progress and future outlook}
+      \field{volume}{759}
+      \field{year}{2021}
+      \field{pages}{143528}
+      \range{pages}{1}
+    \endentry
     \entry{green2009path}{article}{}
       \name{author}{1}{}{%
         {{hash=a8f01dbebeccab6ae25bbcccaf0e8266}{%
@@ -388,59 +441,6 @@
       \field{year}{2013}
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
-    \endentry
-    \entry{tawalbeh2021environmental}{article}{}
-      \name{author}{6}{}{%
-        {{hash=bd98944ef25bc1be049240125b9d9e52}{%
-           family={Tawalbeh},
-           familyi={T\bibinitperiod},
-           given={Muhammad},
-           giveni={M\bibinitperiod}}}%
-        {{hash=683ceb1f4402ee67427b8dada4799ef6}{%
-           family={Al-Othman},
-           familyi={A\bibinithyphendelim O\bibinitperiod},
-           given={Amani},
-           giveni={A\bibinitperiod}}}%
-        {{hash=8e1732d209fbf25e06bab5e0893e45bb}{%
-           family={Kafiah},
-           familyi={K\bibinitperiod},
-           given={Feras},
-           giveni={F\bibinitperiod}}}%
-        {{hash=417a9bb09ad55a0c250bf10262ee47f2}{%
-           family={Abdelsalam},
-           familyi={A\bibinitperiod},
-           given={Emad},
-           giveni={E\bibinitperiod}}}%
-        {{hash=6a65416be2873e50a33014b762498445}{%
-           family={Almomani},
-           familyi={A\bibinitperiod},
-           given={Fares},
-           giveni={F\bibinitperiod}}}%
-        {{hash=735fbdf3e3b0e25cc022b8b0fadb842a}{%
-           family={Alkasrawi},
-           familyi={A\bibinitperiod},
-           given={Malek},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{aa9f208bb26e24cd3618217ae8027758}
-      \strng{fullhash}{314c684cad17e23948b67f087183e691}
-      \strng{bibnamehash}{314c684cad17e23948b67f087183e691}
-      \strng{authorbibnamehash}{314c684cad17e23948b67f087183e691}
-      \strng{authornamehash}{aa9f208bb26e24cd3618217ae8027758}
-      \strng{authorfullhash}{314c684cad17e23948b67f087183e691}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Science of The Total Environment}
-      \field{title}{Environmental impacts of solar photovoltaic systems: A critical review of recent progress and future outlook}
-      \field{volume}{759}
-      \field{year}{2021}
-      \field{pages}{143528}
-      \range{pages}{1}
     \endentry
     \entry{blakers2013}{article}{}
       \name{author}{4}{}{%
@@ -557,8 +557,8 @@
       \strng{authornamehash}{76d218f31ba184b946dcb213f773e0fc}
       \strng{authorfullhash}{76d218f31ba184b946dcb213f773e0fc}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Energy Exploration \& Exploitation}
@@ -598,8 +598,8 @@
       \strng{authorbibnamehash}{2fa77cd239a49515ee98b785859f43bd}
       \strng{authornamehash}{b8dda5ed49468ff0bc9710f68dad30e9}
       \strng{authorfullhash}{2fa77cd239a49515ee98b785859f43bd}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Engineering Research-Online}
@@ -878,8 +878,8 @@
       \strng{authorbibnamehash}{174bfca546edf49fbe1197496667c5f1}
       \strng{authornamehash}{e82d91d0b66587ad9fe1c2223e5df12c}
       \strng{authorfullhash}{174bfca546edf49fbe1197496667c5f1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Science}

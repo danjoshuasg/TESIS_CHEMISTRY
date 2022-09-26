@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  26 SEP 2022 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  26 SEP 2022 17:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1019,17 +1019,25 @@ Package pdftex.def Info: img/PorcentajeRenovable.png  used on input line 5.
 <img/SerieTiempo.png, id=33, 804.00375pt x 344.78813pt>
 File: img/SerieTiempo.png Graphic file (type png)
 <use img/SerieTiempo.png>
-Package pdftex.def Info: img/SerieTiempo.png  used on input line 25.
+Package pdftex.def Info: img/SerieTiempo.png  used on input line 22.
 (pdftex.def)             Requested size: 482.40598pt x 206.87447pt.
 
-Overfull \hbox (64.1523pt too wide) in paragraph at lines 25--27
+Overfull \hbox (64.1523pt too wide) in paragraph at lines 22--24
 [][] 
  []
 
+[4 <./img/SerieTiempo.png (PNG copy)>]
+<img/SeriesEmergentes.png, id=39, 820.56563pt x 344.78813pt>
+File: img/SeriesEmergentes.png Graphic file (type png)
+<use img/SeriesEmergentes.png>
+Package pdftex.def Info: img/SeriesEmergentes.png  used on input line 34.
+(pdftex.def)             Requested size: 492.34319pt x 206.87447pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Overfull \hbox (74.08951pt too wide) in paragraph at lines 34--36
+[][] 
+ []
 
-[4] [5 <./img/SerieTiempo.png (PNG copy)>]) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex [6]
+[5 <./img/SeriesEmergentes.png>]) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex [6]
 Overfull \vbox (112.84409pt too high) has occurred while \output is active []
 
  [7])
@@ -1050,17 +1058,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38029 strings out of 478582
- 910903 string characters out of 2855132
- 1941323 words of memory out of 3000000
- 55609 multiletter control sequences out of 15000+600000
+ 38037 strings out of 478582
+ 911115 string characters out of 2855132
+ 1941333 words of memory out of 3000000
+ 55616 multiletter control sequences out of 15000+600000
  478127 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,7n,103p,1597b,1895s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (10 pages, 259129 bytes).
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (10 pages, 273963 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
