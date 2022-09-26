@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  20 SEP 2022 01:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  26 SEP 2022 14:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1010,27 +1010,34 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout6 = `main.toc'.
 
  [1] [2] (lib/Introduccion/Problematica.tex
-Overfull \hbox (3.83032pt too wide) in paragraph at lines 2--3
-[]\OT1/cmr/m/n/10 La de-pen-den-cia de los com-bus-ti-bles f^^Sosi-les trae con-si-go pro-ble-mas co-mo la in-se-gu-ri-dad energ^^Seti-
- []
-
 <img/PorcentajeRenovable.png, id=26, 487.06969pt x 344.78813pt>
 File: img/PorcentajeRenovable.png Graphic file (type png)
 <use img/PorcentajeRenovable.png>
-Package pdftex.def Info: img/PorcentajeRenovable.png  used on input line 17.
-(pdftex.def)             Requested size: 389.65627pt x 275.83087pt.
+Package pdftex.def Info: img/PorcentajeRenovable.png  used on input line 5.
+(pdftex.def)             Requested size: 414.01117pt x 293.07129pt.
+ [3 <./img/PorcentajeRenovable.png>]
+<img/SerieTiempo.png, id=33, 804.00375pt x 344.78813pt>
+File: img/SerieTiempo.png Graphic file (type png)
+<use img/SerieTiempo.png>
+Package pdftex.def Info: img/SerieTiempo.png  used on input line 25.
+(pdftex.def)             Requested size: 482.40598pt x 206.87447pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (64.1523pt too wide) in paragraph at lines 25--27
+[][] 
+ []
 
-[3] [4 <./img/PorcentajeRenovable.png>]) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex [5]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4] [5 <./img/SerieTiempo.png (PNG copy)>]) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex [6]
 Overfull \vbox (112.84409pt too high) has occurred while \output is active []
 
- [6])
+ [7])
 Overfull \hbox (39.93707pt too wide) in paragraph at lines 170--170
 []\OT1/cmr/m/n/10 Ritchie H, Ro-ser M y Ro-sa-do P. Energy. Our World in Da-ta  2020. https://ourworldindata.org/energy 
  []
 
-[7] [8] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
+[8] [9] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
@@ -1043,17 +1050,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38019 strings out of 478582
- 910591 string characters out of 2855132
- 1941254 words of memory out of 3000000
- 55600 multiletter control sequences out of 15000+600000
+ 38029 strings out of 478582
+ 910903 string characters out of 2855132
+ 1941323 words of memory out of 3000000
+ 55609 multiletter control sequences out of 15000+600000
  478127 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,7n,103p,1597b,1895s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (9 pages, 224286 bytes).
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (10 pages, 259129 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 109 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

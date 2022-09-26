@@ -164,6 +164,39 @@
       \field{title}{IPCC Special Report “Global Warming of 1.5° C”: Summary for Teachers}
       \field{year}{2018}
     \endentry
+    \entry{owidenergy}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a6d904a648976069036f5eddb4ad0151}{%
+           family={Ritchie},
+           familyi={R\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c0e5ce1b546c571edc443f6a4f166170}{%
+           family={Roser},
+           familyi={R\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d528e1b7e7d09105d46db7009f56f94c}{%
+           family={Rosado},
+           familyi={R\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{7755c495f4afbe8f7670bc703508202b}
+      \strng{fullhash}{7755c495f4afbe8f7670bc703508202b}
+      \strng{bibnamehash}{7755c495f4afbe8f7670bc703508202b}
+      \strng{authorbibnamehash}{7755c495f4afbe8f7670bc703508202b}
+      \strng{authornamehash}{7755c495f4afbe8f7670bc703508202b}
+      \strng{authorfullhash}{7755c495f4afbe8f7670bc703508202b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Our World in Data}
+      \field{note}{https://ourworldindata.org/energy}
+      \field{title}{Energy}
+      \field{year}{2020}
+    \endentry
     \entry{asmelash2020role}{incollection}{}
       \name{author}{4}{}{%
         {{hash=8ce1dba690b43bcb82006871b655f0e5}{%
@@ -196,8 +229,8 @@
       \strng{authorbibnamehash}{a25a29284856c536817c41906545086a}
       \strng{authornamehash}{d1734bc6464be7278537bda9ddabf313}
       \strng{authorfullhash}{a25a29284856c536817c41906545086a}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Accelerating the transition to a 100\% renewable energy era}
@@ -218,46 +251,13 @@
       \strng{authorbibnamehash}{b4f3a3711fe4df2b64d17bf2d72d90c0}
       \strng{authornamehash}{b4f3a3711fe4df2b64d17bf2d72d90c0}
       \strng{authorfullhash}{b4f3a3711fe4df2b64d17bf2d72d90c0}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Renewable Energy Target Setting, Abu Dhabi, UAE}
       \field{title}{Renewable Energy Statistics 2022}
       \field{year}{2022}
-    \endentry
-    \entry{owidenergy}{article}{}
-      \name{author}{3}{}{%
-        {{hash=a6d904a648976069036f5eddb4ad0151}{%
-           family={Ritchie},
-           familyi={R\bibinitperiod},
-           given={Hannah},
-           giveni={H\bibinitperiod}}}%
-        {{hash=c0e5ce1b546c571edc443f6a4f166170}{%
-           family={Roser},
-           familyi={R\bibinitperiod},
-           given={Max},
-           giveni={M\bibinitperiod}}}%
-        {{hash=d528e1b7e7d09105d46db7009f56f94c}{%
-           family={Rosado},
-           familyi={R\bibinitperiod},
-           given={Pablo},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{7755c495f4afbe8f7670bc703508202b}
-      \strng{fullhash}{7755c495f4afbe8f7670bc703508202b}
-      \strng{bibnamehash}{7755c495f4afbe8f7670bc703508202b}
-      \strng{authorbibnamehash}{7755c495f4afbe8f7670bc703508202b}
-      \strng{authornamehash}{7755c495f4afbe8f7670bc703508202b}
-      \strng{authorfullhash}{7755c495f4afbe8f7670bc703508202b}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Our World in Data}
-      \field{note}{https://ourworldindata.org/energy}
-      \field{title}{Energy}
-      \field{year}{2020}
     \endentry
     \entry{hammarstrom2012}{article}{}
       \name{author}{1}{}{%
@@ -287,6 +287,50 @@
       \field{year}{2012}
       \field{pages}{103\bibrangedash 107}
       \range{pages}{5}
+    \endentry
+    \entry{xu2022concentrated}{article}{}
+      \name{author}{4}{}{%
+        {{hash=86acdbbb888fb1622ad5366d9d67dc8f}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=66d4d7b0bc2f9318b8fb5dc5721d473d}{%
+           family={Pei},
+           familyi={P\bibinitperiod},
+           given={Jiamei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4f744359d0efb4cd90d41409fb21325e}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Jiahai},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0c2889ef8b70dcb14b7d349f5f7362bf}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Guohao},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9ee4bc1d406491e6162a31bd6a3b18bf}
+      \strng{fullhash}{e4b4e9aba7b344745bbe9c5b830b3330}
+      \strng{bibnamehash}{e4b4e9aba7b344745bbe9c5b830b3330}
+      \strng{authorbibnamehash}{e4b4e9aba7b344745bbe9c5b830b3330}
+      \strng{authornamehash}{9ee4bc1d406491e6162a31bd6a3b18bf}
+      \strng{authorfullhash}{e4b4e9aba7b344745bbe9c5b830b3330}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environmental Science and Pollution Research}
+      \field{number}{1}
+      \field{title}{Concentrated solar power: technology, economy analysis, and policy implications in China}
+      \field{volume}{29}
+      \field{year}{2022}
+      \field{pages}{1324\bibrangedash 1337}
+      \range{pages}{14}
     \endentry
     \entry{green2009path}{article}{}
       \name{author}{1}{}{%
@@ -587,8 +631,8 @@
       \strng{authorbibnamehash}{fe504a6a937af948ab645a9d96b13999}
       \strng{authornamehash}{fe504a6a937af948ab645a9d96b13999}
       \strng{authorfullhash}{fe504a6a937af948ab645a9d96b13999}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Handbook of Photovoltaic Silicon}
@@ -626,8 +670,8 @@
       \strng{authorbibnamehash}{c89bc33249b226aacb4d5b7f4bf61e2f}
       \strng{authornamehash}{c89bc33249b226aacb4d5b7f4bf61e2f}
       \strng{authorfullhash}{c89bc33249b226aacb4d5b7f4bf61e2f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Materials Sciences and Applications}
@@ -657,8 +701,8 @@
       \strng{authorbibnamehash}{ebe8cb4656e19651ca6857b0b9dafbf1}
       \strng{authornamehash}{ebe8cb4656e19651ca6857b0b9dafbf1}
       \strng{authorfullhash}{ebe8cb4656e19651ca6857b0b9dafbf1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Int. J. Core Eng. Manag.(IJCEM)}
@@ -893,8 +937,8 @@
       \strng{authorbibnamehash}{75a9324fcaf55aaed1c4d2c960ae1b8f}
       \strng{authornamehash}{73ded45385a38386f799e356c9bdd29c}
       \strng{authorfullhash}{75a9324fcaf55aaed1c4d2c960ae1b8f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Energy \& Environmental Science}
@@ -932,8 +976,8 @@
       \strng{authorbibnamehash}{1e3c63dbb9c373e71392dcd27d4ffecc}
       \strng{authornamehash}{1e3c63dbb9c373e71392dcd27d4ffecc}
       \strng{authorfullhash}{1e3c63dbb9c373e71392dcd27d4ffecc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in chemistry}
@@ -977,8 +1021,8 @@
       \strng{authorbibnamehash}{d04cdf2cbe08fa30c9a4f0c7fb038617}
       \strng{authornamehash}{8334013062f36391c2fb562b57c6c64c}
       \strng{authorfullhash}{d04cdf2cbe08fa30c9a4f0c7fb038617}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Int. J. Electrochem. Sci}
