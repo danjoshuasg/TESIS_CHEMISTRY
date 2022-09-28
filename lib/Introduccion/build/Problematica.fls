@@ -2,3 +2,8 @@ PWD C:\Users\danjo\TESIS_CHEMISTRY\lib\Introduccion
 INPUT C:\Users\danjo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\danjo\TESIS_CHEMISTRY\lib\Introduccion\Problematica.tex
 OUTPUT C:\Users\danjo\TESIS_CHEMISTRY\lib\Introduccion\build\Problematica.log
+INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT C:\Users\danjo\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+OUTPUT C:\Users\danjo\TESIS_CHEMISTRY\lib\Introduccion\build\Problematica.pdf
+INPUT C:\Users\danjo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map

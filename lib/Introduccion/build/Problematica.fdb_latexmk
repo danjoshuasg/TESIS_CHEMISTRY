@@ -1,8 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1662615221 "c:/Users/danjo/TESIS_CHEMISTRY/lib/Introduccion/Problematica.tex" "build/Problematica.pdf" "Problematica" 1662615221
+["pdflatex"] 1664382252 "c:/Users/danjo/TESIS_CHEMISTRY/lib/Introduccion/Problematica.tex" "build/Problematica.pdf" "Problematica" 1664382252
+  "C:/Users/danjo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663652962 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/danjo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1657041847 10236173 5ac0c18abdbebea8b234762c735bc510 ""
-  "build/Problematica.aux" 1662615221 32 3985256e7290058c681f74d7a3565a19 ""
-  "c:/Users/danjo/TESIS_CHEMISTRY/lib/Introduccion/Problematica.tex" 1662615219 2020 572511b6e1de12a1bc91ffa3c53b28d7 ""
+  "C:/Users/danjo/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
+  "C:/Users/danjo/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "C:/Users/danjo/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "build/Problematica.aux" 1664382234 32 3985256e7290058c681f74d7a3565a19 ""
+  "c:/Users/danjo/TESIS_CHEMISTRY/lib/Introduccion/Problematica.tex" 1664382251 13848 4e8a7db4942f6a60f35e04446c7a21ca ""
   (generated)
   "build/Problematica.log"
   "build/Problematica.pdf"

@@ -513,50 +513,6 @@
       \field{pages}{1\bibrangedash 10}
       \range{pages}{10}
     \endentry
-    \entry{rathore2021}{article}{}
-      \name{author}{4}{}{%
-        {{hash=aefcde436bb2c2ec80c2748d8b11a791}{%
-           family={Rathore},
-           familyi={R\bibinitperiod},
-           given={Neelam},
-           giveni={N\bibinitperiod}}}%
-        {{hash=8ba88ab3a923dbc59ae97eaecf35b76d}{%
-           family={Panwar},
-           familyi={P\bibinitperiod},
-           given={Narayan\bibnamedelima Lal},
-           giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=7749e03eb83f16326d4f1d0d8b8d7a65}{%
-           family={Yettou},
-           familyi={Y\bibinitperiod},
-           given={Fatiha},
-           giveni={F\bibinitperiod}}}%
-        {{hash=183429329da0d32814a589f02e24c978}{%
-           family={Gama},
-           familyi={G\bibinitperiod},
-           given={Amor},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Taylor \& Francis}%
-      }
-      \strng{namehash}{e04139b942d29579211f9c43bf41c152}
-      \strng{fullhash}{feceb8e18e63575ca882528c0c6affc2}
-      \strng{bibnamehash}{feceb8e18e63575ca882528c0c6affc2}
-      \strng{authorbibnamehash}{feceb8e18e63575ca882528c0c6affc2}
-      \strng{authornamehash}{e04139b942d29579211f9c43bf41c152}
-      \strng{authorfullhash}{feceb8e18e63575ca882528c0c6affc2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Ambient Energy}
-      \field{number}{10}
-      \field{title}{A comprehensive review of different types of solar photovoltaic cells and their applications}
-      \field{volume}{42}
-      \field{year}{2021}
-      \field{pages}{1200\bibrangedash 1217}
-      \range{pages}{18}
-    \endentry
     \entry{gul2016}{article}{}
       \name{author}{3}{}{%
         {{hash=135c029706d046fef32c5d95474e0bb5}{%
@@ -584,9 +540,8 @@
       \strng{authorbibnamehash}{76d218f31ba184b946dcb213f773e0fc}
       \strng{authornamehash}{76d218f31ba184b946dcb213f773e0fc}
       \strng{authorfullhash}{76d218f31ba184b946dcb213f773e0fc}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Energy Exploration \& Exploitation}
@@ -597,149 +552,581 @@
       \field{pages}{485\bibrangedash 526}
       \range{pages}{42}
     \endentry
-    \entry{srinivas2015review}{article}{}
+    \entry{moller2005multicrystalline}{article}{}
       \name{author}{4}{}{%
-        {{hash=a04a61471070522bdd87d1db4da2facc}{%
-           family={Srinivas},
-           familyi={S\bibinitperiod},
-           given={B},
-           giveni={B\bibinitperiod}}}%
-        {{hash=fb25424877373e71569060892686a61f}{%
-           family={Balaji},
-           familyi={B\bibinitperiod},
-           given={S},
-           giveni={S\bibinitperiod}}}%
-        {{hash=b73c44bf0a28d86067a2b1fbedea9b25}{%
-           family={Nagendra\bibnamedelima Babu},
-           familyi={N\bibinitperiod\bibinitdelim B\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=a6e0922b3bc3c181d8aa91694fcbf92f}{%
-           family={Reddy},
+        {{hash=49502c86358f923f12b86cc2e176fa91}{%
+           family={Möller},
+           familyi={M\bibinitperiod},
+           given={Hans\bibnamedelima Joachim},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=57cba3a571468f8550c7cf84cbbaa056}{%
+           family={Funke},
+           familyi={F\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=96bd96d882fe92286b92a6d8af4c972b}{%
+           family={Rinio},
            familyi={R\bibinitperiod},
-           given={YS},
-           giveni={Y\bibinitperiod}}}%
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9b32f95fafbfc2ae548ed8ba2fbadc98}{%
+           family={Scholz},
+           familyi={S\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{b8dda5ed49468ff0bc9710f68dad30e9}
-      \strng{fullhash}{2fa77cd239a49515ee98b785859f43bd}
-      \strng{bibnamehash}{2fa77cd239a49515ee98b785859f43bd}
-      \strng{authorbibnamehash}{2fa77cd239a49515ee98b785859f43bd}
-      \strng{authornamehash}{b8dda5ed49468ff0bc9710f68dad30e9}
-      \strng{authorfullhash}{2fa77cd239a49515ee98b785859f43bd}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ff9d318ef5511ee4d3b512c56c05370c}
+      \strng{fullhash}{5670c92e889ded4aec49b874dae7a660}
+      \strng{bibnamehash}{5670c92e889ded4aec49b874dae7a660}
+      \strng{authorbibnamehash}{5670c92e889ded4aec49b874dae7a660}
+      \strng{authornamehash}{ff9d318ef5511ee4d3b512c56c05370c}
+      \strng{authorfullhash}{5670c92e889ded4aec49b874dae7a660}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Engineering Research-Online}
-      \field{title}{Review on present and advance materials for solar cells}
-      \field{volume}{3}
-      \field{year}{2015}
-      \field{pages}{178\bibrangedash 182}
-      \range{pages}{5}
+      \field{journaltitle}{Thin Solid Films}
+      \field{number}{1-2}
+      \field{title}{Multicrystalline silicon for solar cells}
+      \field{volume}{487}
+      \field{year}{2005}
+      \field{pages}{179\bibrangedash 187}
+      \range{pages}{9}
     \endentry
-    \entry{yu2019growth}{article}{}
-      \name{author}{2}{}{%
-        {{hash=be685fc9abe8ac1d293819386a0d773e}{%
-           family={Yu},
-           familyi={Y\bibinitperiod},
-           given={Xuegong},
-           giveni={X\bibinitperiod}}}%
-        {{hash=70e8078184c9cb877d4dc381047738a5}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Deren},
-           giveni={D\bibinitperiod}}}%
+    \entry{sark2012introduction}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=2436a7d8f7a9190aa8a7b3d2f18bb41b}{%
+           family={Sark},
+           familyi={S\bibinitperiod},
+           given={Wilfried\bibnamedelima van},
+           giveni={W\bibinitperiod\bibinitdelim v\bibinitperiod}}}%
+        {{hash=8c93d683b08078f32269d8a14e1eee19}{%
+           family={Korte},
+           familyi={K\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=446b4f37ceabfdf68eb013f8d789d79e}{%
+           family={Roca},
+           familyi={R\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer}%
       }
-      \strng{namehash}{fe504a6a937af948ab645a9d96b13999}
-      \strng{fullhash}{fe504a6a937af948ab645a9d96b13999}
-      \strng{bibnamehash}{fe504a6a937af948ab645a9d96b13999}
-      \strng{authorbibnamehash}{fe504a6a937af948ab645a9d96b13999}
-      \strng{authornamehash}{fe504a6a937af948ab645a9d96b13999}
-      \strng{authorfullhash}{fe504a6a937af948ab645a9d96b13999}
+      \strng{namehash}{17cfb0bf339ee041aee74c2be31c3dae}
+      \strng{fullhash}{17cfb0bf339ee041aee74c2be31c3dae}
+      \strng{bibnamehash}{17cfb0bf339ee041aee74c2be31c3dae}
+      \strng{authorbibnamehash}{17cfb0bf339ee041aee74c2be31c3dae}
+      \strng{authornamehash}{17cfb0bf339ee041aee74c2be31c3dae}
+      \strng{authorfullhash}{17cfb0bf339ee041aee74c2be31c3dae}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Physics and technology of amorphous-crystalline heterostructure silicon solar cells}
+      \field{title}{Introduction--Physics and Technology of Amorphous-Crystalline Heterostructure Silicon Solar Cells}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 12}
+      \range{pages}{12}
+    \endentry
+    \entry{brendel2011thin}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3ffae5850742754b4a3a6af2239e02f6}{%
+           family={Brendel},
+           familyi={B\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{3ffae5850742754b4a3a6af2239e02f6}
+      \strng{fullhash}{3ffae5850742754b4a3a6af2239e02f6}
+      \strng{bibnamehash}{3ffae5850742754b4a3a6af2239e02f6}
+      \strng{authorbibnamehash}{3ffae5850742754b4a3a6af2239e02f6}
+      \strng{authornamehash}{3ffae5850742754b4a3a6af2239e02f6}
+      \strng{authorfullhash}{3ffae5850742754b4a3a6af2239e02f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thin-film crystalline silicon solar cells: physics and technology}
+      \field{year}{2011}
+    \endentry
+    \entry{konagai1978high}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fd07051c2c6872883de254cb4f956fa9}{%
+           family={Konagai},
+           familyi={K\bibinitperiod},
+           given={Makoto},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fa841c047b06b1b8e3437d0c0ca8dd8b}{%
+           family={Sugimoto},
+           familyi={S\bibinitperiod},
+           given={Mitsunori},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e3fcd2f3c4420c1f487fcf014e59b55b}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Kiyoshi},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d8a697ba3403dba60a56960cbd87738f}
+      \strng{fullhash}{d8a697ba3403dba60a56960cbd87738f}
+      \strng{bibnamehash}{d8a697ba3403dba60a56960cbd87738f}
+      \strng{authorbibnamehash}{d8a697ba3403dba60a56960cbd87738f}
+      \strng{authornamehash}{d8a697ba3403dba60a56960cbd87738f}
+      \strng{authorfullhash}{d8a697ba3403dba60a56960cbd87738f}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Handbook of Photovoltaic Silicon}
-      \field{title}{Growth of crystalline silicon for solar cells: Czochralski Si}
-      \field{year}{2019}
-      \field{pages}{129\bibrangedash 174}
+      \field{journaltitle}{Journal of crystal growth}
+      \field{title}{High efficiency GaAs thin film solar cells by peeled film technology}
+      \field{volume}{45}
+      \field{year}{1978}
+      \field{pages}{277\bibrangedash 280}
+      \range{pages}{4}
+    \endentry
+    \entry{dimroth2007high}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7c455c818c76d155eb81650879024581}{%
+           family={Dimroth},
+           familyi={D\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=7078dfcc41c7ea6215e728f94ddb5b61}{%
+           family={Kurtz},
+           familyi={K\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{8809fb7cb480bdbc8ebceeb63c341f0d}
+      \strng{fullhash}{8809fb7cb480bdbc8ebceeb63c341f0d}
+      \strng{bibnamehash}{8809fb7cb480bdbc8ebceeb63c341f0d}
+      \strng{authorbibnamehash}{8809fb7cb480bdbc8ebceeb63c341f0d}
+      \strng{authornamehash}{8809fb7cb480bdbc8ebceeb63c341f0d}
+      \strng{authorfullhash}{8809fb7cb480bdbc8ebceeb63c341f0d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MRS bulletin}
+      \field{number}{3}
+      \field{title}{High-efficiency multijunction solar cells}
+      \field{volume}{32}
+      \field{year}{2007}
+      \field{pages}{230\bibrangedash 235}
+      \range{pages}{6}
+    \endentry
+    \entry{philipps2018high}{incollection}{}
+      \name{author}{3}{}{%
+        {{hash=0618eec848d4a23b40c5e6bfd2c801cc}{%
+           family={Philipps},
+           familyi={P\bibinitperiod},
+           given={Simon\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=7c455c818c76d155eb81650879024581}{%
+           family={Dimroth},
+           familyi={D\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f8af45a6d5ec4072bfb35281ed9f31de}{%
+           family={Bett},
+           familyi={B\bibinitperiod},
+           given={Andreas\bibnamedelima W},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6fdf8afc419b4840ea8c64e23b4f9103}
+      \strng{fullhash}{6fdf8afc419b4840ea8c64e23b4f9103}
+      \strng{bibnamehash}{6fdf8afc419b4840ea8c64e23b4f9103}
+      \strng{authorbibnamehash}{6fdf8afc419b4840ea8c64e23b4f9103}
+      \strng{authornamehash}{6fdf8afc419b4840ea8c64e23b4f9103}
+      \strng{authorfullhash}{6fdf8afc419b4840ea8c64e23b4f9103}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{McEvoy's handbook of photovoltaics}
+      \field{title}{High-efficiency III--V multijunction solar cells}
+      \field{year}{2018}
+      \field{pages}{439\bibrangedash 472}
+      \range{pages}{34}
+    \endentry
+    \entry{wada2001high}{article}{}
+      \name{author}{7}{}{%
+        {{hash=f7824b7869d3a399fd8220237dc7f3b3}{%
+           family={Wada},
+           familyi={W\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0269adbd3ab53e1c52a61d47941fee8c}{%
+           family={Hashimoto},
+           familyi={H\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a02929af1a4147288186b7d160a64e64}{%
+           family={Nishiwaki},
+           familyi={N\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dc33cd696b947309b3d614515ad12b4b}{%
+           family={Satoh},
+           familyi={S\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f9b4f59886669c64ca646ed90847cb19}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8ff2bf8295990ad11833baf383d7f475}{%
+           family={Negami},
+           familyi={N\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ab099edb16c10199083399aa70a90e64}{%
+           family={Miyake},
+           familyi={M\bibinitperiod},
+           given={HJSEM},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f6a5c75ce3bb532a22223c5f4e89d5cd}
+      \strng{fullhash}{ab40a2ee8a291e6ab9b1fc28b565e3bd}
+      \strng{bibnamehash}{ab40a2ee8a291e6ab9b1fc28b565e3bd}
+      \strng{authorbibnamehash}{ab40a2ee8a291e6ab9b1fc28b565e3bd}
+      \strng{authornamehash}{f6a5c75ce3bb532a22223c5f4e89d5cd}
+      \strng{authorfullhash}{ab40a2ee8a291e6ab9b1fc28b565e3bd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solar Energy Materials and Solar Cells}
+      \field{number}{1-4}
+      \field{title}{High-efficiency CIGS solar cells with modified CIGS surface}
+      \field{volume}{67}
+      \field{year}{2001}
+      \field{pages}{305\bibrangedash 310}
+      \range{pages}{6}
+    \endentry
+    \entry{ferekides2004cdte}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f18e4055acfc70add343064702a6d24c}{%
+           family={Ferekides},
+           familyi={F\bibinitperiod},
+           given={CS},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d206785086ac9f73f645ae8ec2e81198}{%
+           family={Balasubramanian},
+           familyi={B\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod}}}%
+        {{hash=93ab7c3df97b7934ae5514b048dd93c4}{%
+           family={Mamazza},
+           familyi={M\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=053eeff1a7a9f6a1e73e78f92b790691}{%
+           family={Viswanathan},
+           familyi={V\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a1563641bc9c7a4a1079914b6965e325}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ef2230bf3670a5f81901fbc694fb2232}{%
+           family={Morel},
+           familyi={M\bibinitperiod},
+           given={DL},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{930337076390f4b131525469fbf65267}
+      \strng{fullhash}{d612032144f7858f98bee6b17ae02a5a}
+      \strng{bibnamehash}{d612032144f7858f98bee6b17ae02a5a}
+      \strng{authorbibnamehash}{d612032144f7858f98bee6b17ae02a5a}
+      \strng{authornamehash}{930337076390f4b131525469fbf65267}
+      \strng{authorfullhash}{d612032144f7858f98bee6b17ae02a5a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solar energy}
+      \field{number}{6}
+      \field{title}{CdTe thin film solar cells: device and technology issues}
+      \field{volume}{77}
+      \field{year}{2004}
+      \field{pages}{823\bibrangedash 830}
+      \range{pages}{8}
+    \endentry
+    \entry{krvc2003analysis}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c7800035be5c3f7e12762ca34b3ca771}{%
+           family={Krč},
+           familyi={K\bibinitperiod},
+           given={Janez},
+           giveni={J\bibinitperiod}}}%
+        {{hash=10b3946afcd551bd774eaa0c9636f742}{%
+           family={Smole},
+           familyi={S\bibinitperiod},
+           given={Franc},
+           giveni={F\bibinitperiod}}}%
+        {{hash=46598316d3909bb9d19ad769dd2ad954}{%
+           family={Topič},
+           familyi={T\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{2e7a161baa944c4214271bf774557331}
+      \strng{fullhash}{2e7a161baa944c4214271bf774557331}
+      \strng{bibnamehash}{2e7a161baa944c4214271bf774557331}
+      \strng{authorbibnamehash}{2e7a161baa944c4214271bf774557331}
+      \strng{authornamehash}{2e7a161baa944c4214271bf774557331}
+      \strng{authorfullhash}{2e7a161baa944c4214271bf774557331}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Progress in photovoltaics: Research and Applications}
+      \field{number}{1}
+      \field{title}{Analysis of light scattering in amorphous Si: H solar cells by a one-dimensional semi-coherent optical model}
+      \field{volume}{11}
+      \field{year}{2003}
+      \field{pages}{15\bibrangedash 26}
+      \range{pages}{12}
+    \endentry
+    \entry{sharma2018dye}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0eae770163a83c8022646543fafedcdd}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Khushboo},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f89b248865721ceff6b75ee3c3cfc0ab}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Vinay},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0c6679432dd4c5860eeedd2c970db551}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={SS},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SpringerOpen}%
+      }
+      \strng{namehash}{18f2dd3e6d5dfa618daaca3869010cfa}
+      \strng{fullhash}{18f2dd3e6d5dfa618daaca3869010cfa}
+      \strng{bibnamehash}{18f2dd3e6d5dfa618daaca3869010cfa}
+      \strng{authorbibnamehash}{18f2dd3e6d5dfa618daaca3869010cfa}
+      \strng{authornamehash}{18f2dd3e6d5dfa618daaca3869010cfa}
+      \strng{authorfullhash}{18f2dd3e6d5dfa618daaca3869010cfa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nanoscale research letters}
+      \field{number}{1}
+      \field{title}{Dye-sensitized solar cells: fundamentals and current status}
+      \field{volume}{13}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 46}
       \range{pages}{46}
     \endentry
-    \entry{sharma2015solar}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{3}{}{%
-        {{hash=b273510e791fe0c8558f6885e8304fdf}{%
-           family={Sharma},
+    \entry{suryawanshi2013czts}{article}{}
+      \name{author}{7}{}{%
+        {{hash=fa94c20e4da042997226c0b9862704b5}{%
+           family={Suryawanshi},
            familyi={S\bibinitperiod},
-           given={Shruti},
+           given={MP},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e3e786497a8710e6a8c5f7da9594112f}{%
+           family={Agawane},
+           familyi={A\bibinitperiod},
+           given={GL},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2ff8844f429d12c359f7a07d5dff0c34}{%
+           family={Bhosale},
+           familyi={B\bibinitperiod},
+           given={SM},
            giveni={S\bibinitperiod}}}%
-        {{hash=9cc16185fff706d34787c5117dc74689}{%
-           family={Jain},
-           familyi={J\bibinitperiod},
-           given={Kamlesh\bibnamedelima Kumar},
-           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=838a714c84b5508c1ab2fe22e25e220a}{%
-           family={Sharma},
+        {{hash=91cd4f12801e2f06a121ed0e9ab22c6e}{%
+           family={Shin},
            familyi={S\bibinitperiod},
-           given={Ashutosh},
+           given={Seung\bibnamedelima Wook},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=6757a755055be5866f341038082dc440}{%
+           family={Patil},
+           familyi={P\bibinitperiod},
+           given={PS},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c6c2827bad7e2077283c3e9f16e569d9}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jeong-Hoon},
+           giveni={J\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=d10e941feb9017bb7956d9583a41fdd0}{%
+           family={Moholkar},
+           familyi={M\bibinitperiod},
+           given={AV},
            giveni={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Scientific Research Publishing}%
+        {Taylor \& Francis}%
       }
-      \strng{namehash}{c89bc33249b226aacb4d5b7f4bf61e2f}
-      \strng{fullhash}{c89bc33249b226aacb4d5b7f4bf61e2f}
-      \strng{bibnamehash}{c89bc33249b226aacb4d5b7f4bf61e2f}
-      \strng{authorbibnamehash}{c89bc33249b226aacb4d5b7f4bf61e2f}
-      \strng{authornamehash}{c89bc33249b226aacb4d5b7f4bf61e2f}
-      \strng{authorfullhash}{c89bc33249b226aacb4d5b7f4bf61e2f}
+      \strng{namehash}{c8144660f889230be1cef18fed46e1d8}
+      \strng{fullhash}{305198aff4cbc612a5f2f51baa0e8e33}
+      \strng{bibnamehash}{305198aff4cbc612a5f2f51baa0e8e33}
+      \strng{authorbibnamehash}{305198aff4cbc612a5f2f51baa0e8e33}
+      \strng{authornamehash}{c8144660f889230be1cef18fed46e1d8}
+      \strng{authorfullhash}{305198aff4cbc612a5f2f51baa0e8e33}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Materials Sciences and Applications}
-      \field{number}{12}
-      \field{title}{Solar cells: in research and applications—a review}
-      \field{volume}{6}
-      \field{year}{2015}
-      \field{pages}{1145}
-      \range{pages}{1}
+      \field{journaltitle}{Materials Technology}
+      \field{number}{1-2}
+      \field{title}{CZTS based thin film solar cells: a status review}
+      \field{volume}{28}
+      \field{year}{2013}
+      \field{pages}{98\bibrangedash 109}
+      \range{pages}{12}
     \endentry
-    \entry{kaur2016review}{article}{}
+    \entry{hoppe2004organic}{article}{}
       \name{author}{2}{}{%
-        {{hash=108f133a84151934027d33b04ae3ea39}{%
-           family={Kaur},
-           familyi={K\bibinitperiod},
-           given={Manjot},
-           giveni={M\bibinitperiod}}}%
-        {{hash=cda917ada444a7888f3d2620b6ad4dae}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={Harjit},
+        {{hash=4a70e0b7c6d455ec40f19596ac40a226}{%
+           family={Hoppe},
+           familyi={H\bibinitperiod},
+           given={Harald},
            giveni={H\bibinitperiod}}}%
+        {{hash=c2bd953a89bd5e627e0e90af985cc6c7}{%
+           family={Sariciftci},
+           familyi={S\bibinitperiod},
+           given={Niyazi\bibnamedelima Serdar},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
-      \strng{namehash}{ebe8cb4656e19651ca6857b0b9dafbf1}
-      \strng{fullhash}{ebe8cb4656e19651ca6857b0b9dafbf1}
-      \strng{bibnamehash}{ebe8cb4656e19651ca6857b0b9dafbf1}
-      \strng{authorbibnamehash}{ebe8cb4656e19651ca6857b0b9dafbf1}
-      \strng{authornamehash}{ebe8cb4656e19651ca6857b0b9dafbf1}
-      \strng{authorfullhash}{ebe8cb4656e19651ca6857b0b9dafbf1}
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{fe629f65c0059d1b25c89a0a3b3e975e}
+      \strng{fullhash}{fe629f65c0059d1b25c89a0a3b3e975e}
+      \strng{bibnamehash}{fe629f65c0059d1b25c89a0a3b3e975e}
+      \strng{authorbibnamehash}{fe629f65c0059d1b25c89a0a3b3e975e}
+      \strng{authornamehash}{fe629f65c0059d1b25c89a0a3b3e975e}
+      \strng{authorfullhash}{fe629f65c0059d1b25c89a0a3b3e975e}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Int. J. Core Eng. Manag.(IJCEM)}
-      \field{number}{2}
-      \field{title}{A review: comparison of silicon solar cells and thin film solar cells}
-      \field{volume}{3}
-      \field{year}{2016}
-      \field{pages}{15\bibrangedash 23}
-      \range{pages}{9}
+      \field{journaltitle}{Journal of materials research}
+      \field{number}{7}
+      \field{title}{Organic solar cells: An overview}
+      \field{volume}{19}
+      \field{year}{2004}
+      \field{pages}{1924\bibrangedash 1945}
+      \range{pages}{22}
+    \endentry
+    \entry{ameri2009organic}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cca073efbe1eee4f90284d59b81d604e}{%
+           family={Ameri},
+           familyi={A\bibinitperiod},
+           given={Tayebeh},
+           giveni={T\bibinitperiod}}}%
+        {{hash=5b6962eaeb0fe37ed9f2f2272c9915ca}{%
+           family={Dennler},
+           familyi={D\bibinitperiod},
+           given={Gilles},
+           giveni={G\bibinitperiod}}}%
+        {{hash=45c269fba82ee8b026f5c818b7b4f36d}{%
+           family={Lungenschmied},
+           familyi={L\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e478af1f4007160eda2beeb502cceda1}{%
+           family={Brabec},
+           familyi={B\bibinitperiod},
+           given={Christoph\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{f0c5721bf70265d3c348acaad412e181}
+      \strng{fullhash}{ba6b35180884fd20f2dfaab308757716}
+      \strng{bibnamehash}{ba6b35180884fd20f2dfaab308757716}
+      \strng{authorbibnamehash}{ba6b35180884fd20f2dfaab308757716}
+      \strng{authornamehash}{f0c5721bf70265d3c348acaad412e181}
+      \strng{authorfullhash}{ba6b35180884fd20f2dfaab308757716}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy \& Environmental Science}
+      \field{number}{4}
+      \field{title}{Organic tandem solar cells: A review}
+      \field{volume}{2}
+      \field{year}{2009}
+      \field{pages}{347\bibrangedash 363}
+      \range{pages}{17}
+    \endentry
+    \entry{jung2015perovskite}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1b2155dac27fe007202159a31434ef16}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Hyun\bibnamedelima Suk},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4b45da22ae2f970f9a9acb3e564f546f}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Nam-Gyu},
+           giveni={N\bibinithyphendelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{45778b446a199b99309c5bd27b2493f0}
+      \strng{fullhash}{45778b446a199b99309c5bd27b2493f0}
+      \strng{bibnamehash}{45778b446a199b99309c5bd27b2493f0}
+      \strng{authorbibnamehash}{45778b446a199b99309c5bd27b2493f0}
+      \strng{authornamehash}{45778b446a199b99309c5bd27b2493f0}
+      \strng{authorfullhash}{45778b446a199b99309c5bd27b2493f0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{small}
+      \field{number}{1}
+      \field{title}{Perovskite solar cells: from materials to devices}
+      \field{volume}{11}
+      \field{year}{2015}
+      \field{pages}{10\bibrangedash 25}
+      \range{pages}{16}
     \endentry
     \entry{bertolli2008}{article}{}
       \name{author}{1}{}{%
@@ -755,92 +1142,13 @@
       \strng{authorbibnamehash}{a24190285428b65a29ac06310623eca7}
       \strng{authornamehash}{a24190285428b65a29ac06310623eca7}
       \strng{authorfullhash}{a24190285428b65a29ac06310623eca7}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Department of Physics, University of Tennessee}
       \field{title}{Solar Cell Materials. Course: Solid State II}
       \field{year}{2008}
-    \endentry
-    \entry{bagher2015types}{article}{}
-      \name{author}{3}{}{%
-        {{hash=5f1e1c4ba3ae8dcd531072de3ab8823f}{%
-           family={Bagher},
-           familyi={B\bibinitperiod},
-           given={Askari\bibnamedelima Mohammad},
-           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=d454c9a752eb0ec5fb66b30f6379b072}{%
-           family={Vahid},
-           familyi={V\bibinitperiod},
-           given={Mirzaei\bibnamedelimb Mahmoud\bibnamedelima Abadi},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=388694839cdfe9721a37ecd562af4c06}{%
-           family={Mohsen},
-           familyi={M\bibinitperiod},
-           given={Mirhabibi},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Science Publishing Group}%
-      }
-      \strng{namehash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
-      \strng{fullhash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
-      \strng{bibnamehash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
-      \strng{authorbibnamehash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
-      \strng{authornamehash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
-      \strng{authorfullhash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{American Journal of optics and Photonics}
-      \field{number}{5}
-      \field{title}{Types of solar cells and application}
-      \field{volume}{3}
-      \field{year}{2015}
-      \field{pages}{94\bibrangedash 113}
-      \range{pages}{20}
-    \endentry
-    \entry{gul2016review}{article}{}
-      \name{author}{3}{}{%
-        {{hash=135c029706d046fef32c5d95474e0bb5}{%
-           family={Gul},
-           familyi={G\bibinitperiod},
-           given={Mehreen},
-           giveni={M\bibinitperiod}}}%
-        {{hash=dd312b68c01bf065982250a6bd7ecf5b}{%
-           family={Kotak},
-           familyi={K\bibinitperiod},
-           given={Yash},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=dc3e72173b83b24b428df3cdc88b5bcd}{%
-           family={Muneer},
-           familyi={M\bibinitperiod},
-           given={Tariq},
-           giveni={T\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {SAGE Publications Sage UK: London, England}%
-      }
-      \strng{namehash}{76d218f31ba184b946dcb213f773e0fc}
-      \strng{fullhash}{76d218f31ba184b946dcb213f773e0fc}
-      \strng{bibnamehash}{76d218f31ba184b946dcb213f773e0fc}
-      \strng{authorbibnamehash}{76d218f31ba184b946dcb213f773e0fc}
-      \strng{authornamehash}{76d218f31ba184b946dcb213f773e0fc}
-      \strng{authorfullhash}{76d218f31ba184b946dcb213f773e0fc}
-      \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Energy Exploration \& Exploitation}
-      \field{number}{4}
-      \field{title}{Review on recent trend of solar photovoltaic technology}
-      \field{volume}{34}
-      \field{year}{2016}
-      \field{pages}{485\bibrangedash 526}
-      \range{pages}{42}
     \endentry
     \entry{kim2022conformal}{article}{}
       \true{moreauthor}
@@ -1049,8 +1357,8 @@
       \strng{authorbibnamehash}{d04cdf2cbe08fa30c9a4f0c7fb038617}
       \strng{authornamehash}{8334013062f36391c2fb562b57c6c64c}
       \strng{authorfullhash}{d04cdf2cbe08fa30c9a4f0c7fb038617}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Int. J. Electrochem. Sci}
@@ -1060,45 +1368,6 @@
       \field{year}{2015}
       \field{pages}{2859\bibrangedash 2871}
       \range{pages}{13}
-    \endentry
-    \entry{sharma2018dye}{article}{}
-      \name{author}{3}{}{%
-        {{hash=0eae770163a83c8022646543fafedcdd}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={Khushboo},
-           giveni={K\bibinitperiod}}}%
-        {{hash=f89b248865721ceff6b75ee3c3cfc0ab}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={Vinay},
-           giveni={V\bibinitperiod}}}%
-        {{hash=0c6679432dd4c5860eeedd2c970db551}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={SS},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {SpringerOpen}%
-      }
-      \strng{namehash}{18f2dd3e6d5dfa618daaca3869010cfa}
-      \strng{fullhash}{18f2dd3e6d5dfa618daaca3869010cfa}
-      \strng{bibnamehash}{18f2dd3e6d5dfa618daaca3869010cfa}
-      \strng{authorbibnamehash}{18f2dd3e6d5dfa618daaca3869010cfa}
-      \strng{authornamehash}{18f2dd3e6d5dfa618daaca3869010cfa}
-      \strng{authorfullhash}{18f2dd3e6d5dfa618daaca3869010cfa}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Nanoscale research letters}
-      \field{number}{1}
-      \field{title}{Dye-sensitized solar cells: fundamentals and current status}
-      \field{volume}{13}
-      \field{year}{2018}
-      \field{pages}{1\bibrangedash 46}
-      \range{pages}{46}
     \endentry
     \entry{wen2020}{article}{}
       \name{author}{5}{}{%
