@@ -1306,6 +1306,172 @@
       \field{pages}{100431}
       \range{pages}{1}
     \endentry
+    \entry{velilla2019outdoor}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d8a3332dfd9f65d8b7131fc57cc3789b}{%
+           family={Velilla},
+           familyi={V\bibinitperiod},
+           given={Esteban},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e40facd69643a196689636684c5d9d60}{%
+           family={Ramirez},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9c3f7c55cfa44e34fe592bd5855580f5}{%
+           family={Uribe},
+           familyi={U\bibinitperiod},
+           given={José-Ignacio},
+           giveni={J\bibinithyphendelim I\bibinitperiod}}}%
+        {{hash=1b28bbc058ac1f6768b40126fe92d0a3}{%
+           family={Montoya},
+           familyi={M\bibinitperiod},
+           given={Juan\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=49bab7f2ac0aad04fa3bc117e18ec20f}{%
+           family={Jaramillo},
+           familyi={J\bibinitperiod},
+           given={Franklin},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{37f2a6b25621448d4557ddef29a0a00f}
+      \strng{fullhash}{de86368aff5a5eada58854b85cc5c20e}
+      \strng{bibnamehash}{de86368aff5a5eada58854b85cc5c20e}
+      \strng{authorbibnamehash}{de86368aff5a5eada58854b85cc5c20e}
+      \strng{authornamehash}{37f2a6b25621448d4557ddef29a0a00f}
+      \strng{authorfullhash}{de86368aff5a5eada58854b85cc5c20e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Solar Energy Materials and Solar Cells}
+      \field{title}{Outdoor performance of perovskite solar technology: Silicon comparison and competitive advantages at different irradiances}
+      \field{volume}{191}
+      \field{year}{2019}
+      \field{pages}{15\bibrangedash 20}
+      \range{pages}{6}
+    \endentry
+    \entry{wang2022sustainable}{article}{}
+      \name{author}{5}{}{%
+        {{hash=870cdb1c26bac37701546885f71ea490}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xia},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7fa553470a734aec4aa2b82d273d8698}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Binghai},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8ea21a95f1b9b08f5a8d95a82c9d8196}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Mingjie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bbde3a0bb1ede681196e9892a3598df6}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Ding-Jiang},
+           giveni={D\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=8230159a62b3a358109e2b0d7da6f79d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shi-Min},
+           giveni={S\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{c365fc646d7aa75607aa4040854cb966}
+      \strng{fullhash}{a0021b53190fdd88d8dea413282e27b1}
+      \strng{bibnamehash}{a0021b53190fdd88d8dea413282e27b1}
+      \strng{authorbibnamehash}{a0021b53190fdd88d8dea413282e27b1}
+      \strng{authornamehash}{c365fc646d7aa75607aa4040854cb966}
+      \strng{authorfullhash}{a0021b53190fdd88d8dea413282e27b1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Materials Chemistry A}
+      \field{number}{30}
+      \field{title}{Sustainable management of lead in perovskite solar cells}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{15861\bibrangedash 15864}
+      \range{pages}{4}
+    \endentry
+    \entry{pan2014high}{article}{}
+      \name{author}{9}{}{%
+        {{hash=8b856574fc9df8cd44322e30e102448b}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Zhenxiao},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4f9b31ca387c1a9b0ae30223f865717f}{%
+           family={Mora-Seró},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={Iván},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2d36ed7c2a2692f75f4d5fcb4a2e6026}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Qing},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=4563929dd9bf330936657a202afad07a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod}}}%
+        {{hash=92e14a8c19eb5a0c7c199c85db74f106}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1458726b694664aee6a890e64d7ee5ce}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Ke},
+           giveni={K\bibinitperiod}}}%
+        {{hash=57cf8531003f9d0c22b8a30358523ffc}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ccb5df750c45075421e30156055a17e5}{%
+           family={Zhong},
+           familyi={Z\bibinitperiod},
+           given={Xinhua},
+           giveni={X\bibinitperiod}}}%
+        {{hash=71ef0a615f608dcc5db6939513ea40ae}{%
+           family={Bisquert},
+           familyi={B\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{328c76d3f914f2d9719ce7ce9852b71d}
+      \strng{fullhash}{aeab65cfa9002e4cae0d38b14ea7b252}
+      \strng{bibnamehash}{aeab65cfa9002e4cae0d38b14ea7b252}
+      \strng{authorbibnamehash}{aeab65cfa9002e4cae0d38b14ea7b252}
+      \strng{authornamehash}{328c76d3f914f2d9719ce7ce9852b71d}
+      \strng{authorfullhash}{aeab65cfa9002e4cae0d38b14ea7b252}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{25}
+      \field{title}{High-efficiency “green” quantum dot solar cells}
+      \field{volume}{136}
+      \field{year}{2014}
+      \field{pages}{9203\bibrangedash 9210}
+      \range{pages}{8}
+    \endentry
     \entry{bertolli2008}{article}{}
       \name{author}{1}{}{%
         {{hash=a24190285428b65a29ac06310623eca7}{%
@@ -1508,8 +1674,8 @@
       \strng{authorbibnamehash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
       \strng{authornamehash}{c07f6140f073d684eae466a0c7ef80d4}
       \strng{authorfullhash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Solar RRL}
