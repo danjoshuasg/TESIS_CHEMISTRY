@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  26 SEP 2022 18:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  28 SEP 2022 00:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -888,10 +888,6 @@ Package csquotes Info: Redefining alias 'default' -> 'spanish'.
  (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
-
-
-LaTeX Warning: Label `img:SerieTiempo' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
@@ -1023,33 +1019,39 @@ Package pdftex.def Info: img/PorcentajeRenovable.png  used on input line 5.
 <img/SerieTiempo.png, id=33, 804.00375pt x 344.78813pt>
 File: img/SerieTiempo.png Graphic file (type png)
 <use img/SerieTiempo.png>
-Package pdftex.def Info: img/SerieTiempo.png  used on input line 22.
-(pdftex.def)             Requested size: 482.40598pt x 206.87447pt.
+Package pdftex.def Info: img/SerieTiempo.png  used on input line 31.
+(pdftex.def)             Requested size: 442.20343pt x 189.63405pt.
 
-Overfull \hbox (64.1523pt too wide) in paragraph at lines 22--24
+Overfull \hbox (23.94975pt too wide) in paragraph at lines 31--33
 [][] 
  []
 
-[4 <./img/SerieTiempo.png (PNG copy)>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4]
 <img/SeriesEmergentes.png, id=39, 820.56563pt x 344.78813pt>
 File: img/SeriesEmergentes.png Graphic file (type png)
 <use img/SeriesEmergentes.png>
-Package pdftex.def Info: img/SeriesEmergentes.png  used on input line 34.
+Package pdftex.def Info: img/SeriesEmergentes.png  used on input line 47.
 (pdftex.def)             Requested size: 492.34319pt x 206.87447pt.
 
-Overfull \hbox (74.08951pt too wide) in paragraph at lines 34--36
+Overfull \hbox (74.08951pt too wide) in paragraph at lines 47--49
 [][] 
  []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <img/DSSC.png, id=40, 565.11125pt x 273.02pt>
 File: img/DSSC.png Graphic file (type png)
 <use img/DSSC.png>
-Package pdftex.def Info: img/DSSC.png  used on input line 48.
-(pdftex.def)             Requested size: 339.06937pt x 163.81326pt.
+Package pdftex.def Info: img/DSSC.png  used on input line 56.
+(pdftex.def)             Requested size: 395.57516pt x 191.11269pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[5 <./img/SeriesEmergentes.png>]) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) [6 <./img/DSSC.png>] (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex [7]
+[5 <./img/SerieTiempo.png (PNG copy)>] [6 <./img/SeriesEmergentes.png> <./img/DSSC.png>]) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex) (lib/Metodologia/Metodologia.tex [7]
 Overfull \vbox (112.84409pt too high) has occurred while \output is active []
 
  [8])
@@ -1057,7 +1059,7 @@ Overfull \hbox (39.93707pt too wide) in paragraph at lines 170--170
 []\OT1/cmr/m/n/10 Ritchie H, Ro-ser M y Ro-sa-do P. Energy. Our World in Da-ta  2020. https://ourworldindata.org/energy 
  []
 
-[9] [10] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
+[9] [10] [11] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
@@ -1065,25 +1067,22 @@ LaTeX Info: Redefining \% on input line 10.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38044 strings out of 478582
- 911226 string characters out of 2855132
- 1941372 words of memory out of 3000000
- 55622 multiletter control sequences out of 15000+600000
- 478127 words of font info for 59 fonts, out of 8000000 for 9000
+ 38054 strings out of 478582
+ 911429 string characters out of 2855132
+ 1941387 words of memory out of 3000000
+ 55631 multiletter control sequences out of 15000+600000
+ 478295 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,7n,103p,1597b,1895s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (11 pages, 301219 bytes).
+ <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (12 pages, 318718 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
+ 124 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1102,6 +1102,7 @@ INPUT .\lib\Metodologia\Metodologia.tex
 INPUT lib\Metodologia\Metodologia.tex
 INPUT .\lib\Metodologia\Metodologia.tex
 INPUT lib\Metodologia\Metodologia.tex
+INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
 INPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.run.xml
 OUTPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.run.xml
@@ -1131,3 +1132,5 @@ INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmti9.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmti9.pfb
+INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb

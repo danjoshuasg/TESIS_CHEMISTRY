@@ -442,6 +442,34 @@
       \field{pages}{1\bibrangedash 13}
       \range{pages}{13}
     \endentry
+    \entry{nrel}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{%
+           family={NREL},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{fullhash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{bibnamehash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{authorbibnamehash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{authornamehash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{authorfullhash}{0555c9ccec3fd2deadd3866f764bed48}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{National Renewable Energy Laboratory }Best Research-Cell Efficiency Chart}
+      \field{urlday}{26}
+      \field{urlmonth}{9}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nrel.gov/pv/cell-efficiency.html
+      \endverb
+      \verb{url}
+      \verb https://www.nrel.gov/pv/cell-efficiency.html
+      \endverb
+    \endentry
     \entry{blakers2013}{article}{}
       \name{author}{4}{}{%
         {{hash=9f67a165147d152bb274578248d2ff06}{%
@@ -762,8 +790,8 @@
       \strng{authorbibnamehash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
       \strng{authornamehash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
       \strng{authorfullhash}{d1b3a6cbcdaf9f7f50368ad074d90ffa}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of optics and Photonics}
@@ -1109,8 +1137,8 @@
       \strng{authorbibnamehash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
       \strng{authornamehash}{c07f6140f073d684eae466a0c7ef80d4}
       \strng{authorfullhash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Solar RRL}
@@ -1138,8 +1166,8 @@
       \strng{authorbibnamehash}{88abb09f30e9ace944c46c2457441cf2}
       \strng{authornamehash}{88abb09f30e9ace944c46c2457441cf2}
       \strng{authorfullhash}{88abb09f30e9ace944c46c2457441cf2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ABI/INFORM Global}
