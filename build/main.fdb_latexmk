@@ -1,18 +1,18 @@
 # Fdb version 3
-["biber C:/Users/danjo/TESIS_CHEMISTRY/build/main"] 1664342107 "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl" "C:/Users/danjo/TESIS_CHEMISTRY/build/main" 1664343118
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" 1664343117 110404 d637083305cb0cdb0082e3d4ba616cfe ""
+["biber C:/Users/danjo/TESIS_CHEMISTRY/build/main"] 1664347482 "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl" "C:/Users/danjo/TESIS_CHEMISTRY/build/main" 1664347570
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" 1664347569 110510 31e22c62134340a15238b3d67badec8f ""
   "biblio.bib" 1664238802 10669 9e77a9dac2fe4f6b983f34a3c27a68e3 ""
   (generated)
   "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl"
   "C:/Users/danjo/TESIS_CHEMISTRY/build/main.blg"
-["biber build/main"] 1664342104 "build/main.bcf" "build/main.bbl" "build/main" 1664343118
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" 1664343117 110404 d637083305cb0cdb0082e3d4ba616cfe ""
+["biber build/main"] 1664347479 "build/main.bcf" "build/main.bbl" "build/main" 1664347570
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf" 1664347569 110510 31e22c62134340a15238b3d67badec8f ""
   "biblio.bib" 1664238802 10669 9e77a9dac2fe4f6b983f34a3c27a68e3 ""
-  "build/main.bcf" 1664343117 110404 d637083305cb0cdb0082e3d4ba616cfe "pdflatex"
+  "build/main.bcf" 1664347569 110510 31e22c62134340a15238b3d67badec8f "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
-["pdflatex"] 1664343114 "c:/Users/danjo/TESIS_CHEMISTRY/main.tex" "build/main.pdf" "main" 1664343118
+["pdflatex"] 1664347566 "c:/Users/danjo/TESIS_CHEMISTRY/main.tex" "build/main.pdf" "main" 1664347570
   "C:/Users/danjo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663652962 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/danjo/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1659328697 11548 0319d8c42e63ce79d63170de3bdfdaa7 ""
   "C:/Users/danjo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1657041847 10236173 5ac0c18abdbebea8b234762c735bc510 ""
@@ -244,22 +244,23 @@
   "C:/Users/danjo/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "C:/Users/danjo/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/danjo/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.aux" 1664343117 12100 bccc171d61d9d2cdbf30c065c39ad290 ""
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl" 1664342110 48511 4115e21e30792fc07e51617267cc0723 "biber C:/Users/danjo/TESIS_CHEMISTRY/build/main"
-  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.toc" 1664343117 3617 40fa0bdeadea888f1ee3ed18e157d368 ""
-  "build/main.aux" 1664343117 12100 bccc171d61d9d2cdbf30c065c39ad290 "pdflatex"
-  "build/main.bbl" 1664342110 48511 4115e21e30792fc07e51617267cc0723 "biber build/main"
-  "build/main.run.xml" 1664343117 2367 ae23a006b606cdae93bfa515a06e2990 "pdflatex"
-  "build/main.toc" 1664343117 3617 40fa0bdeadea888f1ee3ed18e157d368 "pdflatex"
-  "c:/Users/danjo/TESIS_CHEMISTRY/main.tex" 1664341809 7528 0ba927d754a37739f500e831698ff48b ""
-  "img/DSSC.png" 1664235196 40594 b6c53922051e1c91f6a64ad06df50952 ""
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.aux" 1664347569 12586 c31673105387b42aa475aab1440f12de ""
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl" 1664347485 48511 f16f12c9b0374fbab06d7d748d939f98 "biber C:/Users/danjo/TESIS_CHEMISTRY/build/main"
+  "C:/Users/danjo/TESIS_CHEMISTRY/build/main.toc" 1664347569 3618 3716d9e301e9dc2e162fce46aca81c21 ""
+  "build/main.aux" 1664347569 12586 c31673105387b42aa475aab1440f12de "pdflatex"
+  "build/main.bbl" 1664347485 48511 f16f12c9b0374fbab06d7d748d939f98 "biber build/main"
+  "build/main.run.xml" 1664347569 2367 ae23a006b606cdae93bfa515a06e2990 "pdflatex"
+  "build/main.toc" 1664347569 3618 3716d9e301e9dc2e162fce46aca81c21 "pdflatex"
+  "c:/Users/danjo/TESIS_CHEMISTRY/main.tex" 1664347471 7528 0ba927d754a37739f500e831698ff48b ""
+  "img/DSSC.png" 1664344814 41319 da2da7229881818910dbe3aa7152b95f ""
   "img/PorcentajeRenovable.png" 1663001945 9004 96e92d8eb03e714acd1ef7267a1c41a3 ""
   "img/SerieTiempo.png" 1664219930 33251 895e368ae7077e636a90cdd53e924e83 ""
   "img/SeriesEmergentes.png" 1664228612 16809 7fd3f6364b5fb1f259a5689fbf982c13 ""
+  "img/etapas.png" 1664347462 31989 d7721e6ee84745a0cdfa05f472b0ce4f ""
   "img/logo_escudo.png" 1658968772 24666 1f7651c9fe6fbb53d784606b77a0ce62 ""
   "lib/Introduccion/Antecedentes.tex" 1659411007 22 f35b3cbc6cf9d1b52c4dd829a635566c ""
   "lib/Introduccion/Justificacion.tex" 1662999768 489 3222c09b644429616c44bfcb951d07d9 ""
-  "lib/Introduccion/Problematica.tex" 1664343113 12761 5b13c7d4ceb8b927cd90ad12d328f958 ""
+  "lib/Introduccion/Problematica.tex" 1664347565 13441 aa56a4c62d52e7e9f82b3e8b1434fcc6 ""
   "lib/MarcoTeorico/CSST.tex" 0 -1 0 ""
   "lib/MarcoTeorico/DataDriven.tex" 0 -1 0 ""
   "lib/Metodologia/Metodologia.tex" 1662589286 1223 3d76bcb64830e5d6d29eda3b8e75f905 ""
