@@ -1128,27 +1128,39 @@
       \field{pages}{10\bibrangedash 25}
       \range{pages}{16}
     \endentry
-    \entry{bertolli2008}{article}{}
-      \name{author}{1}{}{%
-        {{hash=a24190285428b65a29ac06310623eca7}{%
-           family={Bertolli},
-           familyi={B\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
+    \entry{li2020perovskite}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9b1528d0b6c9bc88bfd8c569f290bcec}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=25bbf4047d900f3760c65b01ee899dba}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
       }
-      \strng{namehash}{a24190285428b65a29ac06310623eca7}
-      \strng{fullhash}{a24190285428b65a29ac06310623eca7}
-      \strng{bibnamehash}{a24190285428b65a29ac06310623eca7}
-      \strng{authorbibnamehash}{a24190285428b65a29ac06310623eca7}
-      \strng{authornamehash}{a24190285428b65a29ac06310623eca7}
-      \strng{authorfullhash}{a24190285428b65a29ac06310623eca7}
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{cc0cf39fb0cdcefdf5afdc6f0f7fee1a}
+      \strng{fullhash}{cc0cf39fb0cdcefdf5afdc6f0f7fee1a}
+      \strng{bibnamehash}{cc0cf39fb0cdcefdf5afdc6f0f7fee1a}
+      \strng{authorbibnamehash}{cc0cf39fb0cdcefdf5afdc6f0f7fee1a}
+      \strng{authornamehash}{cc0cf39fb0cdcefdf5afdc6f0f7fee1a}
+      \strng{authorfullhash}{cc0cf39fb0cdcefdf5afdc6f0f7fee1a}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Department of Physics, University of Tennessee}
-      \field{title}{Solar Cell Materials. Course: Solid State II}
-      \field{year}{2008}
+      \field{journaltitle}{Chemical Reviews}
+      \field{number}{18}
+      \field{title}{Perovskite tandem solar cells: from fundamentals to commercial deployment}
+      \field{volume}{120}
+      \field{year}{2020}
+      \field{pages}{9835\bibrangedash 9950}
+      \range{pages}{116}
     \endentry
     \entry{kim2022conformal}{article}{}
       \true{moreauthor}
@@ -1226,6 +1238,96 @@
       \field{pages}{302\bibrangedash 306}
       \range{pages}{5}
     \endentry
+    \entry{chowdhury2020overview}{article}{}
+      \name{author}{9}{}{%
+        {{hash=b6d4e9fb06723920dcceaab985ec389b}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Md\bibnamedelima Shahariar},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6ca1fae31ab10eb3a69cd5ff9107884d}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={Kazi\bibnamedelima Sajedur},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=61db82d47ad339fbe8209d8417048212}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Tanjia},
+           giveni={T\bibinitperiod}}}%
+        {{hash=942b1a5af540a0ab8e082e07c183319d}{%
+           family={Nuthammachot},
+           familyi={N\bibinitperiod},
+           given={Narissara},
+           giveni={N\bibinitperiod}}}%
+        {{hash=adfe5c99f15e5bca2bc9992ba9e90771}{%
+           family={Techato},
+           familyi={T\bibinitperiod},
+           given={Kuaanan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bd0aae1b6e100c5ee0f2abce9fddf78e}{%
+           family={Akhtaruzzaman},
+           familyi={A\bibinitperiod},
+           given={Md},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9fe0798f0924d9a3f07cf4f9b7e11b28}{%
+           family={Tiong},
+           familyi={T\bibinitperiod},
+           given={Sieh\bibnamedelima Kiong},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=2eec3b8291be5a0fc5113b77d4cb065b}{%
+           family={Sopian},
+           familyi={S\bibinitperiod},
+           given={Kamaruzzaman},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d5e28bef22b8985f4374b9e7ca609098}{%
+           family={Amin},
+           familyi={A\bibinitperiod},
+           given={Nowshad},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{29eb42cee11337bcf7ea2e0b7cfbb7a0}
+      \strng{fullhash}{b505efc12ea09baedbb2be7d6576f131}
+      \strng{bibnamehash}{b505efc12ea09baedbb2be7d6576f131}
+      \strng{authorbibnamehash}{b505efc12ea09baedbb2be7d6576f131}
+      \strng{authornamehash}{29eb42cee11337bcf7ea2e0b7cfbb7a0}
+      \strng{authorfullhash}{b505efc12ea09baedbb2be7d6576f131}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Strategy Reviews}
+      \field{title}{An overview of solar photovoltaic panels’ end-of-life material recycling}
+      \field{volume}{27}
+      \field{year}{2020}
+      \field{pages}{100431}
+      \range{pages}{1}
+    \endentry
+    \entry{bertolli2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a24190285428b65a29ac06310623eca7}{%
+           family={Bertolli},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a24190285428b65a29ac06310623eca7}
+      \strng{fullhash}{a24190285428b65a29ac06310623eca7}
+      \strng{bibnamehash}{a24190285428b65a29ac06310623eca7}
+      \strng{authorbibnamehash}{a24190285428b65a29ac06310623eca7}
+      \strng{authornamehash}{a24190285428b65a29ac06310623eca7}
+      \strng{authorfullhash}{a24190285428b65a29ac06310623eca7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Department of Physics, University of Tennessee}
+      \field{title}{Solar Cell Materials. Course: Solid State II}
+      \field{year}{2008}
+    \endentry
     \entry{jean2018synthesis}{article}{}
       \name{author}{7}{}{%
         {{hash=2eecca92700c4754cc5c8fc18d81db35}{%
@@ -1273,8 +1375,8 @@
       \strng{authorbibnamehash}{75a9324fcaf55aaed1c4d2c960ae1b8f}
       \strng{authornamehash}{73ded45385a38386f799e356c9bdd29c}
       \strng{authorfullhash}{75a9324fcaf55aaed1c4d2c960ae1b8f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Energy \& Environmental Science}
@@ -1312,8 +1414,8 @@
       \strng{authorbibnamehash}{1e3c63dbb9c373e71392dcd27d4ffecc}
       \strng{authornamehash}{1e3c63dbb9c373e71392dcd27d4ffecc}
       \strng{authorfullhash}{1e3c63dbb9c373e71392dcd27d4ffecc}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in chemistry}
@@ -1435,8 +1537,8 @@
       \strng{authorbibnamehash}{88abb09f30e9ace944c46c2457441cf2}
       \strng{authornamehash}{88abb09f30e9ace944c46c2457441cf2}
       \strng{authorfullhash}{88abb09f30e9ace944c46c2457441cf2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ABI/INFORM Global}
