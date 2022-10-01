@@ -28,7 +28,7 @@
 \contentsline {subsubsection}{\numberline {3.4.3}Clasificadores clásicos}{9}{subsubsection.3.4.3}%
 \contentsline {subsubsection}{\numberline {3.4.4}Clasificadores ensamblados}{9}{subsubsection.3.4.4}%
 \contentsline {subsubsection}{\numberline {3.4.5}Evaluadores de los resultados de clasificación}{9}{subsubsection.3.4.5}%
-\contentsline {section}{\numberline {4}Meteriales y métodos}{9}{section.4}%
+\contentsline {section}{\numberline {4}Materiales y métodos}{9}{section.4}%
 \contentsline {subsubsection}{\numberline {4.0.1}Extracción de datos}{9}{subsubsection.4.0.1}%
 \contentsline {subsubsection}{\numberline {4.0.2}Preprocesamiento de datos}{9}{subsubsection.4.0.2}%
 \contentsline {subsubsection}{\numberline {4.0.3}Descubrimiento y análisis de características}{9}{subsubsection.4.0.3}%
