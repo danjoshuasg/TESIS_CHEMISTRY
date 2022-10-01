@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  1 OCT 2022 10:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  1 OCT 2022 11:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1166,12 +1166,12 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Overfull \vbox (112.84409pt too high) has occurred while \output is active []
 
  [9])
-Overfull \hbox (39.93707pt too wide) in paragraph at lines 181--181
+Overfull \hbox (39.93707pt too wide) in paragraph at lines 182--182
 []\OT1/cmr/m/n/10 Ritchie H, Ro-ser M y Ro-sa-do P. Energy. Our World in Da-ta  2020. https://ourworldindata.org/energy 
  []
 
 [10]
-Overfull \hbox (1.84045pt too wide) in paragraph at lines 181--181
+Overfull \hbox (1.84045pt too wide) in paragraph at lines 182--182
 []\OT1/cmr/m/n/10 Sark Wv, Kor-te L y Ro-ca F. Introduction--Physics and Tech-no-logy of Amorphous-Crystalline
  []
 
