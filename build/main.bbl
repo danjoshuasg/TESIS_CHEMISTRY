@@ -1472,6 +1472,75 @@
       \field{pages}{9203\bibrangedash 9210}
       \range{pages}{8}
     \endentry
+    \entry{li2022recent}{article}{}
+      \name{author}{9}{}{%
+        {{hash=2af761d9bef859ea29248418adce0dd7}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5c689f5303ffb71b39f1ed4cdaae6270}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=29e0b616fbe084fce54ac609b7f0ef80}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Dejiang},
+           giveni={D\bibinitperiod}}}%
+        {{hash=55f210233ac686af68eba11a97bd84e2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e55b5ffcb45dce582e33b3cff5ce1f1d}{%
+           family={Jiao},
+           familyi={J\bibinitperiod},
+           given={Zhiqiang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9d9896b1d36600fd97f474103fc7b09d}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Qingyu},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=c26cc02bbb5db725a2c79cb200894d76}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a1d9cf2ef169b0b8cac0b79fbe60a7e3}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Mengna},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6eff46a84b0ba20c5ed66112a5619b6f}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Guangcai},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{6f58cd95635bdfcb3ebf0091d0da045f}
+      \strng{fullhash}{4988dad54bfdfd4701e11b95384d92d3}
+      \strng{bibnamehash}{4988dad54bfdfd4701e11b95384d92d3}
+      \strng{authorbibnamehash}{4988dad54bfdfd4701e11b95384d92d3}
+      \strng{authornamehash}{6f58cd95635bdfcb3ebf0091d0da045f}
+      \strng{authorfullhash}{4988dad54bfdfd4701e11b95384d92d3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecules}
+      \field{number}{6}
+      \field{title}{Recent Progress in Organic Solar Cells: A Review on Materials from Acceptor to Donor}
+      \field{volume}{27}
+      \field{year}{2022}
+      \field{pages}{1800}
+      \range{pages}{1}
+    \endentry
     \entry{bertolli2008}{article}{}
       \name{author}{1}{}{%
         {{hash=a24190285428b65a29ac06310623eca7}{%

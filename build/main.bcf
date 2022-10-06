@@ -2390,9 +2390,9 @@
     <bcf:citekey order="37">wang2022sustainable</bcf:citekey>
     <bcf:citekey order="38">pan2014high</bcf:citekey>
     <bcf:citekey order="39">suryawanshi2013czts</bcf:citekey>
-    <bcf:citekey order="40">nrel</bcf:citekey>
+    <bcf:citekey order="40">li2022recent</bcf:citekey>
     <bcf:citekey order="41">nrel</bcf:citekey>
-    <bcf:citekey order="42">owidenergy</bcf:citekey>
+    <bcf:citekey order="42">nrel</bcf:citekey>
     <bcf:citekey order="43">owidenergy</bcf:citekey>
     <bcf:citekey order="44">bertolli2008</bcf:citekey>
     <bcf:citekey order="45">jean2018synthesis</bcf:citekey>
@@ -2440,12 +2440,13 @@
     <bcf:citekey order="87">velilla2019outdoor</bcf:citekey>
     <bcf:citekey order="88">wang2022sustainable</bcf:citekey>
     <bcf:citekey order="89">pan2014high</bcf:citekey>
-    <bcf:citekey order="90">bertolli2008</bcf:citekey>
-    <bcf:citekey order="91">jean2018synthesis</bcf:citekey>
-    <bcf:citekey order="92">gusain2019polymer</bcf:citekey>
-    <bcf:citekey order="93">suhaimi2015materials</bcf:citekey>
-    <bcf:citekey order="94">wen2020</bcf:citekey>
-    <bcf:citekey order="95">eagar_bringing_1995</bcf:citekey>
+    <bcf:citekey order="90">li2022recent</bcf:citekey>
+    <bcf:citekey order="91">bertolli2008</bcf:citekey>
+    <bcf:citekey order="92">jean2018synthesis</bcf:citekey>
+    <bcf:citekey order="93">gusain2019polymer</bcf:citekey>
+    <bcf:citekey order="94">suhaimi2015materials</bcf:citekey>
+    <bcf:citekey order="95">wen2020</bcf:citekey>
+    <bcf:citekey order="96">eagar_bringing_1995</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
