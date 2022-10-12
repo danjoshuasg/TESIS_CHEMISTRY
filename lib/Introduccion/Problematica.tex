@@ -48,25 +48,39 @@ Con los datos del NREL se construyó una serie de tiempo de las mejores eficienc
 Contrario a las ya mencionadas tecnologías emergentes, las celdas orgánicas y las celdas sensibilizadas por tintes (CSPT) son más sostenibles gracias a la capacidad de degradación de los polímeros que los componen, además tienen otras ventajas como lo son su construcción por módulos o etapas, las diversas estructuras químicas de sus componentes orgánicos o metal-orgánicas y, en consecuencia, costos de fabricación accesibles de ser escalados para fines comerciales. Si bien las CSPT han sido las primeras en ser investigadas, las celdas orgánicas las han superado en términos de eficiencia debido al descubrimiento de materiales compuestos por moléculas aceptoras y donadoras de alto rendimiento para generar y transportar carga \cite{li2022recent}. Estos descubrimientos fueron guiados por conocimiento específico de las relaciones que hay entre la estructura y las propiedades de las moléculas, en la etapa de diseño y posteriormente evaluadas experimentalmente. No obstante, aún hay brechas en el conocimiento de la existencia de tintes que sean capáces de equiparar a sus similares orgánicas. Complementando la anterior idea, existe la probabilidad de encontrar tintes con propiedades de interés fotovoltaico extraídos de la biodiversidad peruana, lugar donde se realizará el presente proyecto.
 
 \begin{figure}[h!]
-    \includegraphics[scale=0.5]{img/SeriesEmergentes.png}
+    \begin{center}
+        \includegraphics[scale=0.5]{img/SeriesEmergentes.png}
+    \end{center}
     \caption{Serie de tiempo de las mejores eficiencias obtenidas en la investigación de las tecnologías emergentes de celdas solares.
     Fuente: \textit{National Renewable Energy Laboratory} \cite{nrel}}
     \label{img:SerieEmergente}
 \end{figure}
 
-Entiéndase por tintes o colorantes a las sustancias que estén constituídas por una mezcla de varias moléculas dentro de una fase líquida o sólida que muestran una coloración dentro de un rango de longitudes de onda. Mientras que las CSPT son dispositivos que aprovechan sus propiedades fotoactivas dentro de uno de sus componentes. Las arquitecturas de las CSPT se componen por 5 materiales: El contraelectrodo, el electrolito, el sensibilizador, el semiconductor y el electrodo de trabajo (Figura \ref{img:CSPT}). Las CSPT modernas derivan de la celda creada por Michael Gratzel en 1991, la cual comúnmente se usa para exponer el funcionamiento de estos dispositivos. En dicha celda se usó un lámina de vidrio recubierto por óxido de estaño dopado con flúor y partículas de platino (Pt-FTO) como electrodo de trabajo, el cuál soportaba el óxido de titanio nanocristalino dopado a su vez por partículas del complejo cloruro de rutenio(II) tris(bipidirina) (Rutenio-bipidirina). Este ensamblado permitió que 
+Entiéndase por tintes o colorantes a las sustancias que estén constituídas por una mezcla de varias moléculas dentro de una fase líquida o sólida que muestran una coloración dentro de un rango de longitudes de onda. Mientras que las CSPT son dispositivos que aprovechan sus propiedades fotoactivas dentro de uno de sus componentes. Las arquitecturas de las CSPT se componen por 4 materiales: El semiconductor, el tinte o sensibilizador, el electrolito y los vidrios conductores (Figura \ref{img:CSPT}). Las CSPT modernas derivan de la celda creada por Brian O'Rigan y Michael Gratzel en 1991 \cite{o1991low}, la cual comúnmente se usa para exponer el funcionamiento de estos dispositivos. En dicha celda, se usó óxido de estaño dopado con flúor y partículas de platino (Pt-FTO) como vidrio conductor, el cuál soportaba el óxido de titanio \ce{TiO2} nanocristalino dopado a su vez por nanopartículas de complejos triméricos de rutenio(II) bipidirina (Rutenio-bipidirina) como semiconductor y tinte sensibilizante, respectivamente. Para la regeneración del tinte se utilizó yoduro/triyoduro como electrolito redox. El fotovoltage ($\Delta V$) de celda corresponde al potencial teórico de trabajo útil y puede aproximarse a la diferencia entre el nivel de energía de Fermi del semiconductor bajo iluminación y el potencial de Nernst del par redox del electrolito.
 
 \begin{figure}[h!]
-    \includegraphics[scale=0.65]{img/DSSC.png}
-    \caption{Estructura general de una celda solar sensibilizada por tinte (CSPT) \cite{owidenergy}}
+    \begin{center}
+        \includegraphics[scale=0.7]{img/DSSC.png}
+    \end{center}
+    \caption{Estructura y funcionamiento de una celda solar sensibilizada por tinte (CSPT). Fuente: \textit{O'Rigan y Grätzel} \cite{o1991low}}
     \label{img:CSPT}
 \end{figure}
 
 
-Finalmente, la tercera generación agrupa a las celdas más recientes tales como aquellas basadas en concentradores, nano cristales, polímeros y sensibilizadas por tintes. Las celdas por concentradores son dispositivos rígidos que aprovechan la radiación y el calor que se generan en al incidir luz en lentes convexos \cite{bertolli2008}, si bien tiene viabilidad comercial se demandan mejoras en los materiales fotovoltaicos. Las celdas basadas en nano cristales o \textit{quantum dots} (QD) pueden capturar mejor la luz mientras suprimen fenómenos de recombinación además de tener un rendimiento estable por encima del 20\% , no obstante no son comercialmente viables porque son costosos de fabricar \cite{jean2018synthesis}. Por el contrario, las celdas de polímero se caracterizan por su flexibilidad pero sus rendimientos estan en promedio por debajo del 10\% y a su vez son inestables porque son sensibles a cambios de temperatura y presión \cite{gusain2019polymer}. Por último, las celdas sensibilizadas por tintes son dispositivos que tienen semiconductores fotosensibilizados y ensamblados a un sistema electrolítico que permite un flujo continuo de electrones \cite{suhaimi2015materials}, se caracterizan por su construcción versátil y de bajo costo gracias a la diversidad materiales de sus componentes, sin embargo sus rendimientos aún no se equiparan a las comerciales de silicio \cite{sharma2018dye}. 
+Cada uno de los componentes influyen directamente al rendimiento de la celda en términos de dos ecuaciones: La eficiencia de corriente monocromática ($\eta_{i} (\lambda)$) y la eficiencia del potencial de conversión (PCE). La  ecuación \ref{eqn:nil} describe la capacidad del dispositivo para mantener el flujo eléctrico de celda generado por fenómenos fotoeléctricos. Esta capacidad se calcula como el producto de la eficiencia de recolección de luz de longitud $\lambda$ ($\text{LHE}(\lambda)$) que mide la fracción de fotones incidentes que son absorbidos por el tinte, el rendimiento cuántico de inyección de carga ($\phi_{inj}$) que mide el número de huecos inyectados hacia la capa de valencia o electrones a la banda de conducción del semiconductor sensibilizado por número de einstein absorbidos, y la eficiencia de colección de carga de retorno ($\eta_e$) que mide la fracción de electrones que llegan al contraelectrodo versus los que salieron del electrodo de trabajo en un circuito cerrado. Como esta medición sólo toma en cuenta valores de parámetros para una longitud de onda, es más práctico tomar como medida de referencia la segunda ecuación.
 
 
-Las estructura de las celdas solares 
+\begin{equation}
+    \eta_{i}(\lambda) = \text{LHE}(\lambda)\times \phi_{inj} \times \eta_e
+    \label{eqn:nil}
+\end{equation}
+
+La  ecuación \ref{eqn:pce} describe la capacidad del dispositivo para mantener el flujo eléctrico de celda generado por fenómenos fotoeléctricos. Esta capacidad se calcula como el producto de la eficiencia de recolección de luz de longitud $\lambda$ ($text{LHE}(\lambda)$) que mide la fracción de fotones incidentes que son absorbidos por el tinte, 
+
+\begin{equation}
+    \text{PCE} =  \frac{J_{sc}\times V_{OC} \times FF}{P_{in}}
+    \label{eqn:pce}
+\end{equation}
 
 
 Es claro que deben de validarse experimentalmente los resultados obtenidos por los métodos compuacionales, pero estos pueden discriminar cientos de candidat
@@ -91,3 +105,4 @@ pero dado un grado de precisión razonable  en la predicción de la propiedad de
     \caption{Serie de tiempo de las mejores eficiencias obtenidas en la investigación de las celdas solares según la agrupación dada por NREL.
     Fuente: \textit{National Renewable Energy Laboratory} \cite{owidenergy}}
 \end{figure}
+

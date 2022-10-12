@@ -1541,170 +1541,39 @@
       \field{pages}{1800}
       \range{pages}{1}
     \endentry
-    \entry{bertolli2008}{article}{}
-      \name{author}{1}{}{%
-        {{hash=a24190285428b65a29ac06310623eca7}{%
-           family={Bertolli},
-           familyi={B\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{a24190285428b65a29ac06310623eca7}
-      \strng{fullhash}{a24190285428b65a29ac06310623eca7}
-      \strng{bibnamehash}{a24190285428b65a29ac06310623eca7}
-      \strng{authorbibnamehash}{a24190285428b65a29ac06310623eca7}
-      \strng{authornamehash}{a24190285428b65a29ac06310623eca7}
-      \strng{authorfullhash}{a24190285428b65a29ac06310623eca7}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Department of Physics, University of Tennessee}
-      \field{title}{Solar Cell Materials. Course: Solid State II}
-      \field{year}{2008}
-    \endentry
-    \entry{jean2018synthesis}{article}{}
-      \name{author}{7}{}{%
-        {{hash=2eecca92700c4754cc5c8fc18d81db35}{%
-           family={Jean},
-           familyi={J\bibinitperiod},
-           given={Joel},
-           giveni={J\bibinitperiod}}}%
-        {{hash=8317bd7e11c63d75bc8d3571fe4b3ce6}{%
-           family={Xiao},
-           familyi={X\bibinitperiod},
-           given={Justin},
-           giveni={J\bibinitperiod}}}%
-        {{hash=16c4f4c3465c459853203d60c4bc859d}{%
-           family={Nick},
-           familyi={N\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod}}}%
-        {{hash=0717cd2467e07107a2dde5c006403481}{%
-           family={Moody},
-           familyi={M\bibinitperiod},
-           given={Nicole},
-           giveni={N\bibinitperiod}}}%
-        {{hash=76db182f2ccee569e0e2b27532e88020}{%
-           family={Nasilowski},
-           familyi={N\bibinitperiod},
-           given={Michel},
-           giveni={M\bibinitperiod}}}%
-        {{hash=6bd8ace868edd9a71266acd2342a6903}{%
-           family={Bawendi},
-           familyi={B\bibinitperiod},
-           given={Moungi},
-           giveni={M\bibinitperiod}}}%
-        {{hash=c6f01943868720c57be0c496889fefd1}{%
-           family={Bulović},
-           familyi={B\bibinitperiod},
-           given={Vladimir},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Royal Society of Chemistry}%
-      }
-      \strng{namehash}{73ded45385a38386f799e356c9bdd29c}
-      \strng{fullhash}{75a9324fcaf55aaed1c4d2c960ae1b8f}
-      \strng{bibnamehash}{75a9324fcaf55aaed1c4d2c960ae1b8f}
-      \strng{authorbibnamehash}{75a9324fcaf55aaed1c4d2c960ae1b8f}
-      \strng{authornamehash}{73ded45385a38386f799e356c9bdd29c}
-      \strng{authorfullhash}{75a9324fcaf55aaed1c4d2c960ae1b8f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Energy \& Environmental Science}
-      \field{number}{9}
-      \field{title}{Synthesis cost dictates the commercial viability of lead sulfide and perovskite quantum dot photovoltaics}
-      \field{volume}{11}
-      \field{year}{2018}
-      \field{pages}{2295\bibrangedash 2305}
-      \range{pages}{11}
-    \endentry
-    \entry{gusain2019polymer}{article}{}
-      \name{author}{3}{}{%
-        {{hash=4518c094238757249941c86d1528669b}{%
-           family={Gusain},
+    \entry{o1991low}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8a5774611cc2922dd607b3d72c8db854}{%
+           family={O'regan},
+           familyi={O\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a7791322d0d4e56fe468c952b588bde7}{%
+           family={Grätzel},
            familyi={G\bibinitperiod},
-           given={Abhay},
-           giveni={A\bibinitperiod}}}%
-        {{hash=1c893ca00666f96652c98c4cba3274db}{%
-           family={Faria},
-           familyi={F\bibinitperiod},
-           given={Roberto\bibnamedelima M},
-           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=b426570956d4340744e740b29f4942e2}{%
-           family={Miranda},
-           familyi={M\bibinitperiod},
-           given={Paulo\bibnamedelima B},
-           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Frontiers Media SA}%
+        {Nature Publishing Group}%
       }
-      \strng{namehash}{1e3c63dbb9c373e71392dcd27d4ffecc}
-      \strng{fullhash}{1e3c63dbb9c373e71392dcd27d4ffecc}
-      \strng{bibnamehash}{1e3c63dbb9c373e71392dcd27d4ffecc}
-      \strng{authorbibnamehash}{1e3c63dbb9c373e71392dcd27d4ffecc}
-      \strng{authornamehash}{1e3c63dbb9c373e71392dcd27d4ffecc}
-      \strng{authorfullhash}{1e3c63dbb9c373e71392dcd27d4ffecc}
+      \strng{namehash}{b05224cda9094bf4f98f789ec29f1484}
+      \strng{fullhash}{b05224cda9094bf4f98f789ec29f1484}
+      \strng{bibnamehash}{b05224cda9094bf4f98f789ec29f1484}
+      \strng{authorbibnamehash}{b05224cda9094bf4f98f789ec29f1484}
+      \strng{authornamehash}{b05224cda9094bf4f98f789ec29f1484}
+      \strng{authorfullhash}{b05224cda9094bf4f98f789ec29f1484}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Frontiers in chemistry}
-      \field{title}{Polymer solar cells—Interfacial processes related to performance issues}
-      \field{volume}{7}
-      \field{year}{2019}
-      \field{pages}{61}
-      \range{pages}{1}
-    \endentry
-    \entry{suhaimi2015materials}{article}{}
-      \name{author}{5}{}{%
-        {{hash=cfd1c81cc5767a8d5ffbf43548e14b17}{%
-           family={Suhaimi},
-           familyi={S\bibinitperiod},
-           given={Suriati},
-           giveni={S\bibinitperiod}}}%
-        {{hash=a795253bea23265c8081cf568c97a3f1}{%
-           family={Shahimin},
-           familyi={S\bibinitperiod},
-           given={Mukhzeer\bibnamedelima Mohamad},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=d12aeee8244c164106fc9c0d3007aaaa}{%
-           family={Alahmed},
-           familyi={A\bibinitperiod},
-           given={ZA},
-           giveni={Z\bibinitperiod}}}%
-        {{hash=ba047519cd0f0c6818cbbe63a5bb1983}{%
-           family={Chyskỳ},
-           familyi={C\bibinitperiod},
-           given={J},
-           giveni={J\bibinitperiod}}}%
-        {{hash=aee297b66bf1eb8cb619b2a13e21f934}{%
-           family={Reshak},
-           familyi={R\bibinitperiod},
-           given={AH},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{8334013062f36391c2fb562b57c6c64c}
-      \strng{fullhash}{d04cdf2cbe08fa30c9a4f0c7fb038617}
-      \strng{bibnamehash}{d04cdf2cbe08fa30c9a4f0c7fb038617}
-      \strng{authorbibnamehash}{d04cdf2cbe08fa30c9a4f0c7fb038617}
-      \strng{authornamehash}{8334013062f36391c2fb562b57c6c64c}
-      \strng{authorfullhash}{d04cdf2cbe08fa30c9a4f0c7fb038617}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Int. J. Electrochem. Sci}
-      \field{number}{4}
-      \field{title}{Materials for enhanced dye-sensitized solar cell performance: Electrochemical application}
-      \field{volume}{10}
-      \field{year}{2015}
-      \field{pages}{2859\bibrangedash 2871}
-      \range{pages}{13}
+      \field{journaltitle}{nature}
+      \field{number}{6346}
+      \field{title}{A low-cost, high-efficiency solar cell based on dye-sensitized colloidal TiO2 films}
+      \field{volume}{353}
+      \field{year}{1991}
+      \field{pages}{737\bibrangedash 740}
+      \range{pages}{4}
     \endentry
     \entry{wen2020}{article}{}
       \name{author}{5}{}{%
