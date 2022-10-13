@@ -1,43 +1,43 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Problemática}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Justificación}{9}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Antecedentes}{9}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Hipótesis de investigación y objetivos}{11}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Hipótesis de investigación}{11}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Objetivos}{11}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Marco Teórico}{11}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Celdas solares sensibilizadas por tintes (CSPT)}{11}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Componentes de las CSPT}{11}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Funcionamiento de las CSPT}{11}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}Tipos de sensibilizantes}{11}{subsubsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.2}Colorantes naturales}{11}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Características físicas y químicas}{11}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Familias de colorantes naturales usados como sensibilizantes}{11}{subsubsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.3}Enfoque de investigación direccionado por datos}{11}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Tipos de enfoques de investigación en química}{11}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Tipos de estructuras de datos en química}{11}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Extracción y preprocesamiento de datos}{11}{subsubsection.3.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.4}Tratamiento de datos}{11}{subsubsection.3.3.4}%
-\contentsline {subsubsection}{\numberline {3.3.5}Descubrimiento y análisis de características}{11}{subsubsection.3.3.5}%
-\contentsline {subsubsection}{\numberline {3.3.6}Entrenamiento y evaluación de modelos}{11}{subsubsection.3.3.6}%
-\contentsline {subsubsection}{\numberline {3.3.7}Validadores estadísticos de los modelos}{11}{subsubsection.3.3.7}%
-\contentsline {subsection}{\numberline {3.4}Modelos de aprendizaje automático}{11}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Naturaleza de los modelos de aprendizaje automático}{11}{subsubsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.2}Interpretatividad de los modelos de aprendizaje automático}{11}{subsubsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.3}Clasificadores clásicos}{11}{subsubsection.3.4.3}%
-\contentsline {subsubsection}{\numberline {3.4.4}Clasificadores ensamblados}{11}{subsubsection.3.4.4}%
-\contentsline {subsubsection}{\numberline {3.4.5}Evaluadores de los resultados de clasificación}{11}{subsubsection.3.4.5}%
-\contentsline {section}{\numberline {4}Materiales y métodos}{11}{section.4}%
-\contentsline {subsubsection}{\numberline {4.0.1}Extracción de datos}{11}{subsubsection.4.0.1}%
-\contentsline {subsubsection}{\numberline {4.0.2}Preprocesamiento de datos}{11}{subsubsection.4.0.2}%
-\contentsline {subsubsection}{\numberline {4.0.3}Descubrimiento y análisis de características}{11}{subsubsection.4.0.3}%
-\contentsline {subsubsection}{\numberline {4.0.4}Entrenamiento y evaluación del modelo 1}{11}{subsubsection.4.0.4}%
-\contentsline {subsubsection}{\numberline {4.0.5}Entrenamiento y evaluación del modelo 2}{11}{subsubsection.4.0.5}%
-\contentsline {subsubsection}{\numberline {4.0.6}Entrenamiento y evaluación del modelo 3}{11}{subsubsection.4.0.6}%
-\contentsline {subsubsection}{\numberline {4.0.7}Comparación de modelos}{11}{subsubsection.4.0.7}%
-\contentsline {subsection}{\numberline {4.1}Análisis estadístico}{11}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Pruebas de normalidad}{11}{subsubsection.4.1.1}%
-\contentsline {section}{\numberline {5}Referencias bibliográficas}{12}{section.5}%
-\contentsline {section}{\numberline {6}Cronograma de trabajo}{14}{section.6}%
-\contentsline {section}{\numberline {7}Presupuesto y financiamiento}{14}{section.7}%
+\contentsline {subsection}{\numberline {1.2}Justificación}{8}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Antecedentes}{8}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Hipótesis de investigación y objetivos}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Hipótesis de investigación}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos}{10}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Marco Teórico}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Celdas solares sensibilizadas por tintes (CSPT)}{10}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Componentes de las CSPT}{10}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Funcionamiento de las CSPT}{10}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Tipos de sensibilizantes}{10}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Colorantes naturales}{10}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Características físicas y químicas}{10}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Familias de colorantes naturales usados como sensibilizantes}{10}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Enfoque de investigación direccionado por datos}{10}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Tipos de enfoques de investigación en química}{10}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Tipos de estructuras de datos en química}{10}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Extracción y preprocesamiento de datos}{10}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Tratamiento de datos}{10}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Descubrimiento y análisis de características}{10}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}Entrenamiento y evaluación de modelos}{10}{subsubsection.3.3.6}%
+\contentsline {subsubsection}{\numberline {3.3.7}Validadores estadísticos de los modelos}{10}{subsubsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.4}Modelos de aprendizaje automático}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Naturaleza de los modelos de aprendizaje automático}{10}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Interpretatividad de los modelos de aprendizaje automático}{10}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Clasificadores clásicos}{10}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Clasificadores ensamblados}{10}{subsubsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.5}Evaluadores de los resultados de clasificación}{10}{subsubsection.3.4.5}%
+\contentsline {section}{\numberline {4}Materiales y métodos}{10}{section.4}%
+\contentsline {subsubsection}{\numberline {4.0.1}Extracción de datos}{10}{subsubsection.4.0.1}%
+\contentsline {subsubsection}{\numberline {4.0.2}Preprocesamiento de datos}{10}{subsubsection.4.0.2}%
+\contentsline {subsubsection}{\numberline {4.0.3}Descubrimiento y análisis de características}{10}{subsubsection.4.0.3}%
+\contentsline {subsubsection}{\numberline {4.0.4}Entrenamiento y evaluación del modelo 1}{10}{subsubsection.4.0.4}%
+\contentsline {subsubsection}{\numberline {4.0.5}Entrenamiento y evaluación del modelo 2}{10}{subsubsection.4.0.5}%
+\contentsline {subsubsection}{\numberline {4.0.6}Entrenamiento y evaluación del modelo 3}{10}{subsubsection.4.0.6}%
+\contentsline {subsubsection}{\numberline {4.0.7}Comparación de modelos}{10}{subsubsection.4.0.7}%
+\contentsline {subsection}{\numberline {4.1}Análisis estadístico}{10}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Pruebas de normalidad}{10}{subsubsection.4.1.1}%
+\contentsline {section}{\numberline {5}Referencias bibliográficas}{11}{section.5}%
+\contentsline {section}{\numberline {6}Cronograma de trabajo}{13}{section.6}%
+\contentsline {section}{\numberline {7}Presupuesto y financiamiento}{13}{section.7}%

@@ -7,7 +7,8 @@ Las fuentes renovables reunen dichas características, por lo que muchos gobiern
 
 \begin{figure}[!ht]
     \begin{center}
-        \includegraphics[scale=0.80]{img/PorcentajeRenovable.png}
+        %\includegraphics[clip, trim=0.5cm 14cm 0.5cm 1cm, width=1.00\textwidth]{img/diagrama_tesis.pdf}
+        \includegraphics[scale=0.7]{img/renovables.pdf}
     \end{center}
     \caption{Comparación del porcentaje de la cantidad de potencia consumida por tipo de energía renovable sin considerar la hidroeléctrica.
     Fuente: Our World in Data \cite{owidenergy}}
@@ -31,7 +32,7 @@ En primer lugar se encuentra la familia de las celdas basadas en cristales de si
 
 \begin{figure}[h!]
     \begin{center}
-        \includegraphics[scale=0.55]{img/SerieTiempo.png}
+        \includegraphics[scale=0.6]{img/familia_celdas.pdf}
     \end{center}
     \caption{Serie de tiempo de las mejores eficiencias obtenidas en la investigación de las celdas solares según la agrupación dada por NREL.
     Fuente: \textit{National Renewable Energy Laboratory} \cite{nrel}}
@@ -49,7 +50,7 @@ Contrario a las ya mencionadas tecnologías emergentes, las celdas orgánicas y 
 
 \begin{figure}[h!]
     \begin{center}
-        \includegraphics[scale=0.5]{img/SeriesEmergentes.png}
+        \includegraphics[scale=0.6]{img/emergentes.pdf}
     \end{center}
     \caption{Serie de tiempo de las mejores eficiencias obtenidas en la investigación de las tecnologías emergentes de celdas solares.
     Fuente: \textit{National Renewable Energy Laboratory} \cite{nrel}}
@@ -58,9 +59,9 @@ Contrario a las ya mencionadas tecnologías emergentes, las celdas orgánicas y 
 
 Entiéndase por tintes o colorantes a las sustancias que estén constituídas por una mezcla de varias moléculas dentro de una fase líquida o sólida que muestran una coloración dentro de un rango de longitudes de onda. Mientras que las CSPT son dispositivos que aprovechan sus propiedades fotoactivas dentro de uno de sus componentes. Las arquitecturas de las CSPT se componen por 4 materiales: El semiconductor, el tinte o sensibilizador, el electrolito y los vidrios conductores (Figura \ref{img:CSPT}). Las CSPT modernas derivan de la celda creada por Brian O'Rigan y Michael Gratzel en 1991 \cite{o1991low}, la cual comúnmente se usa para exponer el funcionamiento de estos dispositivos. En dicha celda, se usó óxido de estaño dopado con flúor y partículas de platino (Pt-FTO) como vidrio conductor, el cuál soportaba el óxido de titanio \ce{TiO2} nanocristalino dopado a su vez por nanopartículas de complejos triméricos de rutenio(II) bipidirina (Rutenio-bipidirina) como semiconductor y tinte sensibilizante, respectivamente. Para la regeneración del tinte se utilizó yoduro/triyoduro como electrolito redox. El fotovoltage ($\Delta V$) de celda corresponde al potencial teórico de trabajo útil y puede aproximarse a la diferencia entre el nivel de energía de Fermi del semiconductor bajo iluminación y el potencial de Nernst del par redox del electrolito.
 
-\begin{figure}[h!]
+\begin{figure}[!thb]
     \begin{center}
-        \includegraphics[scale=0.7]{img/DSSC.png}
+        \includegraphics[clip, trim=0.5cm 14cm 0.5cm 1cm, width=1.00\textwidth]{img/diagrama_tesis.pdf}
     \end{center}
     \caption{Estructura y funcionamiento de una celda solar sensibilizada por tinte (CSPT). Fuente: \textit{O'Rigan y Grätzel} \cite{o1991low}}
     \label{img:CSPT}
@@ -75,13 +76,14 @@ Cada uno de los componentes influyen directamente al rendimiento de la celda en 
     \label{eqn:nil}
 \end{equation}
 
-La  ecuación \ref{eqn:pce} describe a la eficiencia del potencial de conversión como el porcentaje del potencial lumínico del haz incidente aprovechado en forma de potencial eléctrico de salida. Para calcularlo, la CSPT es sometida a mediciones de densidad de corriente y voltage ($J/V$) en presencia de luz de un simulador solar. Los parámetros extraídos de estos experimentos son la densidad de corriente de corto circuito ($J_{SC}$), el voltaje del circuito abierto ($V_{OC}$), el factor de llenado ($FF$) y la potencia incidente ($P_{in}$). El $J_{SC}$ permite conocer las características de absorción de la capa fotoactiva, la generación y el transporte de carga; debido a que estas la afectan. Mientras que el $V_{OC}$ permite obtener la información de los niveles de energía de los materiales fotoactivos, el estado del funcionamiento de los materiales del electrodo de trabajo y la velocidad de recombinación del portador de carga. 
+Por otra parte, la  ecuación \ref{eqn:pce} describe a la eficiencia del potencial de conversión como el porcentaje del potencial lumínico del haz incidente aprovechado en forma de potencial eléctrico de salida. Para calcularlo, la CSPT es sometida a mediciones de densidad de corriente y voltage ($J/V$) en presencia de luz de un simulador solar. Los parámetros extraídos de estos experimentos son la densidad de corriente de corto circuito ($J_{SC}$), el voltaje del circuito abierto ($V_{OC}$), el factor de llenado ($FF$) y la potencia incidente ($P_{in}$). El $J_{SC}$ permite conocer las características de absorción de la capa fotoactiva, la generación y el transporte de carga; debido a que estas la afectan. Mientras que el $V_{OC}$ permite obtener la información de los niveles de energía de los materiales fotoactivos, el estado del funcionamiento de los materiales del electrodo de trabajo y la velocidad de recombinación del portador de carga. Por la parte del $FF$, que se define como la relación entre la potencia real de la celda y la potencia sin la presencia de resistencia; es posible colectar información del estado de los electrodos y la estabilidad de los materiales en un determinado tiempo. Cabe señalar que el $FF$ idealmente debe ser 1, lo cual signfica que no existen fenómenos de desgaste que consuman energía de trabajo. \underline{Añadir Referencias}
 
 \begin{equation}
     \text{PCE} = \frac{P_{out}}{P_{in}}  =\frac{J_{SC}\times V_{OC} \times FF}{P_{in}} \times 100\%
     \label{eqn:pce}
 \end{equation}
 
+Teniendo en cuenta las formas de medir el desempeño de una celda solar, es evidente que el reto de mejorar estos dispositivos recaiga en gran parte en los materiales con los que son hechos. En especial por los tintes que no solo son responsables de 
 
 Es claro que deben de validarse experimentalmente los resultados obtenidos por los métodos compuacionales, pero estos pueden discriminar cientos de candidat
 
@@ -105,4 +107,3 @@ pero dado un grado de precisión razonable  en la predicción de la propiedad de
     \caption{Serie de tiempo de las mejores eficiencias obtenidas en la investigación de las celdas solares según la agrupación dada por NREL.
     Fuente: \textit{National Renewable Energy Laboratory} \cite{owidenergy}}
 \end{figure}
-
