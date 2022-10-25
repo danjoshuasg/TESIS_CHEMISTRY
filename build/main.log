@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  13 OCT 2022 18:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  25 OCT 2022 10:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1326,42 +1326,43 @@ File: img/dye_scheme.pdf Graphic file (type pdf)
 <use img/dye_scheme.pdf>
 Package pdftex.def Info: img/dye_scheme.pdf  used on input line 90.
 (pdftex.def)             Requested size: 199.24388pt x 179.6708pt.
-<img/espacioquimico.png, id=427, 790.955pt x 572.1375pt>
+ [8 <./img/dye_scheme.pdf>]
+<img/espacioquimico.png, id=440, 790.955pt x 572.1375pt>
 File: img/espacioquimico.png Graphic file (type png)
 <use img/espacioquimico.png>
-Package pdftex.def Info: img/espacioquimico.png  used on input line 104.
+Package pdftex.def Info: img/espacioquimico.png  used on input line 127.
 (pdftex.def)             Requested size: 355.92647pt x 257.45949pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/etapas.png, id=430, 492.84125pt x 196.735pt>
+<img/etapas.png, id=443, 492.84125pt x 196.735pt>
 File: img/etapas.png Graphic file (type png)
 <use img/etapas.png>
-Package pdftex.def Info: img/etapas.png  used on input line 113.
+Package pdftex.def Info: img/etapas.png  used on input line 136.
 (pdftex.def)             Requested size: 344.98651pt x 137.71355pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (lib/Introduccion/Justificacion.tex [8 <./img/dye_scheme.pdf>]) (lib/Introduccion/Antecedentes.tex) [9 <./img/espacioquimico.png> <./img/etapas.png>] (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex)
+) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/MarcoTeorico/CSST.tex) (lib/MarcoTeorico/DataDriven.tex)
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 177.
 
-(lib/Metodologia/Metodologia.tex [10] [11]
+(lib/Metodologia/Metodologia.tex [9] [10 <./img/espacioquimico.png> <./img/etapas.png>]
 Overfull \vbox (112.84409pt too high) has occurred while \output is active []
 
- [12])
+ [11])
 Overfull \hbox (39.93707pt too wide) in paragraph at lines 191--191
 []\OT1/cmr/m/n/10 Ritchie H, Ro-ser M y Ro-sa-do P. Energy. Our World in Da-ta  2020. https://ourworldindata.org/energy 
  []
 
-[13]
+[12]
 Overfull \hbox (1.84045pt too wide) in paragraph at lines 191--191
 []\OT1/cmr/m/n/10 Sark Wv, Kor-te L y Ro-ca F. Introduction--Physics and Tech-no-logy of Amorphous-Crystalline
  []
 
-[14] [15] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
+[13] [14] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
 LaTeX Info: Redefining \sptext on input line 30.
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
@@ -1376,17 +1377,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49114 strings out of 478582
- 1132524 string characters out of 2855132
- 2196973 words of memory out of 3000000
+ 49113 strings out of 478582
+ 1132517 string characters out of 2855132
+ 2196975 words of memory out of 3000000
  66460 multiletter control sequences out of 15000+600000
  478295 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,9n,103p,1688b,1924s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (16 pages, 708396 bytes).
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (15 pages, 710797 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
+ 576 PDF objects out of 1000 (max. 8388607)
+ 107 named destinations out of 1000 (max. 500000)
  395 words of extra memory for PDF output out of 10000 (max. 10000000)
 

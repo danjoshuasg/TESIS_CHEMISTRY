@@ -22,7 +22,7 @@ Hace un año, la energía hidroeléctrica generó más de 4 mil tera-vatios por 
 Existen dos tipos de tecnlogías solares: La termosolar y la fotovoltaica \cite{hammarstrom2012}. En la primera se usa la energía térmica de un fluído calentado por concentradores solares para generar electricidad por medio del movimiento de turbinas contectadas a generadores electromagnéticos. Pese a los esfuerzos por reducir los costos de construcción y mantenimiento de las centrales termosolares, solo países con alta demanda energética industrial y la geografía apta pueden hacer rentables estas tecnologías \cite{xu2022concentrated}.
 
 
-En contraste a la termosolar, en la fotovoltaica se aprovecha directamente la radiación solar mediante fenómenos fotoeléctricos y de transporte de cargas, mimetizando la fotosíntesis. Si las plantas tienen a las células con clorofila en sus hojas como sus unidades generadoras de energía, en los sistemas fotovoltaicos estas serían las células o celdas solares. La estructura de una celda solar depende de los mecanismos de generación eléctrica y trasporte de carga, y estos a su vez, de la naturaleza de los materiales donde suceden estos mecanismos. El interés por desarrollar tecnologías fotovoltaicas se da por dos razones: Por su versatilidad, es decir que pueden ser usadas para fines domésticos o industriales, y  porque reducirían notablemente las emisiones de $CO_2$/kWh, por ejemplo esta reducción sería cercana al 90\% para sistemas que sustituyan al gas natural \cite{tawalbeh2021environmental}.
+En contraste a la termosolar, en la fotovoltaica se aprovecha directamente la radiación solar mediante fenómenos fotoeléctricos y de transporte de cargas, mimetizando la fotosíntesis. Si las plantas tienen a las células con clorofila en sus hojas como sus unidades generadoras de energía, en los sistemas fotovoltaicos estas serían las células o celdas solares. La estructura de una celda solar depende de los mecanismos de generación eléctrica y trasporte de carga, y estos a su vez, de la naturaleza de los materiales donde suceden estos mecanismos. El interés por desarrollar tecnologías fotovoltaicas se da por dos razones: Por su versatilidad, es decir que pueden ser usadas para fines domésticos o industriales, y  porque reducirían notablemente las emisiones de \ce{CuO2}/kWh, por ejemplo esta reducción sería cercana al 90\% para sistemas que sustituyan al gas natural \cite{tawalbeh2021environmental}.
 
 
 Las celdas solares llevan en el mercado más de 60 años, desde su descubrimiento en los  Laboratorios Bell en 1954 \cite{green2009path} y su primer uso comercial en el satélite Vanguard \cite{singh2013solar} en 1958, estos se han diversificado en su composición, por ende, también en su eficiencia y estabilidad. Según la clasificación del \textit{National Renewable Energy Labotatories} (NREL) los tipos de celdas se pueden agrupar en cinco familias: Cristalinas de silicio, de unión simple de galio (Ga) y arsénico (As), de unión múltiple, basadas en películas delgadas y emergentes \cite{nrel}. Los puntos en común de estas familias son la similitud de sus componentes, arquitecturas y/o coetaniedad \cite{blakers2013}. Cabe mencionar que en adelante solo se tomarán en cuenta tecnologías fotovoltaicas que no tengan concentradores.
@@ -94,7 +94,32 @@ Teniendo en cuenta las formas de medir el desempeño de una celda solar, es evid
 \end{figure}
 
 
+Los efectos fotovoltaicos suceden cuando los fotones caen sobre un semiconductor que produce pares de electrones-hoyo que suceden en la interfaz entre dos materiales diferentes. Este fenómeno es el que crea el diferencial de potencial.
+
+Las celdas inorgánicas y electroquímicas operan cuando se establece un diferencial de potencial entre dos materiales con propiedades electrónicas diferentes (tipo n y p) o entre los semiconductores n o p y un electrolito redox. 
+
+
+Como regla general, fotones con energía igual al $E_g$ de un material será absorbido generando electrones libres, mientras que si es menos pasará através de este él o si es mayor convertirá el exceso de energía en calor. (Barttalota)
+
+
+%%%%%%%%%%%%%%%%%%%%%% ADICIONAL DE VENTAJAS DE CSPT  %%%%%%%%%%%%%%%%%%%%%% 
+
+Las CSPT aplican mecanismos diferentes a los otros dispositivos fotovoltaicos. En contraste a los sistemas convecionales que utilizan semiconductores donde en este suceden los mecanismos de absorción de luz y el transporte de carga, los CSPT tienen estos dos mecanismos separados. En las CSPT el tinte sensibilizante se ancla al semiconductor absorbe la luz, mientras que la separación de carga se da en el interfaz del sensibilizante y la banda de conducción del semiconductor por medio de inyección fotoinducida de electrones. Estas características les confieren a las CSPT las ventajas de ser diseñadas e implementadas modularmente así como de operar establemente, incluso en condiciones de temperatura, irradiación y ángulo de incidencia solar no estándares. Adicionalmente, la construcción de las CSPT no requiere altas temperaturas o sistemas de vacío. Gracias a las ventajas de las CSPT, existen esfuerzos para mejorar sus propiedades así como darle usos comerciales. Un ejemplo de esto último son los primeros CSPT comerciales usados como sensores y electrónica domótica ofrecidos en el 2009 por la empresa israelí 3G Solar Photovoltaics Ltd.  (https://www.3gsolar.com/.)
+
+
+%%%%%%%%%%%%%%%%%%%%%% FUNCIONAMIENTO DE LAS CSPT  %%%%%%%%%%%%%%%%%%%%%% 
+
+El electrolito puede ser líquido, gel o sólido y se une al semiconductor como fase de contacto, las otras celdas se unen por contacto de fases sólidas. 
+El corazón del sistema Grätzel es el fotoánodo que consiste en una monocapa de tinte sensibilizante absorbido por una capa de un semiconductor mesoporoso, de aproximadamente 10 $\mu m$ de grosor. El semiconductor usualmente es \ce{TiO2}, pero también puede ser \ce{ZnO,SnO2, Nb2O5}, etc. El electrolito que permeabiliza el semiconductor y que dona electrones a las moléculas oxidades del tinte es comúnmente el par redox yoduro/yodo.
+Bajo la radiación lumínica el tinte promueve electrones (\ce{e^-}) del HOMO al LUMO. El LUMO debe tener mayor energía que la banda de conducción el semiconductor para que la inyección suceda, posteriormente los electrones excitados difunden por el semiconductor y son colectados por el óxido conductor del vidrio FTO/ITO. Estos electrones salen del fotoánodo hacia el cátodo y en su paso pueden ser aprovechados como potencial eléctrico (\textit{V}). Al reentrar a la celda por medio del 
+
+Los electrones excitados del 
+
 Es claro que deben de validarse experimentalmente los resultados obtenidos por los métodos computacionales, pero estos pueden discriminar cientos de candidat
+
+
+
+
 
 
 pero dado un grado de precisión razonable  en la predicción de la propiedad del material, estos modelos computcionales aceleran el proceso de elegir mejores estructuras o moléculas candidatas con la correcta combinación de propiedades necesarias para cumplir satisfactoriamente con el propósito para las que fueron hechas \textit{Leon R. Devereux}. 
