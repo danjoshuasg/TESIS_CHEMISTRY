@@ -110,16 +110,33 @@ Las CSPT aplican mecanismos diferentes a los otros dispositivos fotovoltaicos. E
 %%%%%%%%%%%%%%%%%%%%%% FUNCIONAMIENTO DE LAS CSPT  %%%%%%%%%%%%%%%%%%%%%% 
 
 El electrolito puede ser líquido, gel o sólido y se une al semiconductor como fase de contacto, las otras celdas se unen por contacto de fases sólidas. 
-El corazón del sistema Grätzel es el fotoánodo que consiste en una monocapa de tinte sensibilizante absorbido por una capa de un semiconductor mesoporoso, de aproximadamente 10 $\mu m$ de grosor. El semiconductor usualmente es \ce{TiO2}, pero también puede ser \ce{ZnO,SnO2, Nb2O5}, etc. El electrolito que permeabiliza el semiconductor y que dona electrones a las moléculas oxidades del tinte es comúnmente el par redox yoduro/yodo.
-Bajo la radiación lumínica el tinte promueve electrones (\ce{e^-}) del HOMO al LUMO. El LUMO debe tener mayor energía que la banda de conducción el semiconductor para que la inyección suceda, posteriormente los electrones excitados difunden por el semiconductor y son colectados por el óxido conductor del vidrio FTO/ITO. Estos electrones salen del fotoánodo hacia el cátodo y en su paso pueden ser aprovechados como potencial eléctrico (\textit{V}). Al reentrar a la celda por medio del 
+El corazón del sistema Grätzel es el fotoánodo que consiste en una monocapa de tinte sensibilizante absorbido por una capa de un semiconductor mesoporoso, de aproximadamente 10 $\mu$ m de grosor. El semiconductor usualmente es \ce{TiO2}, pero también puede ser \ce{ZnO,SnO2, Nb2O5}, etc. El electrolito que permeabiliza el semiconductor y que dona electrones a las moléculas oxidades del tinte es comúnmente el par redox yoduro/yodo.
+Bajo la radiación lumínica el tinte promueve electrones (\ce{e^-}) del HOMO al LUMO. El LUMO debe tener mayor energía que la banda de conducción el semiconductor para que la inyección suceda, posteriormente los electrones excitados difunden por el semiconductor y son colectados por el óxido conductor del vidrio FTO/ITO. Estos electrones salen del fotoánodo hacia el cátodo y en su paso pueden ser aprovechados como potencial eléctrico (\textit{V}). Al reentrar a la celda por medio del contra electrodo (típicamente a construído a base de Pt-s/TCO), los electrones reducen los transportadores de huecos de electrones (\ce{I3^- -> I^-}). Por último el agente reductor del electrolito difunde hacia el semiconductor pra regenerar el tinte oxidado en cuestión de micro segundos, de tal forma que cierre el ciclo operativo de óxido-reducción de la celda sin afectar teóricamente las estructuras químicas de los componentes.
 
-Los electrones excitados del 
+%%%%%%%%%%%%%%%%%%%%%% OPTIMIZACIÓN DE LAS CSPT  %%%%%%%%%%%%%%%%%%%%%% 
 
+No obstante, existen reacciones que merman el rendimiento, las cuales son: El decaimiento del estado excitado del tinte, la migración de electroles de la banda conductora del semiconductor al tinte o al electrolito, también conocidas como reacciones de retroceso y oscuras, respectivamente. 
+
+Teniendo en cuenta lo anterior, se infiere que la optimización de las celdas CSPT recae en contrarrestar al máximo dichas reacciones. Una manera de hacerlo es diseñando rutas para que la inyección electrónica y la regeneración del tinte por medio del electrolita sean más rápidas que el decaimiento del tinte excitado y las reacciones de retroceso, respectivamente. 
+
+%%%%%% Falta completar la optimización 
 Es claro que deben de validarse experimentalmente los resultados obtenidos por los métodos computacionales, pero estos pueden discriminar cientos de candidat
 
 
+%%%%%%%%%%%%%%%%%%%%% SOBRE LOS TINTES NATURALES %%%%%%%%%%%%%%%%%%%%%%%%
 
+Los tintes sensibilizantes ideales deben absorber un amplio rango de longitudes de onda, en especial cubrir la región visible y cercana al infrarrojo. Además de mostrar alta foto estabilidad, una absortividad molar grande y debe ser capaz de inyectar los electrones fotogenerados rápidamente desde su estado excitado a la banda de conducción del semiconductor. Esto se logra con un fuerte anclaje a la superficie del óxido conductor y con un potencial redox propicio que permita su rápida regeneración gracias al electrolito. No obstante, las celdas tienen un tiempo de vida a causa de los procesos de enfriamiento o \textit{quenching} y otros generados por el medio que degradan al tinte o al electrolito.
 
+(G. Calogero, A. Bartolotta, G. Di Marco, A. Di Carlo, F. Bonaccorso, Vegetablebased
+dye sensitized solar cells, Chem. Soc. Rev. 44 (2015) 3244e3294.)
+
+Hasta la fecha se han clasificado los tintes sensibilizantes en tres clases: Basados en complejos metálicos, en estructuras orgánicas libres de metales y de fuentes naturales.
+
+Aquellos basados en complejos metálicos tienen dos tipos de ligantes: De anclaje y auxiliares. Los ligantes de anclaje son responsables de absorber el tinte a la superficie del semiconductor. Por otro lado, los ligantes auxiliares permiten la modulación de las propiedades del complejo. Algunos tintes de este tipo son los derivados del bipiridil de rutenio como el N3, N719 y el N749 o tinte negro. A pesar que estos tintes tienen altas eficiencia de conversión ($\eta$), sus altos costos de fabricación, limitados coeficientes de extinción y potenciales efectos contaminantes derivados de los metales dificultan la sostenibilidad de las CSTP y por ende la investigación basada en estos materiales.
+
+En segundo lugar, los tintes orgánicos libre de metales resuelven las limitaciones anteriormente mencionadas, ya que pueden ser diseñadas molecularmente para que estos presenten altos coeficientes de extinción molar y estabilidad bajo condiciones no estándares de temperatura y iluminosidad. Generalmente, las estructuras de estos tintes se configuran químicamente en regiones donadoras y aceptoras de electrones, y puentes conjugados que unen y espacian dichas regiones ($D-\pi-A$). Las configuraciones donadoras de electrones pueden ser cumarinas, fenilaminas, indolinas, triarilaminas, carbazoles, entre otras. Mientras que las estructuras aceptoras pueden ser ácido cianoacrílico, rodaminas o piridinas. Por otra parte las configuraciones puentes pueden ser derivados de tiofenos, polienos o benzotiadiazoles. 
+
+Por último, la clase de tintes naturales son aquellos que se extraen de seres vivos, mayoritariamente de fuentes vegetales como frutas, flores, hojas, entre otras. Muchos de los pigmentos vegetales extraídos han sido investigados como sensibilizantes para CSTP y presentaron rendimientos fotovoltaicos significativos, en especial colorantes como derivados de clorofila, betalaínas, antocianicas, carotenoides, etc. 
 
 
 pero dado un grado de precisión razonable  en la predicción de la propiedad del material, estos modelos computcionales aceleran el proceso de elegir mejores estructuras o moléculas candidatas con la correcta combinación de propiedades necesarias para cumplir satisfactoriamente con el propósito para las que fueron hechas \textit{Leon R. Devereux}. 
