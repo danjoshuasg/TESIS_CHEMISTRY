@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  21 NOV 2022 13:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  21 NOV 2022 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1303,23 +1303,27 @@ Overfull \hbox (40.0621pt too wide) in paragraph at lines 35--36
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4] [5 <./img/familia_celdas.pdf>]
-<img/emergentes.pdf, id=361, 725.71124pt x 330.23375pt>
+[4]
+<img/emergentes.pdf, id=337, 725.71124pt x 330.23375pt>
 File: img/emergentes.pdf Graphic file (type pdf)
 <use img/emergentes.pdf>
-Package pdftex.def Info: img/emergentes.pdf  used on input line 52.
+Package pdftex.def Info: img/emergentes.pdf  used on input line 48.
 (pdftex.def)             Requested size: 435.4301pt x 198.14177pt.
 
-Overfull \hbox (17.17642pt too wide) in paragraph at lines 52--53
+Overfull \hbox (17.17642pt too wide) in paragraph at lines 48--49
  [] 
  []
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./img/familia_celdas.pdf>]
 <img/diagrama_tesis.pdf, id=366, 598.15468pt x 846.0408pt>
 File: img/diagrama_tesis.pdf Graphic file (type pdf)
 <use img/diagrama_tesis.pdf>
 Package pdftex.def Info: img/diagrama_tesis.pdf  used on input line 63.
 (pdftex.def)             Requested size: 418.25368pt x 307.80243pt.
-[6 <./img/emergentes.pdf>] [7 <./img/diagrama_tesis.pdf>]
+ [6 <./img/emergentes.pdf>] [7 <./img/diagrama_tesis.pdf>]
 <img/dye_scheme.pdf, id=426, 398.48875pt x 359.3425pt>
 File: img/dye_scheme.pdf Graphic file (type pdf)
 <use img/dye_scheme.pdf>
@@ -1381,7 +1385,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,12n,103p,1688b,1924s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (17 pages, 716799 bytes).
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (17 pages, 716356 bytes).
 PDF statistics:
  582 PDF objects out of 1000 (max. 8388607)
  109 named destinations out of 1000 (max. 500000)
