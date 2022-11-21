@@ -1,19 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.blg'
-[149] biber-MSWIN64:340> INFO - === 
-[214] Biber.pm:418> INFO - Reading 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf'
-[365] Biber.pm:972> INFO - Found 39 citekeys in bib section 0
-[384] Biber.pm:4383> INFO - Processing section 0
-[399] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
-[453] bibtex.pm:1713> INFO - LaTeX decoding ...
-[580] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
-[956] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[956] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[956] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
-[1000] bbl.pm:654> INFO - Writing 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl' with encoding 'UTF-8'
-[1034] bbl.pm:757> INFO - Output to C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl
-[1034] Biber.pm:130> WARN - Duplicate entry key: 'suryawanshi2013czts' in file 'biblio.bib', skipping ...
-[1034] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_ZKYB\a9e03cb3043b9e2c02591da84105bb68_10672.utf8, line 3, warning: 77 characters of junk seen at toplevel
-[1034] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_ZKYB\a9e03cb3043b9e2c02591da84105bb68_10672.utf8, line 506, warning: 80 characters of junk seen at toplevel
-[1034] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_ZKYB\a9e03cb3043b9e2c02591da84105bb68_10672.utf8, line 521, warning: 75 characters of junk seen at toplevel
-[1034] Biber.pm:132> INFO - WARNINGS: 4
+[135] biber-MSWIN64:340> INFO - === 
+[177] Biber.pm:418> INFO - Reading 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bcf'
+[328] Biber.pm:972> INFO - Found 39 citekeys in bib section 0
+[347] Biber.pm:4383> INFO - Processing section 0
+[362] Biber.pm:4574> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[420] bibtex.pm:1713> INFO - LaTeX decoding ...
+[528] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[861] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[861] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[861] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[898] bbl.pm:654> INFO - Writing 'C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl' with encoding 'UTF-8'
+[930] bbl.pm:757> INFO - Output to C:/Users/danjo/TESIS_CHEMISTRY/build/main.bbl
+[931] Biber.pm:130> WARN - Duplicate entry key: 'suryawanshi2013czts' in file 'biblio.bib', skipping ...
+[931] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_CLIT\a9e03cb3043b9e2c02591da84105bb68_20808.utf8, line 3, warning: 77 characters of junk seen at toplevel
+[931] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_CLIT\a9e03cb3043b9e2c02591da84105bb68_20808.utf8, line 506, warning: 80 characters of junk seen at toplevel
+[931] Biber.pm:130> WARN - BibTeX subsystem: C:\Users\danjo\AppData\Local\Temp\biber_tmp_CLIT\a9e03cb3043b9e2c02591da84105bb68_20808.utf8, line 521, warning: 75 characters of junk seen at toplevel
+[931] Biber.pm:132> INFO - WARNINGS: 4
