@@ -52,10 +52,21 @@ Con los datos del NREL se construyó una serie de tiempo de las mejores eficienc
     \label{img:SerieEmergente}
 \end{figure}
 
-Contrario a las anteriores, las celdas orgánicas y las celdas sensibilizadas por tintes (CSPT) son más sostenibles ambientalmente, ya que los polímeros que los componen pueden ser degradados. Además, son construidos por módulos y con diversos materiales orgánicos y metal-orgánicos. Por lo que sus costos de fabricación serían comercialmente rentables. Si bien las CSPT han sido las primeras en ser investigadas, las celdas orgánicas las han superado en términos de eficiencia debido al descubrimiento de moléculas aceptoras y donadoras de alto rendimiento que generan y transportan carga \cite{li2022recent}. Sin embargo, estas moléculas especializadas son menos accesibles que los tintes de las CSPT. Sumado a la brecha de conocimiento de las propiedades fotoactivas de muchos productos naturales, como los existentes en la biodiversidad peruana, el presente proyecto se concentrará en este último tipo de celda. 
+Contrario a las anteriores, las celdas orgánicas y las sensibilizadas por tintes (CSPT) son más sostenibles, ya que los polímeros que los componen pueden ser degradados por el ambiente. Además, pueden ser construidos por módulos con diversos materiales orgánicos y metal-orgánicos, por lo que sus costos de fabricación serían comercialmente más rentables; aparte de ser más flexibles y resistentes. Si bien las CSPT han sido descubiertas antes que las orgánicas, estas últimas las han superado en términos de eficiencia, véase imagen \ref{img:SerieEmergente}; debido al descubrimiento de moléculas aceptoras y donadoras de alto rendimiento que generan y transportan carga \cite{li2022recent}. Sin embargo, estas moléculas especializadas son más costosas que los tintes de las CSPT. Sumado a la brecha de conocimiento de las propiedades fotoactivas de muchos productos naturales que pueden ser usados como tintes sensibilizantes, el presente proyecto se concentrará en el estudio de las CSPT. 
+
+%%%%%%%%%%%%%%%%%%%%%% Estamos aquí :)  %%%%%%%%%%%%%%%%%%%%%% 
+
+Las CSPT aplican mecanismos diferentes a los otros dispositivos fotovoltaicos. En contraste a los sistemas convencionales que utilizan semiconductores que integran los mecanismos de absorción de luz y el transporte de carga, los CSPT tienen estos dos mecanismos separados. En las CSPT el tinte sensibilizante se ancla al semiconductor para absorber la luz, mientras que el transporte de carga se da en la interfaz del sensibilizante y la banda de conducción del semiconductor por medio de inyección fotoinducida de electrones y creación de huecos. Estas características les confieren a las CSPT las ventajas de ser diseñadas e implementadas modularmente \cite{hashmi2011review} así como de operar establemente, incluso en condiciones de temperatura, irradiación y ángulo de incidencia solar no estándares. Adicionalmente, la construcción de las CSPT no requiere altas temperaturas o sistemas de vacío. Gracias a las ventajas de las CSPT, existen esfuerzos para mejorar sus propiedades así como darle usos comerciales. Un ejemplo de esto último son los primeros CSPT comerciales usados como sensores y electrónica domótica ofrecidos en el 2009 por la empresa israelí 3G Solar Photovoltaics Ltd. (https://www.3gsolar.com/.)
+
+%%%%%%%%%%%%%%%%%%%%%% FUNCIONAMIENTO DE LAS CSPT  %%%%%%%%%%%%%%%%%%%%%% 
+
+El electrolito puede ser líquido, gel o sólido y se une al semiconductor como fase de contacto, las otras celdas se unen por contacto de fases sólidas. 
+El corazón del sistema Grätzel es el fotoánodo que consiste en una monocapa de tinte sensibilizante absorbido por una capa de un semiconductor mesoporoso, de aproximadamente 10 $\mu$ m de grosor. El semiconductor usualmente es \ce{TiO2}, pero también puede ser \ce{ZnO,SnO2, Nb2O5}, etc. El electrolito que permeabiliza el semiconductor y que dona electrones a las moléculas oxidades del tinte es comúnmente el par redox yoduro/yodo.
+Bajo la radiación lumínica el tinte promueve electrones (\ce{e^-}) del HOMO al LUMO. El LUMO debe tener mayor energía que la banda de conducción el semiconductor para que la inyección suceda, posteriormente los electrones excitados difunden por el semiconductor y son colectados por el óxido conductor del vidrio FTO/ITO. Estos electrones salen del fotoánodo hacia el cátodo y en su paso pueden ser aprovechados como potencial eléctrico (\textit{V}). Al reentrar a la celda por medio del contra electrodo (típicamente a construído a base de Pt-s/TCO), los electrones reducen los transportadores de huecos de electrones (\ce{I3^- -> I^-}). Por último el agente reductor del electrolito difunde hacia el semiconductor pra regenerar el tinte oxidado en cuestión de micro segundos, de tal forma que cierre el ciclo operativo de óxido-reducción de la celda sin afectar teóricamente las estructuras químicas de los componentes.
 
 
- Los CSPT son dispositivos que aprovechan las absorción luminosa de los tintes para generar energía fotovoltaica. Sus arquitecturas se componen de 4 materiales: El semiconductor, el tinte o sensibilizador, el electrolito y los vidrios conductores (Figura \ref{img:CSPT}). Las CSPT modernas derivan de la celda creada por Brian O'Rigan y Michael Gratzel en 1991 \cite{o1991low}. En dicha celda, usaron óxido de estaño dopado con flúor y partículas de platino (Pt-FTO) como vidrio conductor, el cuál soportaba el óxido de titanio \ce{TiO2} nanocristalino dopado a su vez por nanopartículas de complejos triméricos de rutenio(II) bipidirina (Rutenio-bipidirina) como semiconductor y tinte sensibilizante, respectivamente. Para la regeneración del tinte se utilizó yoduro/triyoduro como electrolito redox. El fotovoltaje ($\Delta V$) de celda corresponde al potencial teórico de trabajo útil y puede aproximarse a la diferencia entre el nivel de energía de Fermi del semiconductor bajo iluminación y el potencial de Nernst del par redox del electrolito.
+Las CSPT son dispositivos que aprovechan las absorción luminosa de los tintes para generar energía fotovoltaica. Sus arquitecturas se componen de 4 materiales: El semiconductor, el tinte o sensibilizador, el electrolito y los vidrios conductores (Figura \ref{img:CSPT}). Las CSPT modernas derivan de la celda creada por Brian O'Rigan y Michael Gratzel en 1991 \cite{o1991low}. En dicha celda, se usó óxido de estaño dopado con flúor y partículas de platino (Pt-FTO) como vidrio conductor, el cuál soportaba el óxido de titanio \ce{TiO2} nanocristalino dopado a su vez por nanopartículas de complejos triméricos de rutenio(II) bipidirina (Rutenio-bipidirina) como semiconductor y tinte sensibilizante, respectivamente. Para la regeneración del tinte se utilizó yoduro/triyoduro como electrolito redox. El fotovoltaje ($\Delta V$) de celda corresponde al potencial teórico de trabajo útil y puede aproximarse a la diferencia entre el nivel de energía de Fermi del semiconductor bajo iluminación y el potencial de Nernst del par redox del electrolito.
+
 
 \begin{figure}[!thb]
     \begin{center}
@@ -65,6 +76,7 @@ Contrario a las anteriores, las celdas orgánicas y las celdas sensibilizadas po
     \label{img:CSPT}
 \end{figure}
 
+%%%%%%%%%%%%%%%%%%%%%% MEDIDAS DEL RENDIMIENTO DE LA CELDA  %%%%%%%%%%%%%%%%%%%%%% 
 
 Los componentes influyen directamente al rendimiento de la celda, y esta puede medirse por medio de dos ecuaciones: La eficiencia de corriente monocromática ($\eta_{i} (\lambda)$) y la eficiencia del potencial de conversión (PCE). La  ecuación \ref{eqn:ECM} describe la capacidad del dispositivo para mantener el flujo eléctrico de celda generado por fenómenos fotoeléctricos. Esta capacidad se calcula como el producto de la eficiencia de recolección de luz de longitud $\lambda$ ($\text{LHE}(\lambda)$) que mide la fracción de fotones incidentes que son absorbidos por el tinte, el rendimiento cuántico de inyección de carga ($\phi_{inj}$) que mide el número de huecos inyectados hacia la capa de valencia o electrones a la banda de conducción del semiconductor sensibilizado por número de einstein absorbidos, y la eficiencia de colección de carga de retorno ($\eta_e$) que mide la fracción de electrones que llegan al contraelectrodo versus los que salieron del electrodo de trabajo en un circuito cerrado. Como esta medición sólo toma en cuenta valores de parámetros para una longitud de onda, es más práctico tomar como medida de referencia la segunda ecuación.
 
@@ -91,25 +103,32 @@ Teniendo en cuenta las formas de medir el desempeño de una celda solar, es evid
     \label{img:tinte}
 \end{figure}
 
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{ | c | c | c | }
+      \hline
+      my.Lboro & Advantages & Disadvantages \\ \hline
+      \begin{minipage}{.3\textwidth}
+        \includegraphics[width=\linewidth, height=50mm]{img/dye_scheme.pdf}
+      \end{minipage}
+      &
+      %\begin{minipage}[t]{5cm}
+      \begin{minipage}{.3\textwidth}
+            \includegraphics[width=\linewidth, height=50mm]{img/MetalOrganicDye.pdf}
+      \end{minipage}
+      %\end{minipage}
+      & 
+      %\begin{minipage}{5cm}
+        \begin{minipage}{.3\textwidth}
+            \includegraphics[width=\linewidth, height=50mm]{img/Antocyanin.pdf}
+      \end{minipage}
+      %\end{minipage}
+      \\ \hline
+    \end{tabular}
+    \caption{my.Lboro Analysis}\label{tbl:myLboro}
+  \end{table}
 
-Los efectos fotovoltaicos suceden cuando los fotones caen sobre un semiconductor que produce pares de electrones-hoyo que suceden en la interfaz entre dos materiales diferentes. Este fenómeno es el que crea el diferencial de potencial.
 
-Las celdas inorgánicas y electroquímicas operan cuando se establece un diferencial de potencial entre dos materiales con propiedades electrónicas diferentes (tipo n y p) o entre los semiconductores n o p y un electrolito redox. 
-
-
-Como regla general, fotones con energía igual al $E_g$ de un material será absorbido generando electrones libres, mientras que si es menos pasará através de este él o si es mayor convertirá el exceso de energía en calor. (Barttalota)
-
-
-%%%%%%%%%%%%%%%%%%%%%% ADICIONAL DE VENTAJAS DE CSPT  %%%%%%%%%%%%%%%%%%%%%% 
-
-Las CSPT aplican mecanismos diferentes a los otros dispositivos fotovoltaicos. En contraste a los sistemas convecionales que utilizan semiconductores donde en este suceden los mecanismos de absorción de luz y el transporte de carga, los CSPT tienen estos dos mecanismos separados. En las CSPT el tinte sensibilizante se ancla al semiconductor absorbe la luz, mientras que la separación de carga se da en el interfaz del sensibilizante y la banda de conducción del semiconductor por medio de inyección fotoinducida de electrones. Estas características les confieren a las CSPT las ventajas de ser diseñadas e implementadas modularmente así como de operar establemente, incluso en condiciones de temperatura, irradiación y ángulo de incidencia solar no estándares. Adicionalmente, la construcción de las CSPT no requiere altas temperaturas o sistemas de vacío. Gracias a las ventajas de las CSPT, existen esfuerzos para mejorar sus propiedades así como darle usos comerciales. Un ejemplo de esto último son los primeros CSPT comerciales usados como sensores y electrónica domótica ofrecidos en el 2009 por la empresa israelí 3G Solar Photovoltaics Ltd.  (https://www.3gsolar.com/.)
-
-
-%%%%%%%%%%%%%%%%%%%%%% FUNCIONAMIENTO DE LAS CSPT  %%%%%%%%%%%%%%%%%%%%%% 
-
-El electrolito puede ser líquido, gel o sólido y se une al semiconductor como fase de contacto, las otras celdas se unen por contacto de fases sólidas. 
-El corazón del sistema Grätzel es el fotoánodo que consiste en una monocapa de tinte sensibilizante absorbido por una capa de un semiconductor mesoporoso, de aproximadamente 10 $\mu$ m de grosor. El semiconductor usualmente es \ce{TiO2}, pero también puede ser \ce{ZnO,SnO2, Nb2O5}, etc. El electrolito que permeabiliza el semiconductor y que dona electrones a las moléculas oxidades del tinte es comúnmente el par redox yoduro/yodo.
-Bajo la radiación lumínica el tinte promueve electrones (\ce{e^-}) del HOMO al LUMO. El LUMO debe tener mayor energía que la banda de conducción el semiconductor para que la inyección suceda, posteriormente los electrones excitados difunden por el semiconductor y son colectados por el óxido conductor del vidrio FTO/ITO. Estos electrones salen del fotoánodo hacia el cátodo y en su paso pueden ser aprovechados como potencial eléctrico (\textit{V}). Al reentrar a la celda por medio del contra electrodo (típicamente a construído a base de Pt-s/TCO), los electrones reducen los transportadores de huecos de electrones (\ce{I3^- -> I^-}). Por último el agente reductor del electrolito difunde hacia el semiconductor pra regenerar el tinte oxidado en cuestión de micro segundos, de tal forma que cierre el ciclo operativo de óxido-reducción de la celda sin afectar teóricamente las estructuras químicas de los componentes.
 
 %%%%%%%%%%%%%%%%%%%%%% OPTIMIZACIÓN DE LAS CSPT  %%%%%%%%%%%%%%%%%%%%%% 
 
@@ -130,23 +149,22 @@ dye sensitized solar cells, Chem. Soc. Rev. 44 (2015) 3244e3294.)
 
 Hasta la fecha se han clasificado los tintes sensibilizantes en tres clases: Basados en complejos metálicos, en estructuras orgánicas libres de metales y de fuentes naturales.
 
-Aquellos basados en complejos metálicos tienen dos tipos de ligantes: De anclaje y auxiliares. Los ligantes de anclaje son responsables de absorber el tinte a la superficie del semiconductor. Por otro lado, los ligantes auxiliares permiten la modulación de las propiedades del complejo. Algunos tintes de este tipo son los derivados del bipiridil de rutenio como el N3, N719 y el N749 o tinte negro. A pesar que estos tintes tienen altas eficiencia de conversión ($\eta$), sus altos costos de fabricación, limitados coeficientes de extinción y potenciales efectos contaminantes derivados de los metales dificultan la sostenibilidad de las CSTP y por ende la investigación basada en estos materiales.
+Aquellos basados en complejos metálicos tienen dos tipos de ligantes: De anclaje y auxiliares. Los ligantes de anclaje son responsables de absorber el tinte a la superficie del semiconductor. Por otro lado, los ligantes auxiliares permiten la modulación de las propiedades del complejo. Algunos tintes de este tipo son los derivados del bipiridil de rutenio como el N3, N719 y el N749 o tinte negro. A pesar que estos tintes tienen altas eficiencia de conversión ($\eta$), sus altos costos de fabricación, limitados coeficientes de extinción y potenciales efectos contaminantes derivados de los metales dificultan la sostenibilidad de las CSTP y por ende la investigación basada en estos materiales. 
 
-En segundo lugar, los tintes orgánicos libre de metales resuelven las limitaciones anteriormente mencionadas, ya que pueden ser diseñadas molecularmente para que estos presenten altos coeficientes de extinción molar y estabilidad bajo condiciones no estándares de temperatura y iluminosidad. Generalmente, las estructuras de estos tintes se configuran químicamente en regiones donadoras y aceptoras de electrones, y puentes conjugados que unen y espacian dichas regiones ($D-\pi-A$). Las configuraciones donadoras de electrones pueden ser cumarinas, fenilaminas, indolinas, triarilaminas, carbazoles, entre otras. Mientras que las estructuras aceptoras pueden ser ácido cianoacrílico, rodaminas o piridinas. Por otra parte las configuraciones puentes pueden ser derivados de tiofenos, polienos o benzotiadiazoles. 
+En segundo lugar, los tintes orgánicos libre de metales resuelven las limitaciones anteriormente mencionadas, ya que pueden ser diseñadas molecularmente a fin de tener propiedades que aumenten sus rendimientos. Generalmente, las estructuras de estos tintes se configuran químicamente en regiones donadoras y aceptoras de electrones, y puentes conjugados que unen y espacian dichas regiones ($D-\pi-A$). Las configuraciones donadoras de electrones pueden ser cumarinas, fenilaminas, indolinas, triarilaminas, carbazoles, entre otras. Mientras que las estructuras aceptoras pueden ser ácido cianoacrílico, rodaminas o piridinas. Por otra parte las configuraciones puentes pueden ser derivados de tiofenos, polienos o benzotiadiazoles. 
 
-Por último, la clase de tintes naturales son aquellos que se extraen de seres vivos, mayoritariamente de fuentes vegetales como frutas, flores, hojas, entre otras. Muchos de los pigmentos vegetales extraídos han sido investigados como sensibilizantes para CSTP y presentaron rendimientos fotovoltaicos significativos, en especial colorantes como derivados de clorofila, betalaínas, antocianicas, carotenoides, etc. 
+En tercer lugar, la clase de tintes naturales son aquellos que se extraen de seres vivos, mayoritariamente de fuentes vegetales como frutas, flores, hojas, entre otras. Muchos de los pigmentos vegetales extraídos han sido investigados como sensibilizantes para CSTP y presentaron rendimientos fotovoltaicos significativos, en especial colorantes como derivados de clorofila, betalaínas, antocianicas, carotenoides, etc. 
 
-%%%%%%%%%%%%%%%%%%%%% ACELERACIÓN DEL DESCUBRIMIENTO DE NUEVOS MATERIALES %%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% INVESTIGACIÓN DIRIGIDA POR DATOS %%%%%%%%%%%%%%%%%%%%%%%%
 
-Los descubrimientos de moléculas con estructuras altamente especializadas, por ende con propiedades específicas, es posible actualmente gracias a la existencia de una amplio número de modificaciones de rutas de síntesis y procesos de purificación. El camino clásico para conseguir estos avances es a través del enfoque de "ensayo y error"
+La investigación de tintes para CSTP de alto rendimiento puede realizarse por medio del camino clásico de ensayo y error guiado por intución química y por métodos computacionales que sirven para filtrar los candidatos con características estructurales y funcionales teóricamente óptimas. Ambos enfoques deben ir de la mano a fin de ahorrar recursos en la búsqueda de materiales y validar experimentalmente los materiales candidatos. Sin embargo, los recursos computacionales son limitados debido a la complejidad de los cálculos teóricos-computacionales en el diseño químico y el costo de las licencias de los softwares que los realizan.
+
+A fin de expandir el uso de modelos computacionales para el tamizaje de materiales, se han creado metodologías que aprovechan datos experimentales y computacionales para extraer y extrapolar información de los patrones hallados en dichos datos. Estas metodologías se engloban dentro de un enfoque llamado investigación dirigida por datos (\textit{Data-driven} del inglés) el cual surge de la creación de bases de datos y herramientas informáticas de acceso abierto para el análisis de datos e inteligencia artificial \cite{himanen2019data}. 
+
+El aprendizaje automático es un subcampo de la inteligencia artificial que estudia modelos computacionales que emulen procesos de aprendizaje basados en la experiencia. Esta experiencia se obtiene entrenando estos modelos con un volumen considerable datos que relacionan  Los algoritmos de aprendizaje automático se dividen en modelos de aprendizaje supervisado, no supervisado y por reforzamiento. 
 
 
-%%%%%%%%%%%%%%%%%%%%% ESPACIO QUÍMICO %%%%%%%%%%%%%%%%%%%%%%%%
 
-
-
-
-pero dado un grado de precisión razonable  en la predicción de la propiedad del material, estos modelos computcionales aceleran el proceso de elegir mejores estructuras o moléculas candidatas con la correcta combinación de propiedades necesarias para cumplir satisfactoriamente con el propósito para las que fueron hechas \textit{Leon R. Devereux}. 
 
 \begin{figure}[h!]
     \begin{center}

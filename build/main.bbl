@@ -1541,6 +1541,70 @@
       \field{pages}{1800}
       \range{pages}{1}
     \endentry
+    \entry{hashmi2011review}{article}{}
+      \name{author}{8}{}{%
+        {{hash=0dee64468018de7ab130549da32c8b40}{%
+           family={Hashmi},
+           familyi={H\bibinitperiod},
+           given={Ghufran},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f3512564b6c6cb90cdac509fb50f2126}{%
+           family={Miettunen},
+           familyi={M\bibinitperiod},
+           given={Kati},
+           giveni={K\bibinitperiod}}}%
+        {{hash=42eac9976dcd6e7f33e1ef8db6fe256c}{%
+           family={Peltola},
+           familyi={P\bibinitperiod},
+           given={Timo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1233a54830f5da019d158abd740d4396}{%
+           family={Halme},
+           familyi={H\bibinitperiod},
+           given={Janne},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a7fc807fedd51479a93c19fffbe9beeb}{%
+           family={Asghar},
+           familyi={A\bibinitperiod},
+           given={Imran},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5a9b461221a08daea7968748a32d12b1}{%
+           family={Aitola},
+           familyi={A\bibinitperiod},
+           given={Kerttu},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{%
+           family={Toivola},
+           familyi={T\bibinitperiod},
+           given={Minna},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1420dc67ef7b9ce980277b662ea0a750}{%
+           family={Lund},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2ec3a8437626eaa7e68533d7a36539f2}
+      \strng{fullhash}{a37ca883f2ee40d7d41e62a8f8e5db50}
+      \strng{bibnamehash}{a37ca883f2ee40d7d41e62a8f8e5db50}
+      \strng{authorbibnamehash}{a37ca883f2ee40d7d41e62a8f8e5db50}
+      \strng{authornamehash}{2ec3a8437626eaa7e68533d7a36539f2}
+      \strng{authorfullhash}{a37ca883f2ee40d7d41e62a8f8e5db50}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{number}{8}
+      \field{title}{Review of materials and manufacturing options for large area flexible dye solar cells}
+      \field{volume}{15}
+      \field{year}{2011}
+      \field{pages}{3717\bibrangedash 3732}
+      \range{pages}{16}
+    \endentry
     \entry{o1991low}{article}{}
       \name{author}{2}{}{%
         {{hash=8a5774611cc2922dd607b3d72c8db854}{%
@@ -1574,6 +1638,50 @@
       \field{year}{1991}
       \field{pages}{737\bibrangedash 740}
       \range{pages}{4}
+    \endentry
+    \entry{himanen2019data}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d5925c6a024125ce774598751d4606aa}{%
+           family={Himanen},
+           familyi={H\bibinitperiod},
+           given={Lauri},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3d82dcdfa06e9b2bafbd8bbf755babd4}{%
+           family={Geurts},
+           familyi={G\bibinitperiod},
+           given={Amber},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e7cbc89439fdea237c6cee173d7fdf6d}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={Adam\bibnamedelima Stuart},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3b83a879f9a12f61da41a1ac03302d58}{%
+           family={Rinke},
+           familyi={R\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{52dccda7c7a16c5b9fc0a7ac1c7303e9}
+      \strng{fullhash}{ad716daaee22d4d1759ef51aae99048e}
+      \strng{bibnamehash}{ad716daaee22d4d1759ef51aae99048e}
+      \strng{authorbibnamehash}{ad716daaee22d4d1759ef51aae99048e}
+      \strng{authornamehash}{52dccda7c7a16c5b9fc0a7ac1c7303e9}
+      \strng{authorfullhash}{ad716daaee22d4d1759ef51aae99048e}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Science}
+      \field{number}{21}
+      \field{title}{Data-driven materials science: status, challenges, and perspectives}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{pages}{1900808}
+      \range{pages}{1}
     \endentry
     \entry{wen2020}{article}{}
       \name{author}{5}{}{%
