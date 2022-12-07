@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  6 DEC 2022 20:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  6 DEC 2022 21:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1333,28 +1333,28 @@ Package pdftex.def Info: img/dye_scheme.pdf  used on input line 100.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: img/dye_scheme.pdf Graphic file (type pdf)
-<use img/dye_scheme.pdf>
-Package pdftex.def Info: img/dye_scheme.pdf  used on input line 112.
-(pdftex.def)             Requested size: 125.47597pt x 142.26497pt.
 <img/MetalOrganicDye.pdf, id=318, 126.68329pt x 169.36021pt>
 File: img/MetalOrganicDye.pdf Graphic file (type pdf)
 <use img/MetalOrganicDye.pdf>
-Package pdftex.def Info: img/MetalOrganicDye.pdf  used on input line 117.
-(pdftex.def)             Requested size: 125.47868pt x 142.2616pt.
+Package pdftex.def Info: img/MetalOrganicDye.pdf  used on input line 111.
+(pdftex.def)             Requested size: 105.2766pt x 119.49974pt.
+File: img/dye_scheme.pdf Graphic file (type pdf)
+<use img/dye_scheme.pdf>
+Package pdftex.def Info: img/dye_scheme.pdf  used on input line 116.
+(pdftex.def)             Requested size: 125.47597pt x 128.04176pt.
 <img/Antocyanin.pdf, id=319, 192.7727pt x 130.52263pt>
 File: img/Antocyanin.pdf Graphic file (type pdf)
 <use img/Antocyanin.pdf>
-Package pdftex.def Info: img/Antocyanin.pdf  used on input line 123.
-(pdftex.def)             Requested size: 125.48018pt x 142.27081pt.
-[8 <./img/dye_scheme.pdf> <./img/MetalOrganicDye.pdf
+Package pdftex.def Info: img/Antocyanin.pdf  used on input line 122.
+(pdftex.def)             Requested size: 113.81432pt x 99.58856pt.
+[8 <./img/MetalOrganicDye.pdf> <./img/dye_scheme.pdf
 
-pdfTeX warning: pdflatex.exe (file ./img/MetalOrganicDye.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex.exe (file ./img/dye_scheme.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./img/Antocyanin.pdf
 
 pdfTeX warning: pdflatex.exe (file ./img/Antocyanin.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >] [9]
-<img/espacioquimico.png, id=367, 790.955pt x 572.1375pt>
+<img/espacioquimico.png, id=368, 790.955pt x 572.1375pt>
 File: img/espacioquimico.png Graphic file (type png)
 <use img/espacioquimico.png>
 Package pdftex.def Info: img/espacioquimico.png  used on input line 171.
@@ -1363,7 +1363,7 @@ Package pdftex.def Info: img/espacioquimico.png  used on input line 171.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<img/etapas.png, id=368, 492.84125pt x 196.735pt>
+<img/etapas.png, id=369, 492.84125pt x 196.735pt>
 File: img/etapas.png Graphic file (type png)
 <use img/etapas.png>
 Package pdftex.def Info: img/etapas.png  used on input line 179.
@@ -1404,9 +1404,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,14n,103p,1688b,1924s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (16 pages, 722358 bytes).
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (16 pages, 722420 bytes).
 PDF statistics:
- 497 PDF objects out of 1000 (max. 8388607)
+ 498 PDF objects out of 1000 (max. 8388607)
  89 named destinations out of 1000 (max. 500000)
  229 words of extra memory for PDF output out of 10000 (max. 10000000)
 
