@@ -1683,6 +1683,295 @@
       \field{pages}{1900808}
       \range{pages}{1}
     \endentry
+    \entry{vamathevan2019applications}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=d437c3c0d08e7c12003a0dca26bed0ce}{%
+           family={Vamathevan},
+           familyi={V\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0e5a3ef8d545ae8449c429175dbf9239}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1f991ce4f1ca964b63b1bb9deb2266df}{%
+           family={Czodrowski},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f7cefcf8f6c2abde246ee5bf7b5b9469}{%
+           family={Dunham},
+           familyi={D\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=455bf41d8607fded6563478c329704fc}{%
+           family={Ferran},
+           familyi={F\bibinitperiod},
+           given={Edgardo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=edb8f4318a8edc750cc3b124062cb40b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cd1e4e648b0074e1d1f4427d70297b0a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=16824ad24dd47afdeba94b4dc7f268bd}{%
+           family={Madabhushi},
+           familyi={M\bibinitperiod},
+           given={Anant},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e3d8a85b0483a209f893a1560386b438}{%
+           family={Shah},
+           familyi={S\bibinitperiod},
+           given={Parantu},
+           giveni={P\bibinitperiod}}}%
+        {{hash=87d98396bf5172a25f0b1a768ebc70e0}{%
+           family={Spitzer},
+           familyi={S\bibinitperiod},
+           given={Michaela},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{df03ed733387c4682a45d9045ee1d7b9}
+      \strng{fullhash}{e6bb3e6d3ba232f9c3a0ec5d9ca24c92}
+      \strng{bibnamehash}{e6bb3e6d3ba232f9c3a0ec5d9ca24c92}
+      \strng{authorbibnamehash}{e6bb3e6d3ba232f9c3a0ec5d9ca24c92}
+      \strng{authornamehash}{df03ed733387c4682a45d9045ee1d7b9}
+      \strng{authorfullhash}{e6bb3e6d3ba232f9c3a0ec5d9ca24c92}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature reviews Drug discovery}
+      \field{number}{6}
+      \field{title}{Applications of machine learning in drug discovery and development}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{pages}{463\bibrangedash 477}
+      \range{pages}{15}
+    \endentry
+    \entry{maryasin2018machine}{article}{}
+      \name{author}{3}{}{%
+        {{hash=afd3d3ce097c815bb800992f726fd6f3}{%
+           family={Maryasin},
+           familyi={M\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+        {{hash=de3777ab497db4de81fece5319b328bc}{%
+           family={Marquetand},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9716f473d09ecfda96ecf5330e041c59}{%
+           family={Maulide},
+           familyi={M\bibinitperiod},
+           given={Nuno},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{e8c04ed0f62d522e5bfb391ce9740014}
+      \strng{fullhash}{e8c04ed0f62d522e5bfb391ce9740014}
+      \strng{bibnamehash}{e8c04ed0f62d522e5bfb391ce9740014}
+      \strng{authorbibnamehash}{e8c04ed0f62d522e5bfb391ce9740014}
+      \strng{authornamehash}{e8c04ed0f62d522e5bfb391ce9740014}
+      \strng{authorfullhash}{e8c04ed0f62d522e5bfb391ce9740014}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Angewandte Chemie International Edition}
+      \field{number}{24}
+      \field{title}{Machine learning for organic synthesis: are robots replacing chemists?}
+      \field{volume}{57}
+      \field{year}{2018}
+      \field{pages}{6978\bibrangedash 6980}
+      \range{pages}{3}
+    \endentry
+    \entry{kitchin2018machine}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a0aaeb2674943e5043c8f759c2d23f2a}{%
+           family={Kitchin},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{a0aaeb2674943e5043c8f759c2d23f2a}
+      \strng{fullhash}{a0aaeb2674943e5043c8f759c2d23f2a}
+      \strng{bibnamehash}{a0aaeb2674943e5043c8f759c2d23f2a}
+      \strng{authorbibnamehash}{a0aaeb2674943e5043c8f759c2d23f2a}
+      \strng{authornamehash}{a0aaeb2674943e5043c8f759c2d23f2a}
+      \strng{authorfullhash}{a0aaeb2674943e5043c8f759c2d23f2a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Catalysis}
+      \field{number}{4}
+      \field{title}{Machine learning in catalysis}
+      \field{volume}{1}
+      \field{year}{2018}
+      \field{pages}{230\bibrangedash 232}
+      \range{pages}{3}
+    \endentry
+    \entry{liu2020machine}{article}{}
+      \name{author}{5}{}{%
+        {{hash=4ea6157adaa214ea9a0734bb53dd8492}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=063d08e6271e38c24f8514e2be6049c0}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Biru},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b3c30d8ceaf0db830a4148c9d230e69e}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Xinxin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bc0a3c15a11335e46b459b56dcc05da7}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yajie},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=36f5b4597b9130f6ba085c791a3e228d}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Siqi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d8ba6770e4f13aff9525d95479813600}
+      \strng{fullhash}{33c8ffac4466aa4a7acf8b23ad19affe}
+      \strng{bibnamehash}{33c8ffac4466aa4a7acf8b23ad19affe}
+      \strng{authorbibnamehash}{33c8ffac4466aa4a7acf8b23ad19affe}
+      \strng{authornamehash}{d8ba6770e4f13aff9525d95479813600}
+      \strng{authorfullhash}{33c8ffac4466aa4a7acf8b23ad19affe}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Storage Materials}
+      \field{title}{Machine learning assisted materials design and discovery for rechargeable batteries}
+      \field{volume}{31}
+      \field{year}{2020}
+      \field{pages}{434\bibrangedash 450}
+      \range{pages}{17}
+    \endentry
+    \entry{zhu2018artificial}{article}{}
+      \name{author}{8}{}{%
+        {{hash=75b0be5b94854def727c748b9fe7cdcc}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Shan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9958ccb241e8eac42694f3fcb9e4c43d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jiajun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7a4d66b2dc4e604269c6e06b9daf6540}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Liying},
+           giveni={L\bibinitperiod}}}%
+        {{hash=260e7156c787af31548e3ea7be6e808a}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Chunnian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=600637ac4b6531dd855e6b6aa0695b71}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Enzuo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0dd56661b841b6f31477a2120746d5bf}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5f338b8444af6a4e658836a522aecaf3}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Chunsheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cf3a17bf35896758149ffea8b9ac6941}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Naiqin},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{19734d8b1decb08eba3db989924b5c19}
+      \strng{fullhash}{8a067a4fe45888ddb4a951e6780bbf4f}
+      \strng{bibnamehash}{8a067a4fe45888ddb4a951e6780bbf4f}
+      \strng{authorbibnamehash}{8a067a4fe45888ddb4a951e6780bbf4f}
+      \strng{authornamehash}{19734d8b1decb08eba3db989924b5c19}
+      \strng{authorfullhash}{8a067a4fe45888ddb4a951e6780bbf4f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials Letters}
+      \field{title}{Artificial neural network enabled capacitance prediction for carbon-based supercapacitors}
+      \field{volume}{233}
+      \field{year}{2018}
+      \field{pages}{294\bibrangedash 297}
+      \range{pages}{4}
+    \endentry
+    \entry{mahmood2021machine}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ee2abe970ee83e66d6039ca9523794bd}{%
+           family={Mahmood},
+           familyi={M\bibinitperiod},
+           given={Asif},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8701044915636a06542ba04c5ac7418c}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jin-Liang},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{2f560b576d625f10e43a1fc44cdb4f49}
+      \strng{fullhash}{2f560b576d625f10e43a1fc44cdb4f49}
+      \strng{bibnamehash}{2f560b576d625f10e43a1fc44cdb4f49}
+      \strng{authorbibnamehash}{2f560b576d625f10e43a1fc44cdb4f49}
+      \strng{authornamehash}{2f560b576d625f10e43a1fc44cdb4f49}
+      \strng{authorfullhash}{2f560b576d625f10e43a1fc44cdb4f49}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy \& environmental science}
+      \field{number}{1}
+      \field{title}{Machine learning for high performance organic solar cells: current scenario and future prospects}
+      \field{volume}{14}
+      \field{year}{2021}
+      \field{pages}{90\bibrangedash 105}
+      \range{pages}{16}
+    \endentry
     \entry{wen2020}{article}{}
       \name{author}{5}{}{%
         {{hash=6bb5da5b75fec4d1785f070f62af9f72}{%
@@ -1720,8 +2009,8 @@
       \strng{authorbibnamehash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
       \strng{authornamehash}{c07f6140f073d684eae466a0c7ef80d4}
       \strng{authorfullhash}{40c1e7a8365e7ddf5ab0e2b5ec53db85}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Solar RRL}
@@ -1749,8 +2038,8 @@
       \strng{authorbibnamehash}{88abb09f30e9ace944c46c2457441cf2}
       \strng{authornamehash}{88abb09f30e9ace944c46c2457441cf2}
       \strng{authorfullhash}{88abb09f30e9ace944c46c2457441cf2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ABI/INFORM Global}

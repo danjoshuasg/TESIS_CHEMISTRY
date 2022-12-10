@@ -1440,12 +1440,6 @@ INPUT img\diagrama_tesis.pdf
 INPUT .\img\diagrama_tesis.pdf
 INPUT .\img\diagrama_tesis.pdf
 INPUT .\img\diagrama_tesis.pdf
-INPUT .\img\dye_scheme.pdf
-INPUT .\img\dye_scheme.pdf
-INPUT img\dye_scheme.pdf
-INPUT .\img\dye_scheme.pdf
-INPUT .\img\dye_scheme.pdf
-INPUT .\img\dye_scheme.pdf
 INPUT .\img\MetalOrganicDye.pdf
 INPUT .\img\MetalOrganicDye.pdf
 INPUT img\MetalOrganicDye.pdf
@@ -1455,6 +1449,8 @@ INPUT .\img\MetalOrganicDye.pdf
 INPUT .\img\dye_scheme.pdf
 INPUT .\img\dye_scheme.pdf
 INPUT img\dye_scheme.pdf
+INPUT .\img\dye_scheme.pdf
+INPUT .\img\dye_scheme.pdf
 INPUT .\img\dye_scheme.pdf
 INPUT .\img\Antocyanin.pdf
 INPUT .\img\Antocyanin.pdf

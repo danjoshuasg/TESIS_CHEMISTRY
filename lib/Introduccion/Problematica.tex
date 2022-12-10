@@ -93,22 +93,39 @@ Por otra parte, la  ecuación \ref{eqn:pce} describe a la eficiencia del potenci
     \label{eqn:pce}
 \end{equation}
 
-Teniendo en cuenta las formas de medir el desempeño de una celda solar, es evidente que el reto de mejorar estos dispositivos recaiga en gran parte en los materiales con los que son hechos. En especial por los tintes que son los responsables de 
+%%%%%%%%%%%%%%%%%%%%%% OPTIMIZACIÓN DE LAS CSPT  %%%%%%%%%%%%%%%%%%%%%% 
 
-\begin{figure}[h!]
-    \begin{center}
-        \includegraphics[scale=0.5]{img/dye_scheme.pdf}
-    \end{center}
-    \caption{Esquema de un tinte Fuente: https://doi.org/10.1002/anie.201204948}
-    \label{img:tinte}
-\end{figure}
+Si bien la eficiencia de las celda depende del rango de longitudes del espectro de absorción, la inyección electrónica y las reacciones redox, fenómenos que suceden en la interacción de los componentes de celda; el tinte juega un rol importante en estos. Es por ello que el presente trabajo se centrará en mejorarlos.
+
+No obstante, existen reacciones que merman el rendimiento, las cuales son: El decaimiento del estado excitado del tinte, la migración de electroles de la banda conductora del semiconductor al tinte o al electrolito, también conocidas como reacciones de retroceso y oscuras, respectivamente. 
+
+Teniendo en cuenta lo anterior, se infiere que la optimización de las celdas CSPT recae en contrarrestar al máximo dichas reacciones. Una manera de hacerlo es diseñando rutas para que la inyección electrónica y la regeneración del tinte por medio del electrolita sean más rápidas que el decaimiento del tinte excitado y las reacciones de retroceso, respectivamente. 
+
+
+
+%%%%%%%%%%%%%%%%%%%%% SOBRE LOS TINTES NATURALES %%%%%%%%%%%%%%%%%%%%%%%%
+
+Los tintes sensibilizantes ideales deben absorber un amplio rango de longitudes de onda, en especial cubrir la región visible y cercana al infrarrojo. Además de mostrar alta foto estabilidad, una absortividad molar grande y debe ser capaz de inyectar los electrones fotogenerados rápidamente desde su estado excitado a la banda de conducción del semiconductor. Esto se logra con un fuerte anclaje a la superficie del óxido conductor y con un potencial redox propicio que permita su rápida regeneración gracias al electrolito. No obstante, las celdas tienen un tiempo de vida a causa de los procesos de enfriamiento o \textit{quenching} y otros generados por el medio que degradan al tinte o al electrolito.
+
+(G. Calogero, A. Bartolotta, G. Di Marco, A. Di Carlo, F. Bonaccorso, Vegetablebased
+dye sensitized solar cells, Chem. Soc. Rev. 44 (2015) 3244e3294.)
+
+Hasta la fecha se han clasificado los tintes sensibilizantes en tres clases: Basados en complejos metálicos, en estructuras orgánicas libres de metales y de fuentes naturales.
+
+Aquellos basados en complejos metálicos tienen dos tipos de ligantes: De anclaje y auxiliares. Los ligantes de anclaje son responsables de absorber el tinte a la superficie del semiconductor. Por otro lado, los ligantes auxiliares permiten la modulación de las propiedades del complejo. Algunos tintes de este tipo son los derivados del bipiridil de rutenio como el N3, N719 y el N749 o tinte negro. A pesar que estos tintes tienen altas eficiencia de conversión ($\eta$), sus altos costos de fabricación, limitados coeficientes de extinción y potenciales efectos contaminantes derivados de los metales dificultan la sostenibilidad de las CSTP y por ende la investigación basada en estos materiales. 
+
+En segundo lugar, los tintes orgánicos libre de metales resuelven las limitaciones anteriormente mencionadas, ya que pueden ser diseñadas molecularmente a fin de tener propiedades que aumenten sus rendimientos. Generalmente, las estructuras de estos tintes se configuran químicamente en regiones donadoras y aceptoras de electrones, y puentes conjugados que unen y espacian dichas regiones ($D-\pi-A$). Las configuraciones donadoras de electrones pueden ser cumarinas, fenilaminas, indolinas, triarilaminas, carbazoles, entre otras. Mientras que las estructuras aceptoras pueden ser ácido cianoacrílico, rodaminas o piridinas. Por otra parte las configuraciones puentes pueden ser derivados de tiofenos, polienos o benzotiadiazoles. 
+
+En tercer lugar, la clase de tintes naturales son aquellos que se extraen de seres vivos, mayoritariamente de fuentes vegetales como frutas, flores, hojas, entre otras. Muchos de los pigmentos vegetales extraídos han sido investigados como sensibilizantes para CSTP y presentaron rendimientos fotovoltaicos significativos, en especial colorantes como derivados de clorofila, betalaínas, antocianicas, carotenoides, etc. \ref{tbl:dyesTypes}
+
+
 
 \begin{table}[h!]
     \centering
     \begin{tabular}{ | c | c | c | }
       \hline
       \begin{minipage}{.3\textwidth}
-        \includegraphics[width=37mm, height=42mm]{img/MetalOrganicDye.pdf}
+        \includegraphics[width=35mm, height=42mm]{img/MetalOrganicDye.pdf}
       \end{minipage}
       &
       %\begin{minipage}[t]{5cm}
@@ -125,43 +142,26 @@ Teniendo en cuenta las formas de medir el desempeño de una celda solar, es evid
       \\ \hline
       Metalorgánico & Libre de metales & Naturales \\ \hline
     \end{tabular}
-    \caption{my.Lboro Analysis}\label{tbl:myLboro}
+    \caption{Tipos de tintes para CSPT}\label{tbl:dyesTypes}
   \end{table}
 
-
-
-%%%%%%%%%%%%%%%%%%%%%% OPTIMIZACIÓN DE LAS CSPT  %%%%%%%%%%%%%%%%%%%%%% 
-
-No obstante, existen reacciones que merman el rendimiento, las cuales son: El decaimiento del estado excitado del tinte, la migración de electroles de la banda conductora del semiconductor al tinte o al electrolito, también conocidas como reacciones de retroceso y oscuras, respectivamente. 
-
-Teniendo en cuenta lo anterior, se infiere que la optimización de las celdas CSPT recae en contrarrestar al máximo dichas reacciones. Una manera de hacerlo es diseñando rutas para que la inyección electrónica y la regeneración del tinte por medio del electrolita sean más rápidas que el decaimiento del tinte excitado y las reacciones de retroceso, respectivamente. 
-
-%%%%%% Falta completar la optimización 
-Es claro que deben de validarse experimentalmente los resultados obtenidos por los métodos computacionales, pero estos pueden discriminar cientos de candidat
-
-
-%%%%%%%%%%%%%%%%%%%%% SOBRE LOS TINTES NATURALES %%%%%%%%%%%%%%%%%%%%%%%%
-
-Los tintes sensibilizantes ideales deben absorber un amplio rango de longitudes de onda, en especial cubrir la región visible y cercana al infrarrojo. Además de mostrar alta foto estabilidad, una absortividad molar grande y debe ser capaz de inyectar los electrones fotogenerados rápidamente desde su estado excitado a la banda de conducción del semiconductor. Esto se logra con un fuerte anclaje a la superficie del óxido conductor y con un potencial redox propicio que permita su rápida regeneración gracias al electrolito. No obstante, las celdas tienen un tiempo de vida a causa de los procesos de enfriamiento o \textit{quenching} y otros generados por el medio que degradan al tinte o al electrolito.
-
-(G. Calogero, A. Bartolotta, G. Di Marco, A. Di Carlo, F. Bonaccorso, Vegetablebased
-dye sensitized solar cells, Chem. Soc. Rev. 44 (2015) 3244e3294.)
-
-Hasta la fecha se han clasificado los tintes sensibilizantes en tres clases: Basados en complejos metálicos, en estructuras orgánicas libres de metales y de fuentes naturales.
-
-Aquellos basados en complejos metálicos tienen dos tipos de ligantes: De anclaje y auxiliares. Los ligantes de anclaje son responsables de absorber el tinte a la superficie del semiconductor. Por otro lado, los ligantes auxiliares permiten la modulación de las propiedades del complejo. Algunos tintes de este tipo son los derivados del bipiridil de rutenio como el N3, N719 y el N749 o tinte negro. A pesar que estos tintes tienen altas eficiencia de conversión ($\eta$), sus altos costos de fabricación, limitados coeficientes de extinción y potenciales efectos contaminantes derivados de los metales dificultan la sostenibilidad de las CSTP y por ende la investigación basada en estos materiales. 
-
-En segundo lugar, los tintes orgánicos libre de metales resuelven las limitaciones anteriormente mencionadas, ya que pueden ser diseñadas molecularmente a fin de tener propiedades que aumenten sus rendimientos. Generalmente, las estructuras de estos tintes se configuran químicamente en regiones donadoras y aceptoras de electrones, y puentes conjugados que unen y espacian dichas regiones ($D-\pi-A$). Las configuraciones donadoras de electrones pueden ser cumarinas, fenilaminas, indolinas, triarilaminas, carbazoles, entre otras. Mientras que las estructuras aceptoras pueden ser ácido cianoacrílico, rodaminas o piridinas. Por otra parte las configuraciones puentes pueden ser derivados de tiofenos, polienos o benzotiadiazoles. 
-
-En tercer lugar, la clase de tintes naturales son aquellos que se extraen de seres vivos, mayoritariamente de fuentes vegetales como frutas, flores, hojas, entre otras. Muchos de los pigmentos vegetales extraídos han sido investigados como sensibilizantes para CSTP y presentaron rendimientos fotovoltaicos significativos, en especial colorantes como derivados de clorofila, betalaínas, antocianicas, carotenoides, etc. 
 
 %%%%%%%%%%%%%%%%%%%%% INVESTIGACIÓN DIRIGIDA POR DATOS %%%%%%%%%%%%%%%%%%%%%%%%
 
 La investigación de tintes para CSTP de alto rendimiento puede realizarse por medio del camino clásico de ensayo y error guiado por intución química y por métodos computacionales que sirven para filtrar los candidatos con características estructurales y funcionales teóricamente óptimas. Ambos enfoques deben ir de la mano a fin de ahorrar recursos en la búsqueda de materiales y validar experimentalmente los materiales candidatos. Sin embargo, los recursos computacionales son limitados debido a la complejidad de los cálculos teóricos-computacionales en el diseño químico y el costo de las licencias de los softwares que los realizan.
 
-A fin de expandir el uso de modelos computacionales para el tamizaje de materiales, se han creado metodologías que aprovechan datos experimentales y computacionales para extraer y extrapolar información de los patrones hallados en dichos datos. Estas metodologías se engloban dentro de un enfoque llamado investigación dirigida por datos (\textit{Data-driven} del inglés) el cual surge de la creación de bases de datos y herramientas informáticas de acceso abierto para el análisis de datos e inteligencia artificial \cite{himanen2019data}. 
+A fin de expandir el uso de modelos computacionales para el tamizaje de materiales, se han creado metodologías que aprovechan datos experimentales y computacionales para extraer y extrapolar información en dichos datos. Estas metodologías se engloban dentro de un enfoque llamado investigación dirigida por datos (\textit{Data-driven} del inglés). La creación de este enfoque es consecuencia del desarrollo de hardware para el almacenamiento y procesamiento informáticas, y los movimientos \textit{Open-Source} de datos y software. Los cuales son los soportes de las bases de datos y herramientas informáticas para el procesamiento de datos. Una de estas herramientas, y es la que más presencia tiene en las investigaciones para el desarrollo de materiales, es el aprendizaje automático \cite{himanen2019data}. 
 
-El aprendizaje automático es un subcampo de la inteligencia artificial que estudia modelos computacionales que emulen procesos de aprendizaje basados en la experiencia. Esta experiencia se obtiene entrenando estos modelos con un volumen considerable datos que relacionan  Los algoritmos de aprendizaje automático se dividen en modelos de aprendizaje supervisado, no supervisado y por reforzamiento. 
+El aprendizaje automático es un subcampo de la inteligencia artificial que estudia modelos computacionales que emulen procesos de aprendizaje basados en la experiencia para resolver problemas. Esta experiencia se obtiene entrenándolos con un volumen considerable de datos. La manera de abordar un problema con algoritmos de aprendizaje automático depende de las tareas a resolver y el volumen de datos disponibles. Si las tareas consisten en predecir o clasificar valores numéricos y categóricos a partir del conocimiento de un conjunto de variables independientes y dependientes, se podrían usar algoritmos de aprendizaje supervisado; tales como las regresiones polinomiales, árboles de decisión o máquinas de soporte vectorial. En caso solo se conocieran las variables independientes, las tareas recaen en la identificación de asociaciones y para ello se usarían algortimos de aprendizaje no supervisado; como es el caso de modelos mixtos gausianos, K-medias o de \textit{clustering} jerárquico. 
+
+En el caso de los problemas en química, el volumen de datos puede variar según el nivel de complejidad de la problemática. 
+
+
+Estos modelos han sido usados en química para el descubrimiento de nuevos medicamentos \cite{vamathevan2019applications}, la síntesis orgánica \cite{maryasin2018machine}, las reacciones catalíticas \cite{kitchin2018machine}, el diseño de baterías \cite{liu2020machine}, supercapacitores \cite{zhu2018artificial} y también celdas solares \cite{mahmood2021machine}. 
+
+%%%%%%%%%%%%%%%%%%%%% INVESTIGACIÓN QSAR %%%%%%%%%%%%%%%%%%%%%%%%
+
+En las investigaciones de la aplicación del aprendizaje automático en las CSTP se hace uso de las relaciones cuantitativas estructura-propiedad de las moléculas (\textit{QSAR} del inglés) para predecir el rendimiento de la celda a partir de las características estructurales de los tintes. Los algoritmos utilizan las 
 
 
 
