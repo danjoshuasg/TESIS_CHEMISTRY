@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  9 DEC 2022 22:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  10 DEC 2022 20:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1244,7 +1244,7 @@ Package biblatex Info: ... file 'main.bbl' found.
  (C:\Users\danjo\TESIS_CHEMISTRY\build\main.bbl)
 Package biblatex Info: Reference section=0 on input line 85.
 Package biblatex Info: Reference segment=0 on input line 85.
-<img/logo_escudo.png, id=86, 93.34875pt x 124.21407pt>
+<img/logo_escudo.png, id=134, 93.34875pt x 124.21407pt>
 File: img/logo_escudo.png Graphic file (type png)
 <use img/logo_escudo.png>
 Package pdftex.def Info: img/logo_escudo.png  used on input line 90.
@@ -1279,38 +1279,34 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.111     \newpage
                    [1] [2] (lib/Introduccion/Problematica.tex
-<img/renovables.pdf, id=136, 708.6475pt x 330.23375pt>
+<img/renovables.pdf, id=197, 708.6475pt x 330.23375pt>
 File: img/renovables.pdf Graphic file (type pdf)
 <use img/renovables.pdf>
-Package pdftex.def Info: img/renovables.pdf  used on input line 11.
+Package pdftex.def Info: img/renovables.pdf  used on input line 13.
 (pdftex.def)             Requested size: 496.04988pt x 231.16203pt.
 
-Overfull \hbox (77.7962pt too wide) in paragraph at lines 11--12
+Overfull \hbox (77.7962pt too wide) in paragraph at lines 13--14
  [] 
  []
 
-[3 <./img/renovables.pdf>]
-<img/familia_celdas.pdf, id=188, 763.85374pt x 330.23375pt>
+[3 <./img/renovables.pdf>] [4]
+<img/familia_celdas.pdf, id=272, 763.85374pt x 330.23375pt>
 File: img/familia_celdas.pdf Graphic file (type pdf)
 <use img/familia_celdas.pdf>
-Package pdftex.def Info: img/familia_celdas.pdf  used on input line 35.
+Package pdftex.def Info: img/familia_celdas.pdf  used on input line 38.
 (pdftex.def)             Requested size: 458.31578pt x 198.14177pt.
 
-Overfull \hbox (40.0621pt too wide) in paragraph at lines 35--36
+Overfull \hbox (40.0621pt too wide) in paragraph at lines 38--39
  [] 
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[4]
-<img/emergentes.pdf, id=227, 725.71124pt x 330.23375pt>
+<img/emergentes.pdf, id=282, 725.71124pt x 330.23375pt>
 File: img/emergentes.pdf Graphic file (type pdf)
 <use img/emergentes.pdf>
-Package pdftex.def Info: img/emergentes.pdf  used on input line 48.
+Package pdftex.def Info: img/emergentes.pdf  used on input line 51.
 (pdftex.def)             Requested size: 435.4301pt x 198.14177pt.
 
-Overfull \hbox (17.17642pt too wide) in paragraph at lines 48--49
+Overfull \hbox (17.17642pt too wide) in paragraph at lines 51--52
  [] 
  []
 
@@ -1318,62 +1314,63 @@ Overfull \hbox (17.17642pt too wide) in paragraph at lines 48--49
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [5 <./img/familia_celdas.pdf>] [6 <./img/emergentes.pdf>]
-<img/diagrama_tesis.pdf, id=272, 598.15468pt x 846.0408pt>
+<img/diagrama_tesis.pdf, id=332, 598.15468pt x 846.0408pt>
 File: img/diagrama_tesis.pdf Graphic file (type pdf)
 <use img/diagrama_tesis.pdf>
-Package pdftex.def Info: img/diagrama_tesis.pdf  used on input line 73.
+Package pdftex.def Info: img/diagrama_tesis.pdf  used on input line 78.
 (pdftex.def)             Requested size: 418.25368pt x 307.80243pt.
- [7 <./img/diagrama_tesis.pdf>] [8]
-<img/MetalOrganicDye.pdf, id=324, 126.68329pt x 169.36021pt>
+ [7] [8 <./img/diagrama_tesis.pdf>]
+<img/MetalOrganicDye.pdf, id=384, 126.68329pt x 169.36021pt>
 File: img/MetalOrganicDye.pdf Graphic file (type pdf)
 <use img/MetalOrganicDye.pdf>
-Package pdftex.def Info: img/MetalOrganicDye.pdf  used on input line 128.
+Package pdftex.def Info: img/MetalOrganicDye.pdf  used on input line 139.
 (pdftex.def)             Requested size: 99.58577pt x 119.49974pt.
-<img/dye_scheme.pdf, id=325, 398.48875pt x 359.3425pt>
+<img/dye_scheme.pdf, id=385, 398.48875pt x 359.3425pt>
 File: img/dye_scheme.pdf Graphic file (type pdf)
 <use img/dye_scheme.pdf>
-Package pdftex.def Info: img/dye_scheme.pdf  used on input line 133.
+Package pdftex.def Info: img/dye_scheme.pdf  used on input line 144.
 (pdftex.def)             Requested size: 125.47597pt x 128.04176pt.
-<img/Antocyanin.pdf, id=326, 192.7727pt x 130.52263pt>
+<img/Antocyanin.pdf, id=386, 192.7727pt x 130.52263pt>
 File: img/Antocyanin.pdf Graphic file (type pdf)
 <use img/Antocyanin.pdf>
-Package pdftex.def Info: img/Antocyanin.pdf  used on input line 139.
+Package pdftex.def Info: img/Antocyanin.pdf  used on input line 150.
 (pdftex.def)             Requested size: 113.81432pt x 99.58856pt.
- [9 <./img/MetalOrganicDye.pdf> <./img/dye_scheme.pdf
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] [10 <./img/MetalOrganicDye.pdf> <./img/dye_scheme.pdf
 
 pdfTeX warning: pdflatex.exe (file ./img/dye_scheme.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./img/Antocyanin.pdf
 
 pdfTeX warning: pdflatex.exe (file ./img/Antocyanin.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<img/espacioquimico.png, id=373, 790.955pt x 572.1375pt>
+<img/espacioquimico.png, id=449, 790.955pt x 572.1375pt>
 File: img/espacioquimico.png Graphic file (type png)
 <use img/espacioquimico.png>
-Package pdftex.def Info: img/espacioquimico.png  used on input line 171.
+Package pdftex.def Info: img/espacioquimico.png  used on input line 182.
 (pdftex.def)             Requested size: 355.92647pt x 257.45949pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<img/etapas.png, id=374, 492.84125pt x 196.735pt>
+<img/etapas.png, id=450, 492.84125pt x 196.735pt>
 File: img/etapas.png Graphic file (type png)
 <use img/etapas.png>
-Package pdftex.def Info: img/etapas.png  used on input line 179.
+Package pdftex.def Info: img/etapas.png  used on input line 210.
 (pdftex.def)             Requested size: 344.98651pt x 137.71355pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (lib/Introduccion/Justificacion.tex) (lib/Introduccion/Antecedentes.tex) (lib/Metodologia/Metodologia.tex [10] [11 <./img/espacioquimico.png> <./img/etapas.png>]) [12]
-Overfull \hbox (39.93707pt too wide) in paragraph at lines 186--186
+) (lib/Introduccion/Justificacion.tex [11 <./img/espacioquimico.png>]) (lib/Introduccion/Antecedentes.tex) (lib/Metodologia/Metodologia.tex [12 <./img/etapas.png>]) [13]
+Overfull \hbox (39.93707pt too wide) in paragraph at lines 152--152
 []\OT1/cmr/m/n/10 Ritchie H, Ro-ser M y Ro-sa-do P. Energy. Our World in Da-ta  2020. https://ourworldindata.org/energy 
  []
 
 
-Overfull \hbox (1.84045pt too wide) in paragraph at lines 186--186
+Overfull \hbox (1.84045pt too wide) in paragraph at lines 152--152
 []\OT1/cmr/m/n/10 Sark Wv, Kor-te L y Ro-ca F. Introduction--Physics and Tech-no-logy of Amorphous-Crystalline
  []
 
-[13] [14] [15] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
+[14] [15] [16] (C:\Users\danjo\TESIS_CHEMISTRY\build\main.aux
 LaTeX Info: Redefining \sptext on input line 30.
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
@@ -1382,23 +1379,23 @@ LaTeX Info: Redefining \% on input line 30.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 1FF44D27756C1DCAC944470C5BFBE5E2;3749.
+(rerunfilecheck)             Checksum: 6E495329C9963916D5181132EE3C853C;6596.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49104 strings out of 478582
- 1133119 string characters out of 2855132
- 2194440 words of memory out of 3000000
- 66470 multiletter control sequences out of 15000+600000
- 478295 words of font info for 60 fonts, out of 8000000 for 9000
+ 49140 strings out of 478582
+ 1133877 string characters out of 2855132
+ 2194649 words of memory out of 3000000
+ 66490 multiletter control sequences out of 15000+600000
+ 478654 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,14n,103p,1688b,1924s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (16 pages, 727162 bytes).
+ <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (17 pages, 753565 bytes).
 PDF statistics:
- 510 PDF objects out of 1000 (max. 8388607)
- 94 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 587 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
+ 325 words of extra memory for PDF output out of 10000 (max. 10000000)
 

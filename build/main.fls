@@ -1409,12 +1409,12 @@ OUTPUT C:\Users\danjo\TESIS_CHEMISTRY\build\main.toc
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmti9.tfm
+INPUT .\lib\Introduccion\Problematica.tex
+INPUT lib\Introduccion\Problematica.tex
+INPUT .\lib\Introduccion\Problematica.tex
+INPUT lib\Introduccion\Problematica.tex
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\lib\Introduccion\Problematica.tex
-INPUT lib\Introduccion\Problematica.tex
-INPUT .\lib\Introduccion\Problematica.tex
-INPUT lib\Introduccion\Problematica.tex
 INPUT C:\Users\danjo\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT .\img\renovables.pdf
 INPUT .\img\renovables.pdf
@@ -1458,6 +1458,7 @@ INPUT img\Antocyanin.pdf
 INPUT .\img\Antocyanin.pdf
 INPUT .\img\Antocyanin.pdf
 INPUT .\img\Antocyanin.pdf
+INPUT C:\Users\danjo\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT .\img\espacioquimico.png
 INPUT .\img\espacioquimico.png
 INPUT img\espacioquimico.png
@@ -1498,6 +1499,8 @@ INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\danjo\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb

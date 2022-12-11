@@ -1972,6 +1972,89 @@
       \field{pages}{90\bibrangedash 105}
       \range{pages}{16}
     \endentry
+    \entry{li2015molecular}{article}{}
+      \name{author}{3}{}{%
+        {{hash=803b130e71b52d59a662a1fefd1fd090}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhenwei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=69c0678b46ebab9e1c7be69cb505a0da}{%
+           family={Kermode},
+           familyi={K\bibinitperiod},
+           given={James\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=20b688e92356db5190bec5780e4658a2}{%
+           family={De\bibnamedelima Vita},
+           familyi={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{98009b8a0aeb8b9aa47e5135edf32b5a}
+      \strng{fullhash}{98009b8a0aeb8b9aa47e5135edf32b5a}
+      \strng{bibnamehash}{98009b8a0aeb8b9aa47e5135edf32b5a}
+      \strng{authorbibnamehash}{98009b8a0aeb8b9aa47e5135edf32b5a}
+      \strng{authornamehash}{98009b8a0aeb8b9aa47e5135edf32b5a}
+      \strng{authorfullhash}{98009b8a0aeb8b9aa47e5135edf32b5a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical review letters}
+      \field{number}{9}
+      \field{title}{Molecular dynamics with on-the-fly machine learning of quantum-mechanical forces}
+      \field{volume}{114}
+      \field{year}{2015}
+      \field{pages}{096405}
+      \range{pages}{1}
+    \endentry
+    \entry{de2016comparing}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1a39c0b2f5565771333f64a9ceae23a2}{%
+           family={De},
+           familyi={D\bibinitperiod},
+           given={Sandip},
+           giveni={S\bibinitperiod}}}%
+        {{hash=59a4f3b5aaad7a270890b1d01422b0e3}{%
+           family={Bartók},
+           familyi={B\bibinitperiod},
+           given={Albert\bibnamedelima P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=aef6628a7e1ad935b99d3d3cf7e63e20}{%
+           family={Csányi},
+           familyi={C\bibinitperiod},
+           given={Gábor},
+           giveni={G\bibinitperiod}}}%
+        {{hash=272d29becb51e394d5ce737ecaf4c653}{%
+           family={Ceriotti},
+           familyi={C\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{dc4fb666b2576495de4e9c1f87149d06}
+      \strng{fullhash}{a0630a78d6c42dd173450e75ca7d980b}
+      \strng{bibnamehash}{a0630a78d6c42dd173450e75ca7d980b}
+      \strng{authorbibnamehash}{a0630a78d6c42dd173450e75ca7d980b}
+      \strng{authornamehash}{dc4fb666b2576495de4e9c1f87149d06}
+      \strng{authorfullhash}{a0630a78d6c42dd173450e75ca7d980b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Chemistry Chemical Physics}
+      \field{number}{20}
+      \field{title}{Comparing molecules and solids across structural and alchemical space}
+      \field{volume}{18}
+      \field{year}{2016}
+      \field{pages}{13754\bibrangedash 13769}
+      \range{pages}{16}
+    \endentry
     \entry{wen2020}{article}{}
       \name{author}{5}{}{%
         {{hash=6bb5da5b75fec4d1785f070f62af9f72}{%

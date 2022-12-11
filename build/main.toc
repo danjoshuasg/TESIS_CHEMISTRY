@@ -1,21 +1,33 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Problemática}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Justificación}{10}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Antecedentes}{10}{subsection.1.3}%
-\contentsline {section}{\numberline {2}Hipótesis de investigación y objetivos}{12}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Hipótesis de investigación}{12}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Objetivos}{12}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Materiales y métodos}{12}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Análisis estadístico}{12}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Pruebas de normalidad}{12}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Extracción de datos}{12}{subsubsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.3}Preprocesamiento de datos}{12}{subsubsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.4}Descubrimiento y análisis de características}{12}{subsubsection.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.1.5}Entrenamiento y evaluación del modelo 1}{12}{subsubsection.3.1.5}%
-\contentsline {subsubsection}{\numberline {3.1.6}Entrenamiento y evaluación del modelo 2}{12}{subsubsection.3.1.6}%
-\contentsline {subsubsection}{\numberline {3.1.7}Entrenamiento y evaluación del modelo 3}{12}{subsubsection.3.1.7}%
-\contentsline {subsubsection}{\numberline {3.1.8}Comparación de modelos}{12}{subsubsection.3.1.8}%
-\contentsline {section}{\numberline {4}Referencias bibliográficas}{12}{section.4}%
-\contentsline {section}{\numberline {5}Cronograma de trabajo}{15}{section.5}%
-\contentsline {section}{\numberline {6}Presupuesto y financiamiento}{15}{section.6}%
+\contentsline {subsection}{\numberline {1.1}Contexto}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Celdas solares}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Celdas solares sensibilizadas por tintes (CSPT)}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Medidas del rendimiento de CSPT}{7}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Optimización de las CSPT}{8}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Tintes para CSPT}{9}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Problemática de los tintes naturales para CSPT}{9}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Enfoque de investigación direccionado por datos o \textit {Data-Driven}}{9}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Aprendizaje automático aplicado a la química}{10}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Limitaciones del uso del aprendizaje automático en el desarrollo de materiales}{11}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Problemática}{11}{subsection.1.11}%
+\contentsline {subsection}{\numberline {1.12}Justificación}{12}{subsection.1.12}%
+\contentsline {subsection}{\numberline {1.13}Antecedentes}{12}{subsection.1.13}%
+\contentsline {subsubsection}{\numberline {1.13.1}Internacionales}{13}{subsubsection.1.13.1}%
+\contentsline {subsubsection}{\numberline {1.13.2}Nacionales}{13}{subsubsection.1.13.2}%
+\contentsline {section}{\numberline {2}Hipótesis de investigación y objetivos}{13}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Hipótesis de investigación}{13}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos}{13}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Materiales y métodos}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Análisis estadístico}{13}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Pruebas de normalidad}{13}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Extracción de datos}{13}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Preprocesamiento de datos}{13}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Descubrimiento y análisis de características}{13}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Entrenamiento y evaluación del modelo 1}{13}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Entrenamiento y evaluación del modelo 2}{13}{subsubsection.3.1.6}%
+\contentsline {subsubsection}{\numberline {3.1.7}Entrenamiento y evaluación del modelo 3}{13}{subsubsection.3.1.7}%
+\contentsline {subsubsection}{\numberline {3.1.8}Comparación de modelos}{13}{subsubsection.3.1.8}%
+\contentsline {section}{\numberline {4}Referencias bibliográficas}{13}{section.4}%
+\contentsline {section}{\numberline {5}Cronograma de trabajo}{16}{section.5}%
+\contentsline {section}{\numberline {6}Presupuesto y financiamiento}{16}{section.6}%
