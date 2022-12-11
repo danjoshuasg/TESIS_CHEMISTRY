@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  10 DEC 2022 20:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.5)  10 DEC 2022 22:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1339,22 +1339,27 @@ Package pdftex.def Info: img/Antocyanin.pdf  used on input line 150.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9] [10 <./img/MetalOrganicDye.pdf> <./img/dye_scheme.pdf
+[9]
+<img/espacioquimico.png, id=394, 790.955pt x 572.1375pt>
+File: img/espacioquimico.png Graphic file (type png)
+<use img/espacioquimico.png>
+Package pdftex.def Info: img/espacioquimico.png  used on input line 179.
+(pdftex.def)             Requested size: 355.92647pt x 257.45949pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./img/MetalOrganicDye.pdf> <./img/dye_scheme.pdf
 
 pdfTeX warning: pdflatex.exe (file ./img/dye_scheme.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./img/Antocyanin.pdf
 
 pdfTeX warning: pdflatex.exe (file ./img/Antocyanin.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<img/espacioquimico.png, id=449, 790.955pt x 572.1375pt>
-File: img/espacioquimico.png Graphic file (type png)
-<use img/espacioquimico.png>
-Package pdftex.def Info: img/espacioquimico.png  used on input line 182.
-(pdftex.def)             Requested size: 355.92647pt x 257.45949pt.
-<img/etapas.png, id=450, 492.84125pt x 196.735pt>
+<img/etapas.png, id=448, 492.84125pt x 196.735pt>
 File: img/etapas.png Graphic file (type png)
 <use img/etapas.png>
-Package pdftex.def Info: img/etapas.png  used on input line 210.
+Package pdftex.def Info: img/etapas.png  used on input line 217.
 (pdftex.def)             Requested size: 344.98651pt x 137.71355pt.
 
 
@@ -1387,13 +1392,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  49140 strings out of 478582
  1133877 string characters out of 2855132
- 2194649 words of memory out of 3000000
+ 2194668 words of memory out of 3000000
  66490 multiletter control sequences out of 15000+600000
  478654 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,14n,103p,1688b,1924s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\danjo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/danjo/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (17 pages, 753565 bytes).
+Output written on C:\Users\danjo\TESIS_CHEMISTRY\build\main.pdf (17 pages, 753345 bytes).
 PDF statistics:
  587 PDF objects out of 1000 (max. 8388607)
  109 named destinations out of 1000 (max. 500000)
